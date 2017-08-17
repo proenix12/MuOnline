@@ -1,0 +1,687 @@
+Kris
+Short Sword
+Rapier
+Katache
+Scimitar
+Blade
+Gladius
+Falchion
+Serpent Sword
+Sword of Salamander
+Light Saber
+Legendary Sword
+Heliacal Sword
+Double Blade
+Lighting Sword
+Giant Sword
+Sword of Destruction
+Dark Breaker
+Thunder Blade
+Knight Blade
+Dark Reign Blade
+Bone Blade
+Explosion Blade
+Daybreak
+Sword Dancer
+Flamberge
+Sword Bracker
+Imperial Sword
+Rune Blade
+Small Axe
+Hand Axe
+Double Axe
+Tomahawk
+Elven Axe
+Battle Axe
+Nikkea Axe
+Larkan Axe
+Crescent Axe
+Mace
+Morning Star
+Flail
+Great Hammer
+Crystal Morning Star
+Crystal Sword
+Chaos Dragon Axe
+Elemental Mace
+Battle Scepter
+Master Scepter
+Great Scepter
+Lord Scepter
+Great Lord Scepter
+Solay Scepter
+Shining Scepter
+Frost mace
+Absolute Scepter
+Stryker Scepter
+Light Spear
+Spear
+Dragon Lance
+Giant Trident
+Serpent Spear
+Double Poleaxe
+Halberd
+Berdysh
+Great Scythe
+Bill of Balrog
+Dragon Spear
+Beuroba
+Short Bow
+Bow
+Elven Bow
+Battle Bow
+Tiger Bow
+Silver Bow
+Chaos Nature Bow
+Bolt
+Crossbow
+Golden Crossbow
+Arquebus
+Light Crossbow
+Serpent Crossbow
+Bluewing Crossbow
+Aquagold Crossbow
+Arrows
+Saint Crossbow
+Celestial Bow
+Great Reign Crossbow
+Arrow Viper Bow
+Sylph Wind Bow
+Albatross Bow
+Stinger Bow
+Air Lyn Bow
+Skull Staff
+Angelic Staff
+Serpent Staff
+Thunder Staff
+Gorgon Staff
+Legendary Staff
+Staff of Resurrection
+Chaos Lighting Staff
+Staff of Destruction
+Dragon Soul Staff
+Staff of Kundun
+Grand Viper Staff
+Platina Staff
+Mistery Staff
+Violent Wind Staff
+Red Wing Staff
+Ancient Staff
+Black Rose Staff
+Aura Staff
+Lilium Staff
+Book of Sahamutt
+Book of Neil
+Book of Ghost Phantom
+Deadly Staff
+Imperial Staff
+Merlin Staff
+Chroma ticks staff
+Raven Stick
+Small Shield
+Horn Shield
+Kite Shield
+Elven Shield
+Buckler
+Dragon Slayer Shield
+Skull Shield
+Spiked Shield
+Tower Shield
+Iron Shield
+Big Round Shield
+Serpent Shield
+Bronze Shield
+Chaos Shield
+Legendary Shield
+Grand Soul Shield
+Elemental Shield
+CrimsonGlory
+Salamander Shield
+Frost Barrier
+Guardian Shiled
+Cross Shield
+Bronze Helm
+Dragon Helm
+Pad Helm
+Legendary Helm
+Bone Helm
+Leather Helm
+Scale Helm
+Sphinx Mask
+Brass Helm
+Plate Helm
+Vine Helm
+Silk Helm
+Wind Helm
+Spirit Helm
+Guardian Helm
+Black Dragon Helm
+Dark Phoenix Helm
+Grand Soul Helm
+Divine Helm
+Great Dragon Helm
+Dark Soul Helm
+Red Spirit Helm
+Light Plate Mask
+Adamantine Mask
+Dark Steel Mask
+Dark Master Mask
+Dragon Knight Helm
+Venom Mist Helm
+Sylphid Ray Helm
+Sunlight Mask
+Ashcrow Helm
+Eclipse Helm
+Iris Helm
+Glorious Mask
+Mistery Helm
+Red Wing Helm
+Ancient Helm
+Black Rose Helm
+Aura Helm
+Lilium Helm
+Titan Helm
+Brave Helm
+Seraphim Helm
+Faith Helm
+Paewang Mask
+Hades Helm
+Queen Helm
+Bronze Armor
+Dragon Armor
+Pad Armor
+Legendary Armor
+Bone Armor
+Leather Armor
+Scale Armor
+Sphinx Armor
+Brass Armor
+Plate Armor
+Vine Armor
+Silk Armor
+Wind Armor
+Spirit Armor
+Guardian Armor
+Storm Crow Armor
+Black Dragon Armor
+Dark Phoenix Armor
+Grand Soul Armor
+Divine Armor
+Thunder Hawk Armor
+Great Dragon Armor
+Dark Soul Armor
+Hurricane Armor
+Red Sprit Armor
+Light Plate Armor
+Adamantine Armor
+Dark Steel Armor
+Dark Master Armor
+Dragon Knight Armor
+Venom Mist Armor
+Sylphid Ray Armor
+Volcano Armor
+Sunlight Armor
+Ashcrow Armor
+Eclipse Armor
+Iris Armor
+Valiant Armor
+Glorious Armor
+Mistery Armor
+Red Wing Armor
+Ancient Armor
+Black Rose Armor
+Aura Armor
+Lilium Armor
+Titan Armor
+Brave Armor
+Destroy Armor
+Phantom Armor
+Seraphim Armor
+Faith Armor
+Paewang Armor
+Hades Armor
+Queen Armor
+Bronze Pants
+Dragon Pants
+Pad Pants
+Legendary Pants
+Bone Pants
+Leather Pants
+Scale Pants
+Sphinx Pants
+Brass Pants
+Plate Pants
+Vine Pants
+Silk Pants
+Wind Pants
+Spirit Pants
+Guardian Pants
+Storm Crow Pants
+Black Dragon Pants
+Dark Phoenix Pants
+Grand Soul Pants
+Divine Pants
+Thunder Hawk Pants
+Great Dragon Pants
+Dark Soul Pants
+Hurricane Pants
+Red Spirit Pants
+Light Plate Pants
+Adamantine Pants
+Dark Steel Pants
+Dark Master Pants
+Dragon Knight Pants
+Venom Mist Pants
+Sylphid Ray Pants
+Volcano Pants
+Sunlight Pants
+Ashcrow Pants
+Eclipse Pants
+Iris Pants
+Valiant Pants
+Glorious Pants
+Mistery Pants
+Red Wing Pants
+Ancient Pants
+Black Rose Pants
+Aura Pants
+Lilium Pants
+Titan Pants
+Brave Pants
+Destroy Pants
+Phantom Pants
+Seraphim Pants
+Faith Pants
+Paewang Pants
+Hades Pants
+Queen pants
+Bronze Gloves
+Dragon Gloves
+Pad Gloves
+Legendary Gloves
+Bone Gloves
+Leather Gloves
+Scale Gloves
+Sphinx Gloves
+Brass Gloves
+Plate Gloves
+Vine Gloves
+Silk Gloves
+Wind Gloves
+Spirit Gloves
+Guardian Gloves
+Storm Crow Gloves
+Black Dragon Gloves
+Dark Phoenix Gloves
+Grand Soul Gloves
+Divine Gloves
+Thunder Hawk Gloves
+Great Dragon Gloves
+Dark Soul Gloves
+Hurricane Gloves
+Red Spirit Gloves
+Light Plate Gloves
+Adamantine Gloves
+Dark Steel Gloves
+Dark Master Gloves
+Dragon Knight Gloves
+Venom Mist Gloves
+Sylphid Ray Gloves
+Volcano Gloves
+Sunlight Gloves
+Ashcrow Gloves
+Eclipse Gloves
+Iris Gloves
+Valiant Gloves
+Glorious Gloves
+Mistery Gloves
+Red Wing Gloves
+Ancient Gloves
+Black Rose Gloves
+Aura Gloves
+Lilium Gloves
+Titan Gloves
+Brave Gloves
+Destroy Gloves
+Phantom Gloves
+Seraphim Gloves
+Faith Gloves
+Paewang Gloves
+Hades Gloves
+Queen Gloves
+Bronze Boots
+Dragon Boots
+Pad Boots
+Legendary Boots
+Bone Boots
+Leather Boots
+Scale Boots
+Sphinx Boots
+Brass Boots
+Plate Boots
+Vine Boots
+Silk Boots
+Wind Boots
+Spirit Boots
+Guardian Boots
+Storm Crow Boots
+Black Dragon Boots
+Dark Phoenix Boots
+Grand Soul Boots
+Divine Boots
+Thunder Hawk Boots
+Great Dragon Boots
+Dark Soul Boots
+Hurricane Boots
+Red Spirit Boots
+Light Plate Boots
+Adamantine Boots
+Dark Steel Boots
+Dark Master Boots
+Dragon Knight Boots
+Venom Mist Boots
+Sylphid Ray Boots
+Volcano Boots
+Sunlight Boots
+Ashcrow Boots
+Eclipse Boots
+Iris Boots
+Valiant Boots
+Glorious Boots
+Mistery Boots
+Red Wing Boots
+Ancient Boots
+Black Rose Boots
+Aura Boots
+Lilium Boots
+Titan Boots
+Brave Boots
+Destroy Boots
+Phantom Boots
+Seraphim Boots
+Faith Boots
+Phaewang Boots
+Hades Boots
+Queen Boots
+Wings of Elf
+Wings of Heaven
+Wings of Satan
+Wings of Spirits
+Wings of Soul
+Wings of Dragon
+Wings of Darkness
+Orb of TwistingSlash
+Healing Orb
+Orb of GreaterDefense
+Orb of GreaterDamage
+Orb of Summoning
+Orb of RagefulBlow
+Orb of Impale
+Orb of GreaterFortitude
+Jewel of Chaos
+Orb of Fire Slash
+Orb of Penetration
+Orb of Ice Arrow
+Orb of Death Stab
+Scroll of FireBurst
+Scroll of Summon
+Scroll of CriticalDamage
+Scroll of ElectricSpark
+Red Ribbon Box
+Green Ribbon Box
+Blue Ribbon Box
+Scroll of FireScream
+Wing of Storm
+Wing of Vortex
+Wing of Illusion
+Wing of Doom
+Mantle of Monarch
+Wing of Mistery
+Wing of Despair
+Wing of Violent Wind
+Orb of Explosion
+Orb of Five Shot
+Orb of Reduce DmgShield
+Orb of Sword Slash
+Scroll Of Birds
+Wing of Mistery
+Seed of Fire
+Seed of Water
+Seed of Ice
+Seed of Wind
+Seed of Lightning
+Seed of Ground
+Guardian Angel
+Satan
+Horn of Unicorn
+Horn of Dinorant
+Dark Horse
+Dark Raven
+Ring of Ice
+Ring of Poison
+Ring of Transformation
+Pendant of Lightning
+Pendant of Fire
+Fruit
+Scroll of Archangel
+Blood Bone
+Cloak of Invisibility
+Ring of Wizardry
+Ring of Fire
+Ring of Earth
+Ring of Wind
+Ring of Magic
+Pendant of Ice
+Pendant of Wind
+Pendant of Water
+Pendant of Ability
+Armor of Guardman
+Cape of Lord
+Spirit
+Splinter of Armor
+Bless of Guardian
+Claw of Beast
+Piece of Horn
+Broken Horn
+Horn of Fenrir
+Moonstone Pendant
+Old Scroll
+Scroll of Blood
+Condor Flame
+Condor Feather
+Illusion Temple Ticket
+Seal of Healing
+Seal of Divinity
+Demon
+Spirit of Guardian
+Pet Rudolf
+Snowman Transformation Ring
+Talisman of Resurrection
+Talisman of Mobility
+Staff
+Scepter
+Stick
+Panda Ring
+Pet Panda
+Gladiator's Honor
+Seal of Strength
+Skeleton Transformation Ring
+Pet Skeleton
+Apple
+Small Healing Potion
+Healing Potion
+Large Healing Potion
+Small Mana Potion
+Mana Potion
+Large Mana Potion
+Siege Potion
+Antidote
+Alcohol
+Town Portal Scrool
+Box of Luck
+Cuore del drago
+Jewel of Bless
+Jewel of Soul
+Jewel of Life
+Devil Square Eye
+Devil Square Key
+Devil Square Invitation
+Remedy of Love
+Rena
+Jewel of Creation
+Scroll of the Emperor
+Broken Sword
+Tear of Elf
+Soul Shard of Wizard
+Gate per Kalima
+Symbol of Kundun
+Jewel of Guardian
+Pink Chocolate Box
+Red Chocolate Box
+Blue Chocolate Box
+Small SD Potion
+SD Potion
+Large SD Potion
+Small Complex Potion
+Complex Potion
+Large Complex Potion
+Gemstone
+Jewel of Harmony
+Lower Refining Stone
+Higher Refining Stone
+Chaos Card
+Green Chaos Box
+Red Chaos Box
+Purple Chaos Box
+Firecracker
+Cursed Castle Water
+Churchill Eyes
+Talisman of ChaosAssembly
+Scroll of Battle
+Scroll of Strength
+Lucky Coin
+Sign of Dimensions
+Mirror of Dimensions
+Silver Key
+Gold Key
+Sealed Golden Box
+Sealed Silver Box
+Golden Box
+Silver Box
+Scroll of Healing
+Shining Jewelry Case
+Elegant Jewelry Case
+Steel Jewelry Case
+Old Jewelry Case
+Scroll of Poison
+Scroll of Meteorite
+Scroll of Lightning
+Scroll of Fire Ball
+Scroll of Flame
+Scroll of Teleport
+Scroll of Ice
+Scroll of Twister
+Scroll of EvilSpirits
+Scroll of HellFire
+Scroll of PowerWave
+Scroll of AquaBeam
+Scroll of Blast
+Scroll of Inferno
+Scroll of MassTeleport
+Scroll of SoulBarrier
+Scroll of Decay
+Scroll of Ice Storm
+Scroll of Nova
+Scroll of DrainLife
+Scroll of ChainLighting
+Scroll of ElectricSurge
+Scroll of DamageReflex
+Scroll of Night
+Scroll of Sleep
+Scroll of MagicSpeedUp
+Scroll of MagicDefenseUp
+Scroll of Storm
+Scroll of MagicCircle
+Scroll of LigthingStorm
+Dark Knight
+Gorgon
+Hommerd
+Ice Monster
+Chief Skeleton Warrior
+Stone Golem
+Shadow
+Golden Budge Dragon
+Silver Valkyrie
+Golden Titan
+Death Beam Knight
+Elite Ogre
+Phantom Knight
+Golden Lizard King
+Chief Skeleton Warrior
+Red Skeleton Knight
+Chief Skeleton Archer
+Canon Trap
+Chief Skeleton Archer
+Red Skeleton Knight
+Dark Skull Soldier
+Statue of Saint
+Destructive ogre archer
+Red Skeleton Knight
+Rogue Centurion
+Soldier
+Illusion of Kundun
+Chaos Castle
+Necron
+Death Centurion
+Castle Gate Switch
+Slingshot defense
+Wandering Merchant Alex
+Messenger of Archangel
+Chaos Goblin
+Royal Guard Captain Lorence
+Safety Guardian
+Caren the Barmaid
+Weapons Merchant Zienna
+Potion Girl Amy
+Oracle Layla
+Rogue Centurion
+Hero Mutant
+Erohim
+Death Rider
+Chaos Card Master
+Angela the Supplier
+Natasha Firecracker Merchant
+Alliance Sacred Item Storage
+Illusion Sorcerer Spirit
+Werewolf Quarel
+Soram (Trainee Soldier)
+Polluted Butterfly
+Captain Grizzly
+Chief Skeleton Archer
+Red Skeleton Knight
+Cherry Blossom Spirit
+Santa Claus
+Resurrected Gladiator
+Ruthless Lava Giant
+Blood Assassin
+Golden Stone Golem
+Transformed Panda
+Combat Instructor
+Furious Slaughterer
+Doppelganger Elf
+Gens Vanert Steward
+Bloody Death Rider
+Dark Iron Knight
+Weapons Merchant Bolo
+Ubaid Devilfairy
+Cursed Darkness Tower
+Debenter Devilfairy
+Cursed Sellihoden
+Yellow Snake
+Private Store Bulletin Board
+Arca Barrier
+Summoned Satyros
+Ice Napin
+Kentauros Warrior
+Jeweler Raul
+Christine the Merchant

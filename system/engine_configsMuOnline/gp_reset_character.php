@@ -1,0 +1,29 @@
+<?php
+$mvcore['reset_reward'] = "10";
+$mvcore['reset_rew_cred'] = "1";
+$mvcore['reset_stats'] = "no";
+$mvcore['reset_level'] = "380";
+$mvcore['reset_bonus'] = "100";
+$mvcore['reset_zen'] = "0";
+$mvcore['reset_item_check'] = "no";
+$mvcore['reset_reward_active'] = "no";
+$mvcore['reset_ask_money'] = "yes";
+$mvcore['reset_ask_value'] = "5";
+$mvcore['reset_val_inc_opt'] = "on";
+$mvcore['reset_limit'] = "50";
+$mvcore['reset_lvl_inc'] = "off";
+$mvcore['reset_lvl_inc1_min_ress'] = "";
+$mvcore['reset_lvl_inc1_max_ress'] = "";
+$mvcore['reset_lvl_inc1_reset_level'] = "";
+$mvcore['reset_lvl_inc2_min_ress'] = "";
+$mvcore['reset_lvl_inc2_max_ress'] = "";
+$mvcore['reset_lvl_inc2_reset_level'] = "";
+$mvcore['reset_lvl_inc3_min_ress'] = "";
+$mvcore['reset_lvl_inc3_max_ress'] = "";
+$mvcore['reset_lvl_inc3_reset_level'] = "";
+$mvcore['reset_lvl_inc4_min_ress'] = "";
+$mvcore['reset_lvl_inc4_max_ress'] = "";
+$mvcore['reset_lvl_inc4_reset_level'] = "";
+$mvcore['clean_lupw_reset_stats'] = "no";
+$mvcore['reset_bonus_opt'] = "pereach";
+?>

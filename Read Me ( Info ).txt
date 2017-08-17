@@ -1,0 +1,6 @@
+To Reinstall/Install Website:
+
+1) Delete sql.php
+2) Enter Localhost
+3) Install Website.
+

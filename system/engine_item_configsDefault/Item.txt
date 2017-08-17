@@ -1,0 +1,1558 @@
+﻿//ID	Luck	Skill	X	Y	AdOpt.	Level	ON/OFF	Item Name		Cost	BuyWithZen	BuyWithCredits	BuyWithGoldCredits 	Dur	Refi	SkCount	Harmony	EquipLvl	DW/SM   DK/BK   FE/ME  MG/DM   DL/LE   S/BS	RF	GL
+0
+//Season 1+
+0	1	0	1	2	1	15	1	"Kris"			6	0		1		1			20	0	0	1	0		1	1	1	1	1	1	1	1
+1	1	0	1	3	1	15	1	"Short Sword"		3	0		1		1			22	0	0	1	0		1	1	1	1	1	1	1	1
+2	1	0	1	3	1	15	1	"Rapier"		9	0		1		1			23	0	0	1	0		0	1	1	1	1	1	0	1
+3	1	20	1	3	1	15	1	"Katana"		16	0		1		1			27	0	0	1	0		0	1	0	1	1	0	0	0
+4	1	21	1	3	1	15	1	"Sword of Assassin"	12	0		1		1			24	0	0	1	0		0	1	0	1	1	0	0	0
+5	1	22	1	3	1	15	1	"Blade"			36	0		1		1			39	0	0	1	0		1	1	1	1	1	0	0	0
+6	1	20	1	3	1	15	1	"Gladius"		20	0		1		1			30	0	0	1	0		0	1	1	1	1	0	0	0
+7	1	21	1	3	1	15	1	"Falchion"		24	0		1		1			34	0	0	1	0		0	1	0	1	1	0	0	0
+8	1	21	1	3	1	15	1	"Serpent Sword"		30	0		1		1			36	0	0	1	0		0	1	0	1	1	0	0	0
+9	1	20	2	3	1	15	1	"Sword of Salamander"	32	0		1		1			40	0	0	1	0		0	1	0	1	0	0	0	0
+10	1	22	2	4	1	15	1	"Light Saber"		40	0		1		1			50	0	0	1	0		0	1	1	1	0	0	0	0
+11	1	20	2	3	1	15	1	"Legendary Sword"	44	0		1		1			54	0	0	1	0		0	1	0	1	0	0	0	0
+12	1	19	2	3	1	15	1	"Heliacal Sword"	56	0		1		1			66	0	0	1	0		0	1	0	1	0	0	0	0
+13	1	22	1	3	1	15	1	"Double Blade"		48	0		1		1			43	0	0	1	0		0	1	1	1	0	0	0	0
+14	1	22	1	3	1	15	1	"Lighting Sword"	59	0		1		1			50	0	0	1	0		0	1	1	1	0	0	0	0
+15	1	23	2	3	1	15	1	"Giant Sword"		52	0		1		1			60	0	0	1	0		0	1	0	1	0	0	0	0
+16	1	22	1	4	1	15	1	"Sword of Destruction"	82	0		1		1			84	0	0	1	0		0	1	0	1	0	0	0	0
+17	1	23	2	4	1	15	1	"Dark Breaker"		104	0		1		1			89	0	0	1	0		0	2	0	0	0	0	0	0
+18	1	23	2	3	1	15	1	"Thunder Blade"		105	0		1		1			86	0	0	1	0		0	0	0	1	0	0	0	0
+19	1	22	1	4	1	15	1	"Divine Sword of AA"	86	0		1		1			168	0	0	1	0		0	1	0	1	1	0	0	0
+20	1	22	1	4	1	15	1	"Knight Blade"		140	0		1		1			90	0	0	1	0		0	2	0	0	0	0	0	0
+21	1	56	2	4	1	15	1	"Dark Reign Blade"	140	0		1		1			100	0	0	1	0		0	0	0	1	0	0	0	0
+//Season 3+
+22	1	22	1	4	1	15	1	"Bone Blade"		147	0		1		1			95	1	0	1	380		0	2	0	0	0	0	0	0
+23	1	56	2	4	1	15	1	"Explosion Blade"	147	0		1		1			110	1	0	1	380		0	0	0	1	0	0	0	0
+24	1	22	1	4	1	15	1	"Daybreak"		115	0		1		1			90	0	0	1	0		0	2	0	0	0	0	0	0
+25	1	56	2	4	1	15	1	"Sword Dancer"		115	0		1		1			90	0	0	1	0		0	0	0	1	0	0	0	0
+31	1	56	2	4	1	15	1	"Rune Blade"		100	0		1		1			93	0	0	1	0		0	0	0	1	0	0	0	0
+//Season 4+
+26	1	22	1	4	1	15	1	"Flameberge"		137	0		1		1			90	0	5	0	400		0	2	0	0	0	0	0	0
+27	1	22	1	4	1	15	1	"Sword Breaker"		133	0		1		1			90	0	5	0	400		0	2	0	0	0	0	0	0
+28	1	56	1	4	1	15	1	"Rune Bastard Sword"	139	0		1		1			90	0	5	0	400		0	0	0	1	0	0	0	0
+//Season 6+
+32	1	260	1	2	1	15	1	"Sacred Glove"		112	0		1		1			65	0	0	1	0		0	0	0	0	0	0	1	0
+33	1	261	1	2	1	15	1	"Holly Storm Claws"	122	0		1		1			77	0	0	1	0		0	0	0	0	0	0	1	0
+34	1	260	1	2	1	15	1	"Piercing Glove"	105	0		1		1			86	0	0	1	0		0	0	0	0	0	0	1	0
+35	1	270	1	2	1	15	1	"Phoenix Soul Star"	147	0		1		1			98	0	0	1	0		0	0	0	0	0	0	1	0
+//Season 8+
+29	1	22	1	4	1	15	1	"Sonic Blade"		149	0		1		1			80	0	5	0	400		0	3	0	0	0	0	0	0
+30	1	56	1	4	1	15	1	"Asura"			149	0		1		1			90	0	5	0	400		0	0	0	3	0	0	0	0
+36	1	22	1	4	1	15	1	"Cyclone Sword"		149	0		1		1			90	0	5	0	400		0	3	0	0	0	0	0	0
+37	1	23	2	4	1	15	1	"Blast Break"		149	0		1		1			130	0	5	0	400		0	3	0	3	0	0	0	0
+41	0	0	2	2	0	0	1	"Pandora Pick"		143	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+EndOfCat
+
+
+
+//ID	Luck	Skill	X	Y	AdOpt.	Level	ON/OFF	Item Name		Cost	BuyWithZen	BuyWithCredits	BuyWithGoldCredits 	Dur	Refi	SkCount	Harmony	EquipLvl	DW/SM   DK/BK   FE/ME  MG/DM   DL/LE   S/BS	RF	GL
+1
+//Season 1+
+0	1	0	1	3	1	15	1	"Small Axe"		2	0		1		1			18	0	0	1	0		1	1	1	1	1	1	1	1
+1	1	0	1	3	1	15	1	"Hand Axe"		4	0		1		1			20	0	0	1	0		1	1	1	1	1	1	1	1
+2	1	19	1	3	1	15	1	"Double Axe"		14	0		1		1			26	0	0	1	0		0	1	0	1	1	0	0	0
+3	1	19	1	3	1	15	1	"Tomahawk"		18	0		1		1			28	0	0	1	0		0	1	0	1	1	0	1	0
+4	1	0	1	3	1	15	1	"Elven Axe"		26	0		1		1			32	0	0	1	0		1	0	1	1	0	1	0	0
+5	1	19	2	3	1	15	1	"Battle Axe"		30	0		1		1			36	0	0	1	0		0	1	1	1	0	0	0	0
+6	1	19	2	3	1	15	1	"Nikea Axe"		34	0		1		1			44	0	0	1	0		0	1	1	1	0	0	0	0
+7	1	19	2	3	1	15	1	"Larkan Axe"		46	0		1		1			55	0	0	1	0		0	1	0	1	0	0	0	0
+8	1	19	2	3	1	15	1	"Crescent Axe"		54	0		1		1			65	0	0	1	0		1	1	0	1	0	0	0	0
+EndOfCat
+
+
+
+//ID	Luck	Skill	X	Y	AdOpt.	Level	ON/OFF	Item Name		Cost	BuyWithZen	BuyWithCredits	BuyWithGoldCredits 	Dur	Refi	SkCount	Harmony	EquipLvl	DW/SM   DK/BK   FE/ME  MG/DM   DL/LE   S/BS	RF	GL
+2
+//Season 1+
+0	1	0	1	3	1	15	1	"Mace"			7	0		1		1			21	0	0	1	0		0	1	0	1	1	0	1	0
+1	1	19	1	3	1	15	1	"Morning Star"		13	0		1		1			25	0	0	1	0		0	1	0	1	1	0	1	0
+2	1	0	1	3	1	15	1	"Flail"			22	0		1		1			32	0	0	1	0		0	1	0	1	1	0	1	0
+3	1	19	2	3	1	15	1	"Great Hammer"		38	0		1		1			50	0	0	1	0		0	1	0	1	0	0	1	0
+4	1	19	2	3	1	15	1	"Crystal Morning Star"	66	0		1		1			72	0	0	1	0		1	1	1	1	0	0	1	0
+5	1	23	2	4	1	15	1	"Crystal Sword"		72	0		1		1			76	0	0	1	0		1	1	1	1	0	0	0	0
+6	1	23	2	4	1	15	1	"Chaos Dragon Axe"	75	0		1		1			80	0	0	1	0		0	1	0	1	0	0	0	0
+7	1	0	1	3	1	15	1	"Elemental Mace"	90	0		1		1			50	0	0	1	0		0	0	2	0	0	0	0	0
+8	1	66	1	3	1	15	1	"Battle Scepter"	54	0		1		1			40	0	0	1	0		0	0	0	0	1	0	0	0
+9	1	66	1	3	1	15	1	"Master Scepter"	72	0		1		1			45	0	0	1	0		0	0	0	0	1	0	0	0
+10	1	66	1	4	1	15	1	"Great Scepter"		82	0		1		1			65	0	0	1	0		0	0	0	0	1	0	0	0
+11	1	66	1	4	1	15	1	"Lord Scepter"		98	0		1		1			72	0	0	1	0		0	0	0	0	1	0	0	0
+12	1	66	1	4	1	15	1	"Great Lord Scepter"	140	0		1		1			84	0	0	1	0		0	0	0	0	1	0	0	0
+13	1	66	1	4	1	15	1	"Divine Scepter of AA"	150	0		1		1			90	0	0	1	0		0	0	0	0	1	0	0	0
+//Season 2+
+14	1	66	1	4	1	15	1	"Soleil Sceptor"	146	0		1		1			95	1	0	1	380		0	0	0	0	1	0	0	0
+15	1	66	1	4	1	15	1	"Shining Scepter"	110	0		1		1			78	0	0	1	0		0	0	0	0	1	0	0	0
+//Season 4+
+16	1	0	1	3	1	15	1	"Frost Mace"		121	0		1		1			80	0	5	0	400		0	0	2	0	0	0	0	0
+17	1	66	1	4	1	15	1	"Absolute Scepter"	135	0		1		1			90	0	5	0	400		0	0	0	0	1	0	0	0
+18	1	66	1	4	1	15	1	"Striker Scepter"	147	0		1		1			86	0	0	1	0		0	0	0	0	1	0	0	0
+//Season 8+
+19	1	66	1	4	1	15	1	"Thunderbolt"		149	0		1		1			78	0	5	0	400		0	0	0	0	3	0	0	0
+20	1	19	2	4	1	15	1	"Horn of Steel"		149	0		1		1			120	0	5	0	400		0	3	0	0	0	0	0	0
+EndOfCat
+
+
+
+//ID	Luck	Skill	X	Y	AdOpt.	Level	ON/OFF	Item Name		Cost	BuyWithZen	BuyWithCredits	BuyWithGoldCredits 	Dur	Refi	SkCount	Harmony	EquipLvl	DW/SM   DK/BK   FE/ME  MG/DM   DL/LE   S/BS	RF	GL
+3
+//Season 1+
+0	1	22	2	4	1	15	1	"Light Spear"		42	0		1		1			56	0	0	1	0		0	1	1	1	0	0	0	0
+1	1	0	2	4	1	15	1	"Spear"			23	0		1		1			42	0	0	1	0		0	1	1	1	0	0	0	0
+2	1	0	2	4	1	15	1	"Dragon Lance"		15	0		1		1			34	0	0	1	0		0	1	1	1	0	0	0	0
+3	1	0	2	4	1	15	1	"Giant Trident"		29	0		1		1			44	0	0	1	0		0	1	1	1	0	0	0	0
+4	1	20	2	4	1	15	1	"Serpent Spear"		46	0		1		1			20	0	0	1	0		0	1	1	1	0	0	0	0
+5	1	0	2	4	1	15	1	"Double Poleaxe"	13	0		1		1			30	0	0	1	0		0	1	1	1	0	0	0	0
+6	1	0	2	4	1	15	1	"Halberd"		19	0		1		1			30	0	0	1	0		0	1	1	1	0	0	0	0
+7	1	22	2	4	1	15	1	"Berdysh"		37	0		1		1			30	0	0	1	0		0	1	1	1	0	0	0	0
+8	1	22	2	4	1	15	1	"Great Scythe"		54	0		1		1			25	0	0	1	0		0	1	1	1	0	0	0	0
+9	1	22	2	4	1	15	1	"Bill of Balrog"	63	0		1		1			25	0	0	1	0		0	1	1	1	0	0	0	0
+10	1	22	2	4	1	15	1	"Dragon Spear"		92	0		1		1			35	0	0	1	0		0	2	0	0	0	0	0	0
+//Season 4+
+11	1	22	2	4	1	15	1	"Brova"			146	0		1		1			40	0	0	1	0		0	2	0	1	0	0	0	0
+//Season 8+
+12	1	20	2	4	1	15	1	"Magma Spear"		148	0		1		1			35	0	5	0	400		0	3	0	0	0	0	0	0
+//Season 10+
+13	1	20	1	4	1	15	1	"Lapid Lance"		148	0		1		1			34	0	0	1	0		0	0	0	0	0	0	0	1
+14	1	20	1	4	1	15	1	"Conmocion Lance"	149	0		1		1			58	0	0	1	0		0	0	0	0	0	0	0	1
+15	1	20	1	4	1	15	1	"Pluma Lance"		152	0		1		1			74	0	0	1	0		0	0	0	0	0	0	0	1
+16	1	20	1	4	1	15	1	"Vis Lance"		142	0		1		1			75	0	0	1	0		0	0	0	0	0	0	0	1
+17	1	20	1	4	1	15	1	"Prickle Lance"		154	0		1		1			31	0	0	1	0		0	0	0	0	0	0	0	1
+18	1	20	1	4	1	15	1	"Alacran Lance"		150	0		1		1			61	0	0	1	0		0	0	0	0	0	0	0	1
+EndOfCat
+
+
+
+//ID	Luck	Skill	X	Y	AdOpt.	Level	ON/OFF	Item Name		Cost	BuyWithZen	BuyWithCredits	BuyWithGoldCredits 	Dur	Refi	SkCount	Harmony	EquipLvl	DW/SM   DK/BK   FE/ME  MG/DM   DL/LE   S/BS	RF	GL
+4
+//Season 1+
+0	1	24	2	3	1	15	1	"Short Bow"		2	0		1		1			20	0	0	1	0		0	0	1	0	0	0	0	0
+1	1	24	2	3	1	15	1	"Bow"			8	0		1		1			24	0	0	1	0		0	0	1	0	0	0	0	0
+2	1	24	2	3	1	15	1	"Elven Bow"		16	0		1		1			28	0	0	1	0		0	0	1	0	0	0	0	0
+3	1	24	2	3	1	15	1	"Battle Bow"		26	0		1		1			36	0	0	1	0		0	0	1	0	0	0	0	0
+4	1	24	2	4	1	15	1	"Tiger Bow"		40	0		1		1			43	0	0	1	0		0	0	1	0	0	0	0	0
+5	1	24	2	4	1	15	1	"Silver Bow"		56	0		1		1			48	0	0	1	0		0	0	1	0	0	0	0	0
+6	1	24	2	4	1	15	1	"Chaos Nature Bow"	75	0		1		1			68	0	0	1	0		0	0	1	0	0	0	0	0
+7	1	0	1	1	1	0	0	"Bolt"			10	0		1		1			255	0	0	1	0		0	0	1	0	0	0	0	0
+8	1	24	2	2	1	15	1	"Crossbow"		14	0		1		1			22	0	0	1	0		0	0	1	0	0	0	0	0
+9	1	24	2	2	1	15	1	"Golden Crossbow"	12	0		1		1			26	0	0	1	0		0	0	1	0	0	0	0	0
+10	1	24	2	2	1	15	1	"Arquebus"		20	0		1		1			31	0	0	1	0		0	0	1	0	0	0	0	0
+11	1	24	2	3	1	15	1	"Light Crossbow"	32	0		1		1			40	0	0	1	0		0	0	1	0	0	0	0	0
+12	1	24	2	3	1	15	1	"Serpent Crossbow"	48	0		1		1			45	0	0	1	0		0	0	1	0	0	0	0	0
+13	1	24	2	3	1	15	1	"Bluewing Crossbow"	68	0		1		1			56	0	0	1	0		0	0	1	0	0	0	0	0
+14	1	24	2	3	1	15	1	"Aquagold Crossbow"	72	0		1		1			60	0	0	1	0		0	0	1	0	0	0	0	0
+15	1	0	1	1	1	0	0	"Arrow"			10	0		1		1			255	0	0	1	0		0	0	1	0	0	0	0	0
+16	1	24	2	4	1	15	1	"Saint Crossbow"	84	0		1		1			72	0	0	1	0		0	0	1	0	0	0	0	0
+17	1	24	2	4	1	15	1	"Celestial Bow"		92	0		1		1			76	0	0	1	0		0	0	2	0	0	0	0	0
+18	1	24	2	3	1	15	1	"Divine Crossbow of AA"	100	0		1		1			200	0	0	1	0		0	0	1	0	0	0	0	0
+19	1	24	2	3	1	15	1	"Great Reign Crossbow"	100	0		1		1			80	0	0	1	0		0	0	2	0	0	0	0	0
+20	1	24	2	4	1	15	1	"Arrow Viper Bow"	135	0		1		1			86	0	0	1	0		0	0	2	0	0	0	0	0
+//Season 2+
+21	1	24	2	4	1	15	1	"Sylph Wind Bow"	147	0		1		1			93	1	0	1	380		0	0	2	0	0	0	0	0
+22	1	24	2	4	1	15	1	"Albatross Bow"		110	0		1		1			70	0	0	1	0		0	0	2	0	0	0	0	0
+//Season 4+
+23	1	24	2	4	1	15	1	"Dark Stinger"		134	0		1		1			80	0	5	0	400		0	0	2	0	0	0	0	0
+24	1	24	2	4	1	15	1	"Aileen Bowr"		147	0		1		1			88	0	0	1	0		0	0	2	0	0	0	0	0
+//Season 8+
+25	1	24	2	4	1	15	1	"Angelic Bow"		149	0		1		1			70	0	5	0	400		0	0	3	0	0	0	0	0
+26	1	24	2	3	1	15	1	"Devil Crossbow"	149	0		1		1			90	0	5	0	400		0	0	3	0	0	0	0	0
+EndOfCat
+
+
+
+//ID	Luck	Skill	X	Y	AdOpt.	Level	ON/OFF	Item Name		Cost	BuyWithZen	BuyWithCredits	BuyWithGoldCredits 	Dur	Refi	SkCount	Harmony	EquipLvl	DW/SM   DK/BK   FE/ME  MG/DM   DL/LE   S/BS	RF	GL
+5
+//Season 1+
+0	1	0	1	3	1	15	1	"Skull Staff"		6	0		1		1			20	0	0	1	0		1	0	0	1	0	1	0
+1	1	0	2	3	1	15	1	"Angelic Staff"		18	0		1		1			38	0	0	1	0		1	0	0	1	0	0	0
+2	1	0	2	3	1	15	1	"Serpent Staff"		30	0		1		1			50	0	0	1	0		1	0	0	1	0	0	0
+3	1	0	2	4	1	15	1	"Thunder Staff"		42	0		1		1			60	0	0	1	0		1	0	0	1	0	0	0
+4	1	0	2	4	1	15	1	"Gorgon Staff"		52	0		1		1			65	0	0	1	0		1	0	0	1	0	0	0
+5	1	0	1	4	1	15	1	"Legendary Staff"	59	0		1		1			66	0	0	1	0		1	0	0	1	0	0	0
+6	1	0	1	4	1	15	1	"Staff of Resurrection"	70	0		1		1			70	0	0	1	0		1	0	0	1	0	0	0
+7	1	0	2	4	1	15	1	"Chaos Lighting Staff"	75	0		1		1			70	0	0	1	0		1	0	0	1	0	0	0
+8	1	0	2	4	1	15	1	"Staff of Destruction"	90	0		1		1			85	0	0	1	0		1	0	0	1	0	0	0
+9	1	0	1	4	1	15	1	"Dragon Soul Staff"	100	0		1		1			91	0	0	1	0		2	0	0	0	0	0	0
+10	1	0	1	4	1	15	1	"Staff of Archangel"	104	0		1		1			182	0	0	1	0		1	0	0	1	0	0	0
+11	1	0	1	4	1	15	1	"Staff of Kundun"	140	0		1		1			95	0	0	1	0		2	0	0	1	0	0	0
+//Season 2+
+12	1	0	1	4	1	15	1	"Grand Viper Staff"	147	0		1		1			100	1	0	1	380		2	0	0	0	0	0	0
+13	1	0	1	4	1	15	1	"Platina Staff"		110	0		1		1			78	0	0	1	0		2	0	0	0	0	0	0
+//Season 4+
+14	1	0	1	4	1	15	1	"Mystery Stick"		28	0		1		1			50	0	0	1	0		0	0	0	0	0	1	0
+15	1	0	1	4	1	15	1	"Violent Wind Stick"	42	0		1		1			60	0	0	1	0		0	0	0	0	0	1	0
+16	1	0	1	4	1	15	1	"Red Wing Stick"	59	0		1		1			65	0	0	1	0		0	0	0	0	0	1	0
+17	1	0	1	4	1	15	1	"Ancient Stick"		78	0		1		1			81	0	0	1	0		0	0	0	0	0	1	0
+18	1	0	1	4	1	15	1	"Demonic Stick"		100	0		1		1			91	0	0	1	0		0	0	0	0	0	2	0
+19	1	0	1	4	1	15	1	"Storm Blitz Stick"	110	0		1		1			95	1	0	1	380		0	0	0	0	0	2	0
+20	1	0	1	4	1	15	1	"Eternal Wing Stick"	147	0		1		1			100	0	5	0	400		0	0	0	0	0	2	0
+21	1	223	1	2	1	15	1	"Book of Samut"		52	0		1		1			60	0	0	1	0		0	0	0	0	0	1	0
+22	1	224	1	2	1	15	1	"Book of Neil"		59	0		1		1			65	0	0	1	0		0	0	0	0	0	1	0
+23	1	225	1	2	1	15	1	"Book of Lagle"		65	0		1		1			50	0	0	1	0		0	0	0	0	0	1	0
+30	1	0	1	4	1	15	1	"Deadly Staff"		138	0		1		1			91	0	5	0	400		0	0	0	1	0	0	0
+31	1	0	1	4	1	15	1	"Inberial Staff"	137	0		1		1			182	0	5	0	400		2	0	0	0	0	0	0
+32	1	0	1	4	1	15	1	"Summon Spirit Stick"	149	0		1		1			130	0	5	0	400		0	0	0	0	0	3	0
+33	1	0	1	4	1	15	1	"Chromatic Staff"	147	0		1		1			78	0	0	1	0		2	0	0	1	0	0	0
+35	1	0	1	4	1	15	1	"Miracle Staff"		149	0		1		1			80	0	5	0	400		3	0	0	3	0	0	0
+34	1	0	1	4	1	15	1	"Raven Stick"		147	0		1		1			98	0	0	1	0		0	0	0	0	0	2	0
+//Season 6+
+36	1	0	1	4	1	15	1	"Divine Stick of AA"	104	0		1		1			182	0	0	1	0		0	0	0	0	0	1	0	
+//Season 8+
+37	1	0	2	4	1	15	1	"Spite Staff"		149	0		1		1			110	0	5	0	400		3	0	0	3	0	0	0
+EndOfCat
+
+
+
+//ID	Luck	Skill	X	Y	AdOpt.	Level	ON/OFF	Item Name		Cost	BuyWithZen	BuyWithCredits	BuyWithGoldCredits 	Dur	Refi	SkCount	Harmony	EquipLvl	DW/SM   DK/BK   FE/ME  MG/DM   DL/LE   S/BS	RF	GL
+6
+//Season 1+
+0	1	0	2	2	1	15	1	"Small Shield"		3	0		1		1			22	0	0	1	0		1	1	1	1	1	0	0	1
+1	1	0	2	2	1	15	1	"Horn Shield"		9	0		1		1			28	0	0	1	0		0	1	0	1	1	0	0	1
+2	1	0	2	2	1	15	1	"Kite Shield"		12	0		1		1			32	0	0	1	0		0	1	0	1	1	0	0	1
+3	1	0	2	2	1	15	1	"Elven Shield"		21	0		1		1			36	0	0	1	0		0	0	1	0	0	0	0	0
+4	1	18	2	2	1	15	1	"Buckler"		6	0		1		1			24	0	0	1	0		1	1	1	1	1	0	0	1
+5	1	18	2	2	1	15	1	"Dragon Slayer Shield"	35	0		1		1			44	0	0	1	0		0	1	0	1	1	0	0	1
+6	1	18	2	2	1	15	1	"Skull Shield"		15	0		1		1			34	0	0	1	0		1	1	1	1	1	0	0	0
+7	1	18	2	2	1	15	1	"Spiked Shield"		30	0		1		1			40	0	0	1	0		0	1	0	1	1	0	0	0
+8	1	18	2	2	1	15	1	"Tower Shield"		40	0		1		1			46	0	0	1	0		0	1	1	1	1	0	0	0
+9	1	18	2	2	1	15	1	"Plate Shield"		25	0		1		1			38	0	0	1	0		0	1	0	1	1	0	0	0
+10	1	18	2	2	1	15	1	"Large Round Shield"	18	0		1		1			35	0	0	1	0		0	1	0	1	1	0	0	0
+11	1	18	2	2	1	15	1	"Serpent Shield"	45	0		1		1			48	0	0	1	0		0	1	1	1	1	0	0	0
+12	1	18	2	2	1	15	1	"Bronze Shield"		54	0		1		1			52	0	0	1	0		0	1	0	1	0	0	0	0
+13	1	18	2	2	1	15	1	"Dragon Shield"		60	0		1		1			60	0	0	1	0		0	1	0	1	0	0	0	0
+14	1	0	2	3	1	15	1	"Legendary Shield"	48	0		1		1			50	0	0	1	0		1	0	1	1	0	0	0	0
+15	1	0	2	3	1	15	1	"Grand Soul Shield"	74	0		1		1			55	0	0	1	0		2	0	0	0	0	0	0	0
+16	1	0	2	2	1	15	1	"Elemental Shield"	66	0		1		1			51	0	0	1	0		0	0	2	0	0	0	0	0
+//Season 4+
+17	1	18	2	2	1	15	1	"Crimson Glory"		104	0		1		1			51	0	5	0	400		0	2	0	0	0	0	0	0
+18	1	18	2	2	1	15	1	"Salamander Shield"	102	0		1		1			51	0	5	0	400		0	0	0	1	0	0	0	0
+19	1	0	2	2	1	15	1	"Frost Barrier"		99	0		1		1			51	0	5	0	400		0	0	2	0	0	0	0	0
+20	1	18	2	2	1	15	1	"Guardian Shield"	106	0		1		1			51	0	5	0	400		2	0	0	0	0	0	0	0
+21	1	18	2	2	1	15	1	"Cross Shield"		70	0		1		1			65	0	0	1	0		0	0	0	0	1	0	0	0
+//Season 8+
+22	1	18	2	2	1	15	1	"Lazy Wind Shield"	129	0		1		1			90	0	5	0	400		0	3	0	0	0	0	0	0
+23	1	0	2	2	1	15	1	"Light Lord Shield"	124	0		1		1			90	0	5	0	400		0	0	3	0	0	0	0	0
+24	1	0	2	2	1	15	1	"Dark Devil Shield"	122	0		1		1			90	0	5	0	400		3	0	0	0	0	0	0	0
+25	1	18	2	2	1	15	1	"Magic Knight Shield"	128	0		1		1			90	0	5	0	400		0	0	0	3	0	0	0	0
+26	1	18	2	2	1	15	1	"Ambition Shield"	131	0		1		1			90	0	5	0	400		0	0	0	0	3	0	0	0
+//Season 10+
+29	1	18	2	2	1	15	1	"Lapid Shield"		131	0		1		1			31	0	0	1	0		0	0	0	0	0	0	0	1
+30	1	18	2	2	1	15	1	"Pluma Shield"		135	0		1		1			52	0	0	1	0		0	0	0	0	0	0	0	1
+31	1	18	2	2	1	15	1	"Alacran Shield"	133	0		1		1			31	0	0	1	0		0	0	0	0	0	0	0	1
+32	1	18	2	2	1	15	1	"Vis Shield"		136	0		1		1			52	0	0	1	0		0	0	0	0	0	0	0	1
+EndOfCat
+
+
+
+//ID	Luck	Skill	X	Y	AdOpt.	Level	ON/OFF	Item Name		Cost	BuyWithZen	BuyWithCredits	BuyWithGoldCredits 	Dur	Refi	SkCount	Harmony	EquipLvl	DW/SM   DK/BK   FE/ME  MG/DM   DL/LE   S/BS	RF	GL
+7
+//Season 1+
+0	1	0	2	2	1	15	1	"Bronze Helm"		16	0		1		1			34	0	0	1	0		0	1	0	0	1	0	0	0
+1	1	0	2	2	1	15	1	"Dragon Helm"		57	0		1		1			68	0	0	1	0		0	1	0	0	0	0	0	0
+2	1	0	2	2	1	15	1	"Pad Helm"		5	0		1		1			28	0	0	1	0		1	0	0	0	0	0	0	0
+3	1	0	2	2	1	15	1	"Legendary Helm"	50	0		1		1			42	0	0	1	0		1	0	0	0	0	0	0	0
+4	1	0	2	2	1	15	1	"Bone Helm"		18	0		1		1			30	0	0	1	0		1	0	0	0	0	0	0	0
+5	1	0	2	2	1	15	1	"Leather Helm"		6	0		1		1			30	0	0	1	0		0	1	0	0	1	0	1	0
+6	1	0	2	2	1	15	1	"Scale Helm"		26	0		1		1			40	0	0	1	0		0	1	0	0	1	0	1	0
+7	1	0	2	2	1	15	1	"Sphinx Mask"		32	0		1		1			36	0	0	1	0		1	0	0	0	0	0	0	0
+8	1	0	2	2	1	15	1	"Brass Helm"		36	0		1		1			44	0	0	1	0		0	1	0	0	0	0	1	0
+9	1	0	2	2	1	15	1	"Plate Helm"		46	0		1		1			50	0	0	1	0		0	1	0	0	0	0	1	0
+10	1	0	2	2	1	15	1	"Vine Helm"		6	0		1		1			22	0	0	1	0		0	0	1	0	0	0	0	0
+11	1	0	2	2	1	15	1	"Silk Helm"		16	0		1		1			26	0	0	1	0		0	0	1	0	0	0	0	0
+12	1	0	2	2	1	15	1	"Wind Helm"		28	0		1		1			32	0	0	1	0		0	0	1	0	0	0	0	0
+13	1	0	2	2	1	15	1	"Spirit Helm"		40	0		1		1			38	0	0	1	0		0	0	1	0	0	0	0	0
+14	1	0	2	2	1	15	1	"Guardian Helm"		53	0		1		1			45	0	0	1	0		0	0	1	0	0	0	0	0
+16	1	0	2	2	1	15	1	"Black Dragon Helm"	82	0		1		1			74	0	0	1	0		0	1	0	0	0	0	0	0
+17	1	0	2	2	1	15	1	"Dark Phoenix Helm"	92	0		1		1			80	0	0	1	0		0	2	0	0	0	0	0	0
+18	1	0	2	2	1	15	1	"Grand Soul Helm"	81	0		1		1			67	0	0	1	0		2	0	0	0	0	0	0	0
+19	1	0	2	2	1	15	1	"Divine Helm"		85	0		1		1			74	0	0	1	0		0	0	2	0	0	0	0	0
+21	1	0	2	2	1	15	1	"Great Dragon Helm"	104	0		1		1			86	0	0	1	0		0	2	0	0	0	0	0	0
+22	1	0	2	2	1	15	1	"Dark Soul Helm"	110	0		1		1			75	0	0	1	0		2	0	0	0	0	0	0	0
+24	1	0	2	2	1	15	1	"Red Spirit Helm"	93	0		1		1			80	0	0	1	0		0	0	2	0	0	0	0	0
+25	1	0	2	2	1	15	1	"Light Plate Mask"	46	0		1		1			42	0	0	1	0		0	0	0	0	1	0	0	0
+26	1	0	2	2	1	15	1	"Adamantine Mask"	66	0		1		1			56	0	0	1	0		0	0	0	0	1	0	0	0
+27	1	0	2	2	1	15	1	"Dark Steel Mask"	86	0		1		1			70	0	0	1	0		0	0	0	0	1	0	0	0
+28	1	0	2	2	1	15	1	"Dark Master Mask"	106	0		1		1			78	0	0	1	0		0	0	0	0	1	0	0	0
+//Season 2+
+29	1	0	2	2	1	15	1	"Dragon Knight Helm"	130	0		1		1			90	1	0	1	380		0	2	0	0	0	0	0	0
+30	1	0	2	2	1	15	1	"Venom Mist Helm"	126	0		1		1			86	1	0	1	380		2	0	0	0	0	0	0	0
+31	1	0	2	2	1	15	1	"Sylphid Ray Helm"	126	0		1		1			86	1	0	1	380		0	0	2	0	0	0	0	0
+33	1	0	2	2	1	15	1	"Sunlight Mask"		130	0		1		1			82	1	0	1	380		0	0	0	0	1	0	0	0
+34	1	0	2	2	1	15	1	"Ashcrow Helm"		67	0		1		1			72	0	0	1	0		0	1	0	0	0	0	0	0
+35	1	0	2	2	1	15	1	"Eclipse Helm"		67	0		1		1			54	0	0	1	0		1	0	0	0	0	0	0	0
+36	1	0	2	2	1	15	1	"Iris Helm"		67	0		1		1			59	0	0	1	0		0	0	1	0	0	0	0	0
+38	1	0	2	2	1	15	1	"Glorious Mask"		97	0		1		1			74	0	0	1	0		0	0	0	0	1	0	0	0
+//Season 4+
+39	1	0	2	2	1	15	1	"Violent Wind Helm"	28	0		1		1			36	0	0	1	0		0	0	0	0	0	1	0	0
+40	1	0	2	2	1	15	1	"Red Wing Helm"		50	0		1		1			42	0	0	1	0		0	0	0	0	0	1	0	0
+41	1	0	2	2	1	15	1	"Ancient Helm"		68	0		1		1			54	0	0	1	0		0	0	0	0	0	1	0	0
+42	1	0	2	2	1	15	1	"Demonic Helm"		81	0		1		1			67	0	0	1	0		0	0	0	0	0	2	0	0
+43	1	0	2	2	1	15	1	"Storm Blitz Helm"	110	0		1		1			75	1	0	1	380		0	0	0	0	0	2	0	0
+44	1	0	2	2	1	15	1	"Eternal Wing Helm"	116	0		1		1			86	0	5	0	400		0	0	0	0	0	2	0	0
+45	1	0	2	2	1	15	1	"Titan  Helm"		111	0		1		1			86	0	5	0	400		0	1	0	0	0	0	0	0
+46	1	0	2	2	1	15	1	"Brave Helm"		107	0		1		1			86	0	5	0	400		0	1	0	0	0	0	0	0
+49	1	0	2	2	1	15	1	"Seraphim Helm"		111	0		1		1			86	0	5	0	400		0	0	1	0	0	0	0	0
+50	1	0	2	2	1	15	1	"Divine Helm"		104	0		1		1			86	0	5	0	400		0	0	1	0	0	0	0	0
+51	1	0	2	2	1	15	1	"Royal Mask"		111	0		1		1			86	0	5	0	400		0	0	0	0	1	0	0	0
+52	1	0	2	2	1	15	1	"Hades Helm"		109	0		1		1			86	0	5	0	400		1	0	0	0	0	0	0	0
+53	1	0	2	2	1	15	1	"Succubus Helm "	143	0		1		1			90	0	5	0	400		0	0	0	0	0	3	0	0
+//Season 6+
+59	1	0	2	2	1	15	1	"Sacred Helm"		54	0		1		1			52	0	0	1	0		0	0	0	0	0	0	1	0
+60	1	0	2	2	1	15	1	"Storm Hard Helm"	70	0		1		1			68	0	0	1	0		0	0	0	0	0	0	1	0
+61	1	0	2	2	1	15	1	"Piercing Helm"		90	0		1		1			82	0	0	1	0		0	0	0	0	0	0	1	0
+72	1	0	2	2	1	15	1	"Storm Jahad Helm"	70	0		1		1			255	0	0	1	0		0	0	0	0	0	0	1	0
+73	1	0	2	2	1	15	1	"Phoenix Soul Helmet"	128	0		1		1			88	0	0	1	0		0	0	0	0	0	0	1	0
+//Season 8+
+54	1	0	2	2	1	15	1	"Valhalla Helm"		143	0		1		1			90	0	5	0	400		0	3	0	0	0	0	0	0
+55	1	0	2	2	1	15	1	"Cerberus Helm"		143	0		1		1			90	0	5	0	400		3	0	0	0	0	0	0	0
+56	1	0	2	2	1	15	1	"Erinys Helm"		143	0		1		1			90	0	5	0	400		0	0	3	0	0	0	0	0
+58	1	0	2	2	1	15	1	"Arch Demon Mask"	143	0		1		1			90	0	5	0	400		0	0	0	0	3	0	0	0
+74	1	0	2	2	1	15	1	"Stormwing Helm"	143	0		1		1			90	0	5	0	400		0	3	0	0	0	0	0	0
+75	1	0	2	2	1	15	1	"Light Lord Helmet"	143	0		1		1			90	0	5	0	400		0	0	3	0	0	0	0	0
+//Season 10+
+91	1	0	2	2	1	15	1	"Robust Helmet"		140	0		1		1			28	0	0	1	0		0	0	0	0	0	0	0	1
+92	1	0	2	2	1	15	1	"Gru hill Helmet"	144	0		1		1			44	0	0	1	0		0	0	0	0	0	0	0	1
+93	1	0	2	2	1	15	1	"Princie Helmet"	145	0		1		1			64	0	0	1	0		0	0	0	0	0	0	0	1
+94	1	0	2	2	1	15	1	"Hirat Helmet"		147	0		1		1			74	0	0	1	0		0	0	0	0	0	0	0	1
+95	1	0	2	2	1	15	1	"Sate Helmet"		142	0		1		1			74	0	0	1	0		0	0	0	0	0	0	0	1
+96	1	0	2	2	1	15	1	"Robust Helmet"		150	0		1		1			255	0	0	1	0		0	0	0	0	0	0	0	1
+97	1	0	2	2	1	15	1	"Princie Helmet"	136	0		1		1			255	0	0	1	0		0	0	0	0	0	0	0	1
+98	1	0	2	2	1	15	1	"BA. Knight Helm"	140	0		1		1			100	0	1	0	400		0	3	0	0	0	0	0	0
+99	1	0	2	2	1	15	1	"BA. Wizard Helm"	140	0		1		1			100	0	1	0	400		3	0	0	0	0	0	0	0
+100	1	0	2	2	1	15	1	"BA. Elf Helm"		140	0		1		1			100	0	1	0	400		0	0	0	0	3	0	0	0
+101	1	0	2	2	1	15	1	"BA. Summoner Helm"	140	0		1		1			100	0	1	0	400		0	0	0	0	0	3	0	0
+103	1	0	2	2	1	15	1	"BA. Lord Helm"		140	0		1		1			100	0	1	0	400		0	0	0	0	3	0	0	0
+104	1	0	2	2	1	15	1	"BA. Fighter Helm"	140	0		1		1			100	0	1	0	400		0	0	0	0	0	0	3	0
+105	1	0	2	2	1	15	1	"BA. Lancer Helm"	140	0		1		1			100	0	1	0	400		0	0	0	0	0	0	0	3
+114	1	0	2	2	1	15	1	"BA. Knight Helm"	140	0		1		1			100	0	1	0	400		0	3	0	0	0	0	0	0
+115	1	0	2	2	1	15	1	"BA. Wizard Helm"	140	0		1		1			100	0	1	0	400		3	0	0	0	0	0	0	0
+116	1	0	2	2	1	15	1	"BA. Elf Helm"		140	0		1		1			100	0	1	0	400		0	0	0	0	3	0	0	0
+117	1	0	2	2	1	15	1	"BA. Summoner Helm"	140	0		1		1			100	0	1	0	400		0	0	0	0	0	3	0	0
+119	1	0	2	2	1	15	1	"BA. Lord Helm"		140	0		1		1			100	0	1	0	400		0	0	0	0	3	0	0	0
+120	1	0	2	2	1	15	1	"BA. Fighter Helm"	140	0		1		1			100	0	1	0	400		0	0	0	0	0	0	3	0
+121	1	0	2	2	1	15	1	"BA. Lancer Helm"	140	0		1		1			100	0	1	0	400		0	0	0	0	0	0	0	3
+EndOfCat
+
+
+
+//ID	Luck	Skill	X	Y	AdOpt.	Level	ON/OFF	Item Name		Cost	BuyWithZen	BuyWithCredits	BuyWithGoldCredits 	Dur	Refi	SkCount	Harmony	EquipLvl	DW/SM   DK/BK   FE/ME  MG/DM   DL/LE   S/BS	RF	GL
+8
+//Season 1+
+0	1	0	2	2	1	15	1	"Bronze Armor"		18	0		1		1			34	0	0	1	0		0	1	0	1	1	0	0	0
+1	1	0	2	3	1	15	1	"Dragon Armor"		59	0		1		1			68	0	0	1	0		0	1	0	1	0	0	0	0
+2	1	0	2	2	1	15	1	"Pad Armor"		10	0		1		1			28	0	0	1	0		1	0	0	1	0	0	0	0
+3	1	0	2	2	1	15	1	"Legendary Armor"	56	0		1		1			42	0	0	1	0		1	0	0	1	0	0	0	0
+4	1	0	2	2	1	15	1	"Bone Armor"		22	0		1		1			30	0	0	1	0		1	0	0	1	0	0	0	0
+5	1	0	2	3	1	15	1	"Leather Armor"		10	0		1		1			30	0	0	1	0		0	1	0	1	1	0	1	0
+6	1	0	2	2	1	15	1	"Scale Armor"		28	0		1		1			40	0	0	1	0		0	1	0	1	1	0	1	0
+7	1	0	2	3	1	15	1	"Sphinx Armor"		38	0		1		1			36	0	0	1	0		1	0	0	1	0	0	0	0
+8	1	0	2	2	1	15	1	"Brass Armor"		38	0		1		1			44	0	0	1	0		0	1	0	1	0	0	1	0
+9	1	0	2	2	1	15	1	"Plate Armor"		48	0		1		1			50	0	0	1	0		0	1	0	1	0	0	1	0
+10	1	0	2	2	1	15	1	"Vine Armor"		10	0		1		1			22	0	0	1	0		0	0	1	0	0	0	0	0
+11	1	0	2	2	1	15	1	"Silk Armor"		20	0		1		1			26	0	0	1	0		0	0	1	0	0	0	0	0
+12	1	0	2	2	1	15	1	"Wind Armor"		32	0		1		1			32	0	0	1	0		0	0	1	0	0	0	0	0
+13	1	0	2	2	1	15	1	"Spirit Armor"		44	0		1		1			38	0	0	1	0		0	0	1	0	0	0	0	0
+14	1	0	2	2	1	15	1	"Guardian Armor"	57	0		1		1			45	0	0	1	0		0	0	1	0	0	0	0	0
+15	1	0	2	3	1	15	1	"Storm Crow Armor"	80	0		1		1			80	0	0	1	0		0	0	0	1	0	0	0	0
+16	1	0	2	3	1	15	1	"Black Dragon Armor"	90	0		1		1			74	0	0	1	0		0	1	0	0	0	0	0	0
+17	1	0	2	3	1	15	1	"Dark Phoenix Armor"	100	0		1		1			80	0	0	1	0		0	2	0	0	0	0	0	0
+18	1	0	2	3	1	15	1	"Grand Soul Armor"	91	0		1		1			67	0	0	1	0		2	0	0	0	0	0	0	0
+19	1	0	2	2	1	15	1	"Divine Armor"		92	0		1		1			74	0	0	1	0		0	0	2	0	0	0	0	0
+20	1	0	2	3	1	15	1	"Thunder Hawk Armor"	107	0		1		1			82	0	0	1	0		0	0	0	1	0	0	0	0
+21	1	0	2	3	1	15	1	"Great Dragon Armor"	126	0		1		1			86	0	0	1	0		0	2	0	0	0	0	0	0
+22	1	0	2	3	1	15	1	"Dark Soul Armor"	122	0		1		1			75	0	0	1	0		2	0	0	0	0	0	0	0
+23	1	0	2	3	1	15	1	"Hurricane Armor"	128	0		1		1			90	0	0	1	0		0	0	0	1	0	0	0	0
+24	1	0	2	2	1	15	1	"Red Sprit Armor"	109	0		1		1			80	0	0	1	0		0	0	2	0	0	0	0	0
+25	1	0	2	3	1	15	1	"Light Plate Armor"	62	0		1		1			42	0	0	1	0		0	0	0	0	1	0	0	0
+26	1	0	2	3	1	15	1	"Adamantine Armor"	78	0		1		1			56	0	0	1	0		0	0	0	0	1	0	0	0
+27	1	0	2	3	1	15	1	"Dark Steel Armor"	96	0		1		1			70	0	0	1	0		0	0	0	0	1	0	0	0
+28	1	0	2	3	1	15	1	"Dark Master Armor"	117	0		1		1			78	0	0	1	0		0	0	0	0	1	0	0	0
+//Season 2+
+29	1	0	2	3	1	15	1	"Dragon Knight Armor"	140	0		1		1			90	1	0	1	380		0	2	0	0	0	0	0	0
+30	1	0	2	3	1	15	1	"Venom Mist Armor"	146	0		1		1			86	1	0	1	380		2	0	0	0	0	0	0	0
+31	1	0	2	3	1	15	1	"Sylphid Ray Armor"	146	0		1		1			86	1	0	1	380		0	0	2	0	0	0	0	0
+32	1	0	2	3	1	15	1	"Volcano Armor"		147	0		1		1			95	1	0	1	380		0	0	0	1	0	0	0	0
+33	1	0	2	3	1	15	1	"Sunlight Armor"	147	0		1		1			82	1	0	1	380		0	0	0	0	1	0	0	0
+34	1	0	2	3	1	15	1	"Ashcrow Armor"		75	0		1		1			72	0	0	1	0		0	1	0	0	0	0	0	0
+35	1	0	2	3	1	15	1	"Eclipse Armor"		75	0		1		1			54	0	0	1	0		1	0	0	0	0	0	0	0
+36	1	0	2	3	1	15	1	"Iris Armor"		75	0		1		1			59	0	0	1	0		0	0	1	0	0	0	0	0
+37	1	0	2	3	1	15	1	"Valiant Armor"		105	0		1		1			81	0	0	1	0		0	0	0	1	0	0	0	0
+38	1	0	2	3	1	15	1	"Glorious Armor"	105	0		1		1			74	0	0	1	0		0	0	0	0	1	0	0	0
+//Season 4+
+39	1	0	2	2	1	15	1	"Violent Wind Armor"	34	0		1		1			36	0	0	1	0		0	0	0	0	0	1	0	0
+40	1	0	2	2	1	15	1	"Red Wing Armor"	56	0		1		1			42	0	0	1	0		0	0	0	0	0	1	0	0
+41	1	0	2	2	1	15	1	"Ancient Armor"		75	0		1		1			54	0	0	1	0		0	0	0	0	0	1	0	0
+42	1	0	2	2	1	15	1	"Demonic Armor"		91	0		1		1			67	0	0	1	0		0	0	0	0	0	2	0	0
+43	1	0	2	2	1	15	1	"Storm Blitz Armor"	122	0		1		1			75	1	0	1	380		0	0	0	0	0	2	0	0
+44	1	0	2	2	1	15	1	"Eternal Wing Armor"	131	0		1		1			86	0	5	0	400		0	0	0	0	0	2	0	0
+45	1	0	2	3	1	15	1	"Titan  Armor"		132	0		1		1			86	0	5	0	400		0	1	0	0	0	0	0	0
+46	1	0	2	3	1	15	1	"Brave Armor"		128	0		1		1			86	0	5	0	400		0	1	0	0	0	0	0	0
+47	1	0	2	3	1	15	1	"Phantom  Armor"	131	0		1		1			86	0	5	0	400		0	0	0	1	0	0	0	0
+48	1	0	2	3	1	15	1	"Destroy Armor"		125	0		1		1			86	0	5	0	400		0	0	0	1	0	0	0	0
+49	1	0	2	2	1	15	1	"Seraphim Armor"	129	0		1		1			86	0	5	0	400		0	0	1	0	0	0	0	0
+50	1	0	2	2	1	15	1	"Divine Armor"		122	0		1		1			86	0	5	0	400		0	0	1	0	0	0	0	0
+51	1	0	2	3	1	15	1	"Royal Armor"		132	0		1		1			86	0	5	0	400		0	0	0	0	1	0	0	0
+52	1	0	2	3	1	15	1	"Hades Armor"		129	0		1		1			86	0	5	0	400		1	0	0	0	0	0	0	0
+53	1	0	2	2	1	15	1	"Succubus Armor "	148	0		1		1			90	0	5	0	400		0	0	0	0	0	3	0	0
+//Season 6+
+59	1	0	2	3	1	15	1	"Sacred Armor"		66	0		1		1			52	0	0	1	0		0	0	0	0	0	0	1	0
+60	1	0	2	3	1	15	1	"Storm Hard Armor"	82	0		1		1			68	0	0	1	0		0	0	0	0	0	0	1	0
+61	1	0	2	3	1	15	1	"Piercing Armor"	101	0		1		1			82	0	0	1	0		0	0	0	0	0	0	1	0
+72	1	0	2	3	1	15	1	"Storm Jahad Armor"	82	0		1		1			255	0	0	1	0		0	0	0	0	0	0	1	0
+73	1	0	2	3	1	15	1	"Phoenix Soul Armor"	143	0		1		1			88	0	0	1	0		0	0	0	0	0	0	1	0
+//Season 8+
+54	1	0	2	3	1	15	1	"Valhalla Armor"	148	0		1		1			90	0	5	0	400		0	3	0	0	0	0	0	0
+55	1	0	2	3	1	15	1	"Cerberus Armor"	148	0		1		1			90	0	5	0	400		3	0	0	0	0	0	0	0
+56	1	0	2	2	1	15	1	"Erinys Armor"		148	0		1		1			90	0	5	0	400		0	0	3	0	0	0	0	0
+57	1	0	2	3	1	15	1	"Shiva Armor"		148	0		1		1			90	0	5	0	400		0	0	0	3	0	0	0	0
+58	1	0	2	3	1	15	1	"Arch Demon Armor"	148	0		1		1			90	0	5	0	400		0	0	0	0	3	0	0	0
+74	1	0	2	3	1	15	1	"Stromwing Armor"	148	0		1		1			90	0	5	0	400		0	3	0	0	0	0	0	0
+75	1	0	2	2	1	15	1	"Light Lord Armor"	148	0		1		1			90	0	5	0	400		0	0	3	0	0	0	0	0
+76	1	0	2	3	1	15	1	"Magic Knight Armor"	148	0		1		1			90	0	5	0	400		0	0	0	3	0	0	0	0
+//Season 10+
+91	1	0	2	2	1	15	1	"Robust Armor"		140	0		1		1			28	0	0	1	0		0	0	0	0	0	0	0	1
+92	1	0	2	2	1	15	1	"Gru hill Armor"	144	0		1		1			44	0	0	1	0		0	0	0	0	0	0	0	1
+93	1	0	2	2	1	15	1	"Princie Armor"		145	0		1		1			64	0	0	1	0		0	0	0	0	0	0	0	1
+94	1	0	2	2	1	15	1	"Hirat Armor"		147	0		1		1			74	0	0	1	0		0	0	0	0	0	0	0	1
+95	1	0	2	2	1	15	1	"Sate Armor"		142	0		1		1			74	0	0	1	0		0	0	0	0	0	0	0	1
+96	1	0	2	2	1	15	1	"Robust Armor"		150	0		1		1			255	0	0	1	0		0	0	0	0	0	0	0	1
+97	1	0	2	2	1	15	1	"Princie Armor"		136	0		1		1			255	0	0	1	0		0	0	0	0	0	0	0	1
+98	1	0	2	2	1	15	1	"BA. Knight Armor"	140	0		1		1			100	0	1	0	400		0	3	0	0	0	0	0	0
+99	1	0	2	2	1	15	1	"BA. Wizard Armor"	140	0		1		1			100	0	1	0	400		3	0	0	0	0	0	0	0
+100	1	0	2	2	1	15	1	"BA. Elf Armor"		140	0		1		1			100	0	1	0	400		0	0	0	0	3	0	0	0
+101	1	0	2	2	1	15	1	"BA. Summoner Armor"	140	0		1		1			100	0	1	0	400		0	0	0	0	0	3	0	0
+102	1	0	2	2	1	15	1	"BA. Magic Armor"	140	0		1		1			100	0	1	0	400		0	0	0	3	0	0	0	0
+103	1	0	2	2	1	15	1	"BA. Lord Armor"	140	0		1		1			100	0	1	0	400		0	0	0	0	3	0	0	0
+104	1	0	2	2	1	15	1	"BA. Fighter Armor"	140	0		1		1			100	0	1	0	400		0	0	0	0	0	0	3	0
+105	1	0	2	2	1	15	1	"BA. Lancer Armor"	140	0		1		1			100	0	1	0	400		0	0	0	0	0	0	0	3
+114	1	0	2	2	1	15	1	"BA. Knight Armor"	140	0		1		1			100	0	1	0	400		0	3	0	0	0	0	0	0
+115	1	0	2	2	1	15	1	"BA. Wizard Armor"	140	0		1		1			100	0	1	0	400		3	0	0	0	0	0	0	0
+116	1	0	2	2	1	15	1	"BA. Elf Armor"		140	0		1		1			100	0	1	0	400		0	0	0	0	3	0	0	0
+117	1	0	2	2	1	15	1	"BA. Summoner Armor"	140	0		1		1			100	0	1	0	400		0	0	0	0	0	3	0	0
+118	1	0	2	2	1	15	1	"BA. Magic Armor"	140	0		1		1			100	0	1	0	400		0	0	0	3	0	0	0	0
+119	1	0	2	2	1	15	1	"BA. Lord Armor"	140	0		1		1			100	0	1	0	400		0	0	0	0	3	0	0	0
+120	1	0	2	2	1	15	1	"BA. Fighter Armor"	140	0		1		1			100	0	1	0	400		0	0	0	0	0	0	3	0
+121	1	0	2	2	1	15	1	"BA. Lancer Armor"	140	0		1		1			100	0	1	0	400		0	0	0	0	0	0	0	3
+EndOfCat
+
+
+
+//ID	Luck	Skill	X	Y	AdOpt.	Level	ON/OFF	Item Name		Cost	BuyWithZen	BuyWithCredits	BuyWithGoldCredits 	Dur	Refi	SkCount	Harmony	EquipLvl	DW/SM   DK/BK   FE/ME  MG/DM   DL/LE   S/BS	RF	GL
+9
+//Season 1+
+0	1	0	2	2	1	15	1	"Bronze Pants"		15	0		1		1			34	0	0	1	0		0	1	0	1	1	0	0	0
+1	1	0	2	2	1	15	1	"Dragon Pants"		55	0		1		1			68	0	0	1	0		0	1	0	1	0	0	0	0
+2	1	0	2	2	1	15	1	"Pad Pants"		8	0		1		1			28	0	0	1	0		1	0	0	1	0	0	0	0
+3	1	0	2	2	1	15	1	"Legendary Pants"	53	0		1		1			42	0	0	1	0		1	0	0	1	0	0	0	0
+4	1	0	2	2	1	15	1	"Bone Pants"		20	0		1		1			30	0	0	1	0		1	0	0	1	0	0	0	0
+5	1	0	2	2	1	15	1	"Leather Pants"		8	0		1		1			30	0	0	1	0		0	1	0	1	1	0	1	0
+6	1	0	2	2	1	15	1	"Scale Pants"		25	0		1		1			40	0	0	1	0		0	1	0	1	1	0	1	0
+7	1	0	2	2	1	15	1	"Sphinx Pants"		34	0		1		1			36	0	0	1	0		1	0	0	1	0	0	0	0
+8	1	0	2	2	1	15	1	"Brass Pants"		35	0		1		1			44	0	0	1	0		0	1	0	1	0	0	1	0
+9	1	0	2	2	1	15	1	"Plate Pants"		45	0		1		1			50	0	0	1	0		0	1	0	1	0	0	1	0
+10	1	0	2	2	1	15	1	"Vine Pants"		8	0		1		1			22	0	0	1	0		0	0	1	0	0	0	0	0
+11	1	0	2	2	1	15	1	"Silk Pants"		18	0		1		1			26	0	0	1	0		0	0	1	0	0	0	0	0
+12	1	0	2	2	1	15	1	"Wind Pants"		30	0		1		1			32	0	0	1	0		0	0	1	0	0	0	0	0
+13	1	0	2	2	1	15	1	"Spirit Pants"		42	0		1		1			38	0	0	1	0		0	0	1	0	0	0	0	0
+14	1	0	2	2	1	15	1	"Guardian Pants"	54	0		1		1			45	0	0	1	0		0	0	1	0	0	0	0	0
+15	1	0	2	2	1	15	1	"Storm Crow Pants"	74	0		1		1			80	0	0	1	0		0	0	0	1	0	0	0	0
+16	1	0	2	2	1	15	1	"Black Dragon Pants"	84	0		1		1			74	0	0	1	0		0	1	0	0	0	0	0	0
+17	1	0	2	2	1	15	1	"Dark Phoenix Pants"	96	0		1		1			80	0	0	1	0		0	2	0	0	0	0	0	0
+18	1	0	2	2	1	15	1	"Grand Soul Pants"	86	0		1		1			67	0	0	1	0		2	0	0	0	0	0	0	0
+19	1	0	2	2	1	15	1	"Divine Pants"		88	0		1		1			74	0	0	1	0		0	0	2	0	0	0	0	0
+20	1	0	2	2	1	15	1	"Thunder Hawk Pants"	99	0		1		1			82	0	0	1	0		0	0	0	1	0	0	0	0
+21	1	0	2	2	1	15	1	"Great Dragon Pants"	113	0		1		1			86	0	0	1	0		0	2	0	0	0	0	0	0
+22	1	0	2	2	1	15	1	"Dark Soul Pants"	117	0		1		1			75	0	0	1	0		2	0	0	0	0	0	0	0
+23	1	0	2	2	1	15	1	"Hurricane Pants"	122	0		1		1			90	0	0	1	0		0	0	0	1	0	0	0	0
+24	1	0	2	2	1	15	1	"Red Spirit Pants"	100	0		1		1			80	0	0	1	0		0	0	2	0	0	0	0	0
+25	1	0	2	2	1	15	1	"Light Plate Pants"	50	0		1		1			42	0	0	1	0		0	0	0	0	1	0	0	0
+26	1	0	2	2	1	15	1	"Adamantine Pants"	70	0		1		1			56	0	0	1	0		0	0	0	0	1	0	0	0
+27	1	0	2	2	1	15	1	"Dark Steel Pants"	92	0		1		1			70	0	0	1	0		0	0	0	0	1	0	0	0
+28	1	0	2	2	1	15	1	"Dark Master Pants"	110	0		1		1			78	0	0	1	0		0	0	0	0	1	0	0	0
+//Season 2+
+29	1	0	2	2	1	15	1	"Dragon Knight Pants"	134	0		1		1			90	1	0	1	380		0	2	0	0	0	0	0	0
+30	1	0	2	2	1	15	1	"Venom Mist Pants"	135	0		1		1			86	1	0	1	380		2	0	0	0	0	0	0	0
+31	1	0	2	2	1	15	1	"Sylphid Ray Pants"	135	0		1		1			86	1	0	1	380		0	0	2	0	0	0	0	0
+32	1	0	2	2	1	15	1	"Volcano Pants"		135	0		1		1			95	1	0	1	380		0	0	0	1	0	0	0	0
+33	1	0	2	2	1	15	1	"Sunlight Pants"	140	0		1		1			82	1	0	1	380		0	0	0	0	1	0	0	0
+34	1	0	2	2	1	15	1	"Ashcrow Pants"		69	0		1		1			72	0	0	1	0		0	1	0	0	0	0	0	0
+35	1	0	2	2	1	15	1	"Eclipse Pants"		69	0		1		1			54	0	0	1	0		1	0	0	0	0	0	0	0
+36	1	0	2	2	1	15	1	"Iris Pants"		69	0		1		1			59	0	0	1	0		0	0	1	0	0	0	0	0
+37	1	0	2	2	1	15	1	"Valiant Pants"		101	0		1		1			81	0	0	1	0		0	0	0	1	0	0	0	0
+38	1	0	2	2	1	15	1	"Glorious Pants"	101	0		1		1			74	0	0	1	0		0	0	0	0	1	0	0	0
+//Season 4+
+39	1	0	2	2	1	15	1	"Violent Wind Pants"	30	0		1		1			36	0	0	1	0		0	0	0	0	0	1	0	0
+40	1	0	2	2	1	15	1	"Red Wing Pants"	53	0		1		1			42	0	0	1	0		0	0	0	0	0	1	0	0
+41	1	0	2	2	1	15	1	"Ancient Pants"		72	0		1		1			54	0	0	1	0		0	0	0	0	0	1	0	0
+42	1	0	2	2	1	15	1	"Demonic Pants"		86	0		1		1			67	0	0	1	0		0	0	0	0	0	2	0	0
+43	1	0	2	2	1	15	1	"Storm Blitz Pants"	117	0		1		1			75	1	0	1	380		0	0	0	0	0	2	0	0
+44	1	0	2	2	1	15	1	"Eternal Wing Pants"	122	0		1		1			86	0	5	0	400		0	0	0	0	0	2	0	0
+45	1	0	2	2	1	15	1	"Titan  Pants"		116	0		1		1			86	0	5	0	400		0	1	0	0	0	0	0	0
+46	1	0	2	2	1	15	1	"Brave Pants"		112	0		1		1			86	0	5	0	400		0	1	0	0	0	0	0	0
+47	1	0	2	2	1	15	1	"Phantom  Pants"	115	0		1		1			86	0	5	0	400		0	0	0	1	0	0	0	0
+48	1	0	2	2	1	15	1	"Destroy Pants"		113	0		1		1			86	0	5	0	400		0	0	0	1	0	0	0	0
+49	1	0	2	2	1	15	1	"Seraphim Pants"	116	0		1		1			86	0	5	0	400		0	0	1	0	0	0	0	0
+50	1	0	2	2	1	15	1	"Divine Pants"		109	0		1		1			86	0	5	0	400		0	0	1	0	0	0	0	0
+51	1	0	2	2	1	15	1	"Royal Pants"		116	0		1		1			86	0	5	0	400		0	0	0	0	1	0	0	0
+52	1	0	2	2	1	15	1	"Hades Pants"		114	0		1		1			86	0	5	0	400		1	0	0	0	0	0	0	0
+53	1	0	2	2	1	15	1	"Succubus Pants "	145	0		1		1			90	0	5	0	400		0	0	0	0	0	3	0	0
+//Season 6+
+59	1	0	2	2	1	15	1	"Sacred Pants"		62	0		1		1			52	0	0	1	0		0	0	0	0	0	0	1	0
+60	1	0	2	2	1	15	1	"Storm Hard Pants"	78	0		1		1			68	0	0	1	0		0	0	0	0	0	0	1	0
+61	1	0	2	2	1	15	1	"Piercing Pants"	95	0		1		1			82	0	0	1	0		0	0	0	0	0	0	1	0
+72	1	0	2	2	1	15	1	"Storm Jahad Pants"	78	0		1		1			255	0	0	1	0		0	0	0	0	0	0	1	0
+73	1	0	2	2	1	15	1	"Phoenix Soul Pants"	134	0		1		1			88	0	0	1	0		0	0	0	0	0	0	1	0
+//Season 8+
+54	1	0	2	2	1	15	1	"Valhalla Pants"	145	0		1		1			90	0	5	0	400		0	3	0	0	0	0	0	0
+55	1	0	2	2	1	15	1	"Cerberus Pants"	145	0		1		1			90	0	5	0	400		3	0	0	0	0	0	0	0
+56	1	0	2	2	1	15	1	"Erinys Pants"		145	0		1		1			90	0	5	0	400		0	0	3	0	0	0	0	0
+57	1	0	2	2	1	15	1	"Shiva Pants"		145	0		1		1			90	0	5	0	400		0	0	0	3	0	0	0	0
+58	1	0	2	2	1	15	1	"Arch Demon Pants"	145	0		1		1			90	0	5	0	400		0	0	0	0	3	0	0	0
+74	1	0	2	2	1	15	1	"Stromwing Pants"	145	0		1		1			90	0	5	0	400		0	3	0	0	0	0	0	0
+75	1	0	2	2	1	15	1	"Light Lord Pants"	145	0		1		1			90	0	5	0	400		0	0	3	0	0	0	0	0
+76	1	0	2	2	1	15	1	"Magic Knight Pants"	145	0		1		1			90	0	5	0	400		0	0	0	3	0	0	0	0
+//Season 10+
+91	1	0	2	2	1	15	1	"Robust Pants"		140	0		1		1			28	0	0	1	0		0	0	0	0	0	0	0	1
+92	1	0	2	2	1	15	1	"Gru hill Pants"	144	0		1		1			44	0	0	1	0		0	0	0	0	0	0	0	1
+93	1	0	2	2	1	15	1	"Princie Pants"		145	0		1		1			64	0	0	1	0		0	0	0	0	0	0	0	1
+94	1	0	2	2	1	15	1	"Hirat Pants"		147	0		1		1			74	0	0	1	0		0	0	0	0	0	0	0	1
+95	1	0	2	2	1	15	1	"Sate Pants"		142	0		1		1			74	0	0	1	0		0	0	0	0	0	0	0	1
+96	1	0	2	2	1	15	1	"Robust Pants"		150	0		1		1			255	0	0	1	0		0	0	0	0	0	0	0	1
+97	1	0	2	2	1	15	1	"Princie Pants"		136	0		1		1			255	0	0	1	0		0	0	0	0	0	0	0	1
+98	1	0	2	2	1	15	1	"BA. Knight Pants"	140	0		1		1			100	0	1	0	400		0	3	0	0	0	0	0	0
+99	1	0	2	2	1	15	1	"BA. Wizard Pants"	140	0		1		1			100	0	1	0	400		3	0	0	0	0	0	0	0
+100	1	0	2	2	1	15	1	"BA. Elf Pants"		140	0		1		1			100	0	1	0	400		0	0	0	0	3	0	0	0
+101	1	0	2	2	1	15	1	"BA. Summoner Pants"	140	0		1		1			100	0	1	0	400		0	0	0	0	0	3	0	0
+102	1	0	2	2	1	15	1	"BA. Magic Pants"	140	0		1		1			100	0	1	0	400		0	0	0	3	0	0	0	0
+103	1	0	2	2	1	15	1	"BA. Lord Pants"	140	0		1		1			100	0	1	0	400		0	0	0	0	3	0	0	0
+104	1	0	2	2	1	15	1	"BA. Fighter Pants"	140	0		1		1			100	0	1	0	400		0	0	0	0	0	0	3	0
+105	1	0	2	2	1	15	1	"BA. Lancer Pants"	140	0		1		1			100	0	1	0	400		0	0	0	0	0	0	0	3
+114	1	0	2	2	1	15	1	"BA. Knight Pants"	140	0		1		1			100	0	1	0	400		0	3	0	0	0	0	0	0
+115	1	0	2	2	1	15	1	"BA. Wizard Pants"	140	0		1		1			100	0	1	0	400		3	0	0	0	0	0	0	0
+116	1	0	2	2	1	15	1	"BA. Elf Pants"		140	0		1		1			100	0	1	0	400		0	0	0	0	3	0	0	0
+117	1	0	2	2	1	15	1	"BA. Summoner Pants"	140	0		1		1			100	0	1	0	400		0	0	0	0	0	3	0	0
+118	1	0	2	2	1	15	1	"BA. Magic Pants"	140	0		1		1			100	0	1	0	400		0	0	0	3	0	0	0	0
+119	1	0	2	2	1	15	1	"BA. Lord Pants"	140	0		1		1			100	0	1	0	400		0	0	0	0	3	0	0	0
+120	1	0	2	2	1	15	1	"BA. Fighter Pants"	140	0		1		1			100	0	1	0	400		0	0	0	0	0	0	3	0
+121	1	0	2	2	1	15	1	"BA. Lancer Pants"	140	0		1		1			100	0	1	0	400		0	0	0	0	0	0	0	3
+EndOfCat
+
+
+
+//ID	Luck	Skill	X	Y	AdOpt.	Level	ON/OFF	Item Name		Cost	BuyWithZen	BuyWithCredits	BuyWithGoldCredits 	Dur	Refi	SkCount	Harmony	EquipLvl	DW/SM   DK/BK   FE/ME  MG/DM   DL/LE   S/BS	RF	GL
+10
+//Season 1+
+0	1	0	2	2	1	15	1	"Bronze Gloves"		13	0		1		1			34	0	0	1	0		0	1	0	1	1	0	0	0
+1	1	0	2	2	1	15	1	"Dragon Gloves"		52	0		1		1			68	0	0	1	0		0	1	0	1	0	0	0	0
+2	1	0	2	2	1	15	1	"Pad Gloves"		3	0		1		1			28	0	0	1	0		1	0	0	1	0	0	0	0
+3	1	0	2	2	1	15	1	"Legendary Gloves"	44	0		1		1			42	0	0	1	0		1	0	0	1	0	0	0	0
+4	1	0	2	2	1	15	1	"Bone Gloves"		14	0		1		1			30	0	0	1	0		1	0	0	1	0	0	0	0
+5	1	0	2	2	1	15	1	"Leather Gloves"	4	0		1		1			30	0	0	1	0		0	1	0	1	1	0	1	0
+6	1	0	2	2	1	15	1	"Scale Gloves"		22	0		1		1			40	0	0	1	0		0	1	0	1	1	0	1	0
+7	1	0	2	2	1	15	1	"Sphinx Gloves"		28	0		1		1			36	0	0	1	0		1	0	0	1	0	0	0	0
+8	1	0	2	2	1	15	1	"Brass Gloves"		32	0		1		1			44	0	0	1	0		0	1	0	1	0	0	1	0
+9	1	0	2	2	1	15	1	"Plate Gloves"		42	0		1		1			50	0	0	1	0		0	1	0	1	0	0	1	0
+10	1	0	2	2	1	15	1	"Vine Gloves"		4	0		1		1			22	0	0	1	0		0	0	1	0	0	0	0	0
+11	1	0	2	2	1	15	1	"Silk Gloves"		14	0		1		1			26	0	0	1	0		0	0	1	0	0	0	0	0
+12	1	0	2	2	1	15	1	"Wind Gloves"		26	0		1		1			32	0	0	1	0		0	0	1	0	0	0	0	0
+13	1	0	2	2	1	15	1	"Spirit Gloves"		38	0		1		1			38	0	0	1	0		0	0	1	0	0	0	0	0
+14	1	0	2	2	1	15	1	"Guardian Gloves"	50	0		1		1			45	0	0	1	0		0	0	1	0	0	0	0	0
+15	1	0	2	2	1	15	1	"Storm Crow Gloves"	70	0		1		1			80	0	0	1	0		0	0	0	1	0	0	0	0
+16	1	0	2	2	1	15	1	"Black Dragon Gloves"	76	0		1		1			74	0	0	1	0		0	1	0	0	0	0	0	0
+17	1	0	2	2	1	15	1	"Dark Phoenix Gloves"	86	0		1		1			80	0	0	1	0		0	2	0	0	0	0	0	0
+18	1	0	2	2	1	15	1	"Grand Soul Gloves"	70	0		1		1			67	0	0	1	0		2	0	0	0	0	0	0	0
+19	1	0	2	2	1	15	1	"Divine Gloves"		72	0		1		1			74	0	0	1	0		0	0	2	0	0	0	0	0
+20	1	0	2	2	1	15	1	"Thunder Hawk Gloves"	88	0		1		1			82	0	0	1	0		0	0	0	1	0	0	0	0
+21	1	0	2	2	1	15	1	"Great Dragon Gloves"	94	0		1		1			86	0	0	1	0		0	2	0	0	0	0	0	0
+22	1	0	2	2	1	15	1	"Dark Soul Gloves"	87	0		1		1			75	0	0	1	0		2	0	0	0	0	0	0	0
+23	1	0	2	2	1	15	1	"Hurricane Gloves"	102	0		1		1			90	0	0	1	0		0	0	0	1	0	0	0	0
+24	1	0	2	2	1	15	1	"Red Spirit Gloves"	84	0		1		1			80	0	0	1	0		0	0	2	0	0	0	0	0
+25	1	0	2	2	1	15	1	"Light Plate Gloves"	42	0		1		1			42	0	0	1	0		0	0	0	0	1	0	0	0
+26	1	0	2	2	1	15	1	"Adamantine Gloves"	57	0		1		1			56	0	0	1	0		0	0	0	0	1	0	0	0
+27	1	0	2	2	1	15	1	"Dark Steel Gloves"	75	0		1		1			70	0	0	1	0		0	0	0	0	1	0	0	0
+28	1	0	2	2	1	15	1	"Dark Master Gloves"	89	0		1		1			78	0	0	1	0		0	0	0	0	1	0	0	0
+//Season 2+
+29	1	0	2	2	1	15	1	"Dragon Knight Gloves"	114	0		1		1			90	1	0	1	380		0	2	0	0	0	0	0	0
+30	1	0	2	2	1	15	1	"Venom Mist Gloves"	111	0		1		1			86	1	0	1	380		2	0	0	0	0	0	0	0
+31	1	0	2	2	1	15	1	"Sylphid Ray Gloves"	111	0		1		1			86	1	0	1	380		0	0	2	0	0	0	0	0
+32	1	0	2	2	1	15	1	"Volcano Gloves"	127	0		1		1			95	1	0	1	380		0	0	0	1	0	0	0	0
+33	1	0	2	2	1	15	1	"Sunlight Gloves"	110	0		1		1			82	1	0	1	380		0	0	0	0	1	0	0	0
+34	1	0	2	2	1	15	1	"Ashcrow Gloves"	61	0		1		1			72	0	0	1	0		0	1	0	0	0	0	0	0
+35	1	0	2	2	1	15	1	"Eclipse Gloves"	61	0		1		1			54	0	0	1	0		1	0	0	0	0	0	0	0
+36	1	0	2	2	1	15	1	"Iris Gloves"		61	0		1		1			59	0	0	1	0		0	0	1	0	0	0	0	0
+37	1	0	2	2	1	15	1	"Valiant Gloves"	91	0		1		1			81	0	0	1	0		0	0	0	1	0	0	0	0
+38	1	0	2	2	1	15	1	"Glorious Gloves"	91	0		1		1			74	0	0	1	0		0	0	0	0	1	0	0	0
+//Season 4+
+39	1	0	2	2	1	15	1	"Violent Wind Gloves"	24	0		1		1			36	0	0	1	0		0	0	0	0	0	1	0	0
+40	1	0	2	2	1	15	1	"Red Wing Gloves"	44	0		1		1			42	0	0	1	0		0	0	0	0	0	1	0	0
+41	1	0	2	2	1	15	1	"Ancient Gloves"	61	0		1		1			54	0	0	1	0		0	0	0	0	0	1	0	0
+42	1	0	2	2	1	15	1	"Demonic Gloves"	70	0		1		1			67	0	0	1	0		0	0	0	0	0	2	0	0
+43	1	0	2	2	1	15	1	"Storm Blitz Gloves"	87	0		1		1			75	1	0	1	380		0	0	0	0	0	2	0	0
+44	1	0	2	2	1	15	1	"Eternal Wing Gloves"	102	0		1		1			86	0	5	0	400		0	0	0	0	0	2	0	0
+45	1	0	2	2	1	15	1	"Titan  Gloves"		100	0		1		1			86	0	5	0	400		0	1	0	0	0	0	0	0
+46	1	0	2	2	1	15	1	"Brave Gloves"		97	0		1		1			86	0	5	0	400		0	1	0	0	0	0	0	0
+47	1	0	2	2	1	15	1	"Phantom  Gloves"	101	0		1		1			86	0	5	0	400		0	0	0	1	0	0	0	0
+48	1	0	2	2	1	15	1	"Destroy Gloves"	99	0		1		1			86	0	5	0	400		0	0	0	1	0	0	0	0
+49	1	0	2	2	1	15	1	"Seraphim Gloves"	100	0		1		1			86	0	5	0	400		0	0	1	0	0	0	0	0
+50	1	0	2	2	1	15	1	"Divine Gloves"		95	0		1		1			86	0	5	0	400		0	0	1	0	0	0	0	0
+51	1	0	2	2	1	15	1	"Royal Gloves"		101	0		1		1			86	0	5	0	400		0	0	0	0	1	0	0	0
+52	1	0	2	2	1	15	1	"Hades Gloves"		100	0		1		1			86	0	5	0	400		1	0	0	0	0	0	0	0
+53	1	0	2	2	1	15	1	"Succubus Gloves "	142	0		1		1			90	0	5	0	400		0	0	0	0	0	3	0	0
+//Season 8+
+54	1	0	2	2	1	15	1	"Valhalla Gloves"	142	0		1		1			90	0	5	0	400		0	3	0	0	0	0	0	0
+55	1	0	2	2	1	15	1	"Cerberus Gloves"	142	0		1		1			90	0	5	0	400		3	0	0	0	0	0	0	0
+56	1	0	2	2	1	15	1	"Erinys Gloves"		142	0		1		1			90	0	5	0	400		0	0	3	0	0	0	0	0
+57	1	0	2	2	1	15	1	"Shiva Gloves"		142	0		1		1			90	0	5	0	400		0	0	0	3	0	0	0	0
+58	1	0	2	2	1	15	1	"Arch Demon Gloves"	142	0		1		1			90	0	5	0	400		0	0	0	0	3	0	0	0
+74	1	0	2	2	1	15	1	"Stormwing Gloves"	142	0		1		1			90	0	5	0	400		0	3	0	0	0	0	0	0
+75	1	0	2	2	1	15	1	"Light Lord Gloves"	142	0		1		1			90	0	5	0	400		0	0	3	0	0	0	0	0
+76	1	0	2	2	1	15	1	"Magic Knight Gloves"	142	0		1		1			90	0	5	0	400		0	0	0	3	0	0	0	0
+//Season 10+
+91	1	0	2	2	1	15	1	"Robust Gloves"		140	0		1		1			28	0	0	1	0		0	0	0	0	0	0	0	1
+92	1	0	2	2	1	15	1	"Gru hill Gloves"	144	0		1		1			44	0	0	1	0		0	0	0	0	0	0	0	1
+93	1	0	2	2	1	15	1	"Princie Gloves"	145	0		1		1			64	0	0	1	0		0	0	0	0	0	0	0	1
+94	1	0	2	2	1	15	1	"Hirat Gloves"		147	0		1		1			74	0	0	1	0		0	0	0	0	0	0	0	1
+95	1	0	2	2	1	15	1	"Sate Gloves"		142	0		1		1			74	0	0	1	0		0	0	0	0	0	0	0	1
+96	1	0	2	2	1	15	1	"Robust Gloves"		150	0		1		1			255	0	0	1	0		0	0	0	0	0	0	0	1
+97	1	0	2	2	1	15	1	"Princie Gloves"	136	0		1		1			255	0	0	1	0		0	0	0	0	0	0	0	1
+98	1	0	2	2	1	15	1	"BA. Knight Gloves"	140	0		1		1			100	0	1	0	400		0	3	0	0	0	0	0	0
+99	1	0	2	2	1	15	1	"BA. Wizard Gloves"	140	0		1		1			100	0	1	0	400		3	0	0	0	0	0	0	0
+100	1	0	2	2	1	15	1	"BA. Elf Gloves"	140	0		1		1			100	0	1	0	400		0	0	0	0	3	0	0	0
+101	1	0	2	2	1	15	1	"BA. Summoner Gloves"	140	0		1		1			100	0	1	0	400		0	0	0	0	0	3	0	0
+102	1	0	2	2	1	15	1	"BA. Magic Gloves"	140	0		1		1			100	0	1	0	400		0	0	0	3	0	0	0	0
+103	1	0	2	2	1	15	1	"BA. Lord Gloves"	140	0		1		1			100	0	1	0	400		0	0	0	0	3	0	0	0
+104	1	0	2	2	1	15	1	"BA. Fighter Gloves"	140	0		1		1			100	0	1	0	400		0	0	0	0	0	0	3	0
+105	1	0	2	2	1	15	1	"BA. Lancer Gloves"	140	0		1		1			100	0	1	0	400		0	0	0	0	0	0	0	3
+114	1	0	2	2	1	15	1	"BA. Knight Gloves"	140	0		1		1			100	0	1	0	400		0	3	0	0	0	0	0	0
+115	1	0	2	2	1	15	1	"BA. Wizard Gloves"	140	0		1		1			100	0	1	0	400		3	0	0	0	0	0	0	0
+116	1	0	2	2	1	15	1	"BA. Elf Gloves"	140	0		1		1			100	0	1	0	400		0	0	0	0	3	0	0	0
+117	1	0	2	2	1	15	1	"BA. Summoner Gloves"	140	0		1		1			100	0	1	0	400		0	0	0	0	0	3	0	0
+118	1	0	2	2	1	15	1	"BA. Magic Gloves"	140	0		1		1			100	0	1	0	400		0	0	0	3	0	0	0	0
+119	1	0	2	2	1	15	1	"BA. Lord Gloves"	140	0		1		1			100	0	1	0	400		0	0	0	0	3	0	0	0
+120	1	0	2	2	1	15	1	"BA. Fighter Gloves"	140	0		1		1			100	0	1	0	400		0	0	0	0	0	0	3	0
+121	1	0	2	2	1	15	1	"BA. Lancer Gloves"	140	0		1		1			100	0	1	0	400		0	0	0	0	0	0	0	3
+EndOfCat
+
+
+
+//ID	Luck	Skill	X	Y	AdOpt.	Level	ON/OFF	Item Name		Cost	BuyWithZen	BuyWithCredits	BuyWithGoldCredits 	Dur	Refi	SkCount	Harmony	EquipLvl	DW/SM   DK/BK   FE/ME  MG/DM   DL/LE   S/BS	RF	GL
+11
+//Season 1+
+0	1	0	2	2	1	15	1	"Bronze Boots"		12	0		1		1			34	0	0	1	0		0	1	0	1	1	0	0	0
+1	1	0	2	2	1	15	1	"Dragon Boots"		54	0		1		1			68	0	0	1	0		0	1	0	1	0	0	0	0
+2	1	0	2	2	1	15	1	"Pad Boots"		4	0		1		1			28	0	0	1	0		1	0	0	1	0	0	0	0
+3	1	0	2	2	1	15	1	"Legendary Boots"	46	0		1		1			42	0	0	1	0		1	0	0	1	0	0	0	0
+4	1	0	2	2	1	15	1	"Bone Boots"		16	0		1		1			30	0	0	1	0		1	0	0	1	0	0	0	0
+5	1	0	2	2	1	15	1	"Leather Boots"		5	0		1		1			30	0	0	1	0		0	1	0	1	1	0	1	0
+6	1	0	2	2	1	15	1	"Scale Boots"		22	0		1		1			40	0	0	1	0		0	1	0	1	1	0	1	0
+7	1	0	2	2	1	15	1	"Sphinx Boots"		30	0		1		1			36	0	0	1	0		1	0	0	1	0	0	0	0
+8	1	0	2	2	1	15	1	"Brass Boots"		32	0		1		1			44	0	0	1	0		0	1	0	1	0	0	1	0
+9	1	0	2	2	1	15	1	"Plate Boots"		42	0		1		1			50	0	0	1	0		0	1	0	1	0	0	1	0
+10	1	0	2	2	1	15	1	"Vine Boots"		5	0		1		1			22	0	0	1	0		0	0	1	0	0	0	0	0
+11	1	0	2	2	1	15	1	"Silk Boots"		15	0		1		1			26	0	0	1	0		0	0	1	0	0	0	0	0
+12	1	0	2	2	1	15	1	"Wind Boots"		27	0		1		1			32	0	0	1	0		0	0	1	0	0	0	0	0
+13	1	0	2	2	1	15	1	"Spirit Boots"		40	0		1		1			38	0	0	1	0		0	0	1	0	0	0	0	0
+14	1	0	2	2	1	15	1	"Guardian Boots"	52	0		1		1			45	0	0	1	0		0	0	1	0	0	0	0	0
+15	1	0	2	2	1	15	1	"Storm Crow Boots"	72	0		1		1			80	0	0	1	0		0	0	0	1	0	0	0	0
+16	1	0	2	2	1	15	1	"Black Dragon Boots"	78	0		1		1			74	0	0	1	0		0	1	0	0	0	0	0	0
+17	1	0	2	2	1	15	1	"Dark Phoenix Boots"	93	0		1		1			80	0	0	1	0		0	2	0	0	0	0	0	0
+18	1	0	2	2	1	15	1	"Grand Soul Boots"	76	0		1		1			67	0	0	1	0		2	0	0	0	0	0	0	0
+19	1	0	2	2	1	15	1	"Divine Boots"		81	0		1		1			74	0	0	1	0		0	0	2	0	0	0	0	0
+20	1	0	2	2	1	15	1	"Thunder Hawk Boots"	92	0		1		1			82	0	0	1	0		0	0	0	1	0	0	0	0
+21	1	0	2	2	1	15	1	"Great Dragon Boots"	98	0		1		1			86	0	0	1	0		0	2	0	0	0	0	0	0
+22	1	0	2	2	1	15	1	"Dark Soul Boots"	95	0		1		1			75	0	0	1	0		2	0	0	0	0	0	0	0
+23	1	0	2	2	1	15	1	"Hurricane Boots"	110	0		1		1			90	0	0	1	0		0	0	0	1	0	0	0	0
+24	1	0	2	2	1	15	1	"Red Spirit Boots"	87	0		1		1			80	0	0	1	0		0	0	2	0	0	0	0	0
+25	1	0	2	2	1	15	1	"Light Plate Boots"	45	0		1		1			42	0	0	1	0		0	0	0	0	1	0	0	0
+26	1	0	2	2	1	15	1	"Adamantine Boots"	60	0		1		1			56	0	0	1	0		0	0	0	0	1	0	0	0
+27	1	0	2	2	1	15	1	"Dark Steel Boots"	83	0		1		1			70	0	0	1	0		0	0	0	0	1	0	0	0
+28	1	0	2	2	1	15	1	"Dark Master Boots"	95	0		1		1			78	0	0	1	0		0	0	0	0	1	0	0	0
+//Season 2+
+29	1	0	2	2	1	15	1	"Dragon Knight Boots"	119	0		1		1			90	1	0	1	380		0	2	0	0	0	0	0	0
+30	1	0	2	2	1	15	1	"Venom Mist Boots"	119	0		1		1			86	1	0	1	380		2	0	0	0	0	0	0	0
+31	1	0	2	2	1	15	1	"Sylphid Ray Boots"	119	0		1		1			86	1	0	1	380		0	0	2	0	0	0	0	0
+32	1	0	2	2	1	15	1	"Volcano Boots"		131	0		1		1			95	1	0	1	380		0	0	0	1	0	0	0	0
+33	1	0	2	2	1	15	1	"Sunlight Boots"	121	0		1		1			82	1	0	1	380		0	0	0	0	1	0	0	0
+34	1	0	2	2	1	15	1	"Ashcrow Boots"		68	0		1		1			72	0	0	1	0		0	1	0	0	0	0	0	0
+35	1	0	2	2	1	15	1	"Eclipse Boots"		68	0		1		1			54	0	0	1	0		1	0	0	0	0	0	0	0
+36	1	0	2	2	1	15	1	"Iris Boots"		68	0		1		1			59	0	0	1	0		0	0	1	0	0	0	0	0
+37	1	0	2	2	1	15	1	"Valiant Boots"		98	0		1		1			81	0	0	1	0		0	0	0	1	0	0	0	0
+38	1	0	2	2	1	15	1	"Glorious Boots"	98	0		1		1			74	0	0	1	0		0	0	0	0	1	0	0	0
+//Season 4+
+39	1	0	2	2	1	15	1	"Violent Wind Boots"	26	0		1		1			36	0	0	1	0		0	0	0	0	0	1	0	0
+40	1	0	2	2	1	15	1	"Red Wing Boots"	46	0		1		1			42	0	0	1	0		0	0	0	0	0	1	0	0
+41	1	0	2	2	1	15	1	"Ancient Boots"		65	0		1		1			54	0	0	1	0		0	0	0	0	0	1	0	0
+42	1	0	2	2	1	15	1	"Demonic Boots"		76	0		1		1			67	0	0	1	0		0	0	0	0	0	2	0	0
+43	1	0	2	2	1	15	1	"Storm Blitz Boots"	95	0		1		1			75	1	0	1	380		0	0	0	0	0	2	0	0
+44	1	0	2	2	1	15	1	"Eternal Wing Boots"	99	0		1		1			86	0	5	0	400		0	0	0	0	0	2	0	0
+45	1	0	2	2	1	15	1	"Titan Boots"		96	0		1		1			86	0	5	0	400		0	1	0	0	0	0	0	0
+46	1	0	2	2	1	15	1	"Brave Boots"		93	0		1		1			86	0	5	0	400		0	1	0	0	0	0	0	0
+47	1	0	2	2	1	15	1	"Phantom Boots"		97	0		1		1			86	0	5	0	400		0	0	0	1	0	0	0	0
+48	1	0	2	2	1	15	1	"Destroy Boots"		94	0		1		1			86	0	5	0	400		0	0	0	1	0	0	0	0
+49	1	0	2	2	1	15	1	"Seraphim Boots"	97	0		1		1			86	0	5	0	400		0	0	1	0	0	0	0	0
+50	1	0	2	2	1	15	1	"Divine Boots"		92	0		1		1			86	0	5	0	400		0	0	1	0	0	0	0	0
+51	1	0	2	2	1	15	1	"Royal Boots"		98	0		1		1			86	0	5	0	400		0	0	0	0	1	0	0	0
+52	1	0	2	2	1	15	1	"Hades Boots"		94	0		1		1			86	0	5	0	400		1	0	0	0	0	0	0	0
+53	1	0	2	2	1	15	1	"Succubus Boots "	140	0		1		1			90	0	5	0	400		0	0	0	0	0	3	0	0
+//Season 6+
+59	1	0	2	2	1	15	1	"Sacred Boots"		50	0		1		1			52	0	0	1	0		0	0	0	0	0	0	1	0
+60	1	0	2	2	1	15	1	"Storm Hard Boots"	62	0		1		1			68	0	0	1	0		0	0	0	0	0	0	1	0
+61	1	0	2	2	1	15	1	"Piercing Boots"	82	0		1		1			82	0	0	1	0		0	0	0	0	0	0	1	0
+72	1	0	2	2	1	15	1	"Storm Jahad Boots"	62	0		1		1			255	0	0	1	0		0	0	0	0	0	0	1	0
+73	1	0	2	2	1	15	1	"Phoenix Soul Boots"	119	0		1		1			88	0	0	1	0		0	0	0	0	0	0	1	0
+//Season 8+
+54	1	0	2	2	1	15	1	"Valhalla Boots"	140	0		1		1			90	0	5	0	400		0	3	0	0	0	0	0	0
+55	1	0	2	2	1	15	1	"Cerberus Boots"	140	0		1		1			90	0	5	0	400		3	0	0	0	0	0	0	0
+56	1	0	2	2	1	15	1	"Erinys Boots"		140	0		1		1			90	0	5	0	400		0	0	3	0	0	0	0	0
+57	1	0	2	2	1	15	1	"Shiva Boots"		140	0		1		1			90	0	5	0	400		0	0	0	3	0	0	0	0
+58	1	0	2	2	1	15	1	"Arch Demon Boots"	140	0		1		1			90	0	5	0	400		0	0	0	0	3	0	0	0
+74	1	0	2	2	1	15	1	"Stormwing Boots"	140	0		1		1			90	0	5	0	400		0	3	0	0	0	0	0	0
+75	1	0	2	2	1	15	1	"Light Lord Boots"	140	0		1		1			90	0	5	0	400		0	0	3	0	0	0	0	0
+76	1	0	2	2	1	15	1	"Magic Knight Boots"	140	0		1		1			90	0	5	0	400		0	0	0	3	0	0	0	0
+//Season 10+
+91	1	0	2	2	1	15	1	"Robust Boots"		140	0		1		1			28	0	0	1	0		0	0	0	0	0	0	0	1
+92	1	0	2	2	1	15	1	"Gru hill Boots"	144	0		1		1			44	0	0	1	0		0	0	0	0	0	0	0	1
+93	1	0	2	2	1	15	1	"Princie Boots"		145	0		1		1			64	0	0	1	0		0	0	0	0	0	0	0	1
+94	1	0	2	2	1	15	1	"Hirat Boots"		147	0		1		1			74	0	0	1	0		0	0	0	0	0	0	0	1
+95	1	0	2	2	1	15	1	"Sate Boots"		142	0		1		1			74	0	0	1	0		0	0	0	0	0	0	0	1
+96	1	0	2	2	1	15	1	"Robust Boots"		150	0		1		1			255	0	0	1	0		0	0	0	0	0	0	0	1
+97	1	0	2	2	1	15	1	"Princie Boots"		136	0		1		1			255	0	0	1	0		0	0	0	0	0	0	0	1
+98	1	0	2	2	1	15	1	"BA. Knight Boots"	140	0		1		1			100	0	1	0	400		0	3	0	0	0	0	0	0
+99	1	0	2	2	1	15	1	"BA. Wizard Boots"	140	0		1		1			100	0	1	0	400		3	0	0	0	0	0	0	0
+100	1	0	2	2	1	15	1	"BA. Elf Boots"		140	0		1		1			100	0	1	0	400		0	0	0	0	3	0	0	0
+101	1	0	2	2	1	15	1	"BA. Summoner Boots"	140	0		1		1			100	0	1	0	400		0	0	0	0	0	3	0	0
+102	1	0	2	2	1	15	1	"BA. Magic Boots"	140	0		1		1			100	0	1	0	400		0	0	0	3	0	0	0	0
+103	1	0	2	2	1	15	1	"BA. Lord Boots"	140	0		1		1			100	0	1	0	400		0	0	0	0	3	0	0	0
+104	1	0	2	2	1	15	1	"BA. Fighter Boots"	140	0		1		1			100	0	1	0	400		0	0	0	0	0	0	3	0
+105	1	0	2	2	1	15	1	"BA. Lancer Boots"	140	0		1		1			100	0	1	0	400		0	0	0	0	0	0	0	3
+114	1	0	2	2	1	15	1	"BA. Knight Boots"	140	0		1		1			100	0	1	0	400		0	3	0	0	0	0	0	0
+115	1	0	2	2	1	15	1	"BA. Wizard Boots"	140	0		1		1			100	0	1	0	400		3	0	0	0	0	0	0	0
+116	1	0	2	2	1	15	1	"BA. Elf Boots"		140	0		1		1			100	0	1	0	400		0	0	0	0	3	0	0	0
+117	1	0	2	2	1	15	1	"BA. Summoner Boots"	140	0		1		1			100	0	1	0	400		0	0	0	0	0	3	0	0
+118	1	0	2	2	1	15	1	"BA. Magic Boots"	140	0		1		1			100	0	1	0	400		0	0	0	3	0	0	0	0
+119	1	0	2	2	1	15	1	"BA. Lord Boots"	140	0		1		1			100	0	1	0	400		0	0	0	0	3	0	0	0
+120	1	0	2	2	1	15	1	"BA. Fighter Boots"	140	0		1		1			100	0	1	0	400		0	0	0	0	0	0	3	0
+121	1	0	2	2	1	15	1	"BA. Lancer Boots"	140	0		1		1			100	0	1	0	400		0	0	0	0	0	0	0	3
+EndOfCat
+
+
+
+//ID	Luck	Skill	X	Y	AdOpt.	Level	ON/OFF	Item Name			Cost	BuyWithZen	BuyWithCredits	BuyWithGoldCredits 	Dur	Refi	SkCount	Harmony	EquipLvl	DW/SM   DK/BK   FE/ME  MG/DM   DL/LE   S/BS	RF	GL
+12
+//Season 1+
+0	1	0	3	2	1	15	1	"Wings of Elf"			100	0		1		1			200	0	0	0	180		0	0	1	0	0	0	0	0
+1	1	0	5	3	1	15	1	"Wings of Heaven"		100	0		1		1			200	0	0	0	180		1	0	0	1	0	0	0	0
+2	1	0	5	2	1	15	1	"Wings of Satan"		100	0		1		1			200	0	0	0	180		0	1	0	1	0	0	0	0
+3	1	0	5	3	1	15	1	"Wings of Spirits"		150	0		1		1			200	0	0	0	215		0	0	2	0	0	0	0	0
+4	1	0	5	3	1	15	1	"Wings of Soul"			150	0		1		1			200	0	0	0	215		2	0	0	0	0	0	0	0
+5	1	0	3	3	1	15	1	"Wings of Dragon"		150	0		1		1			200	0	0	0	215		0	2	0	0	0	0	0	0
+6	1	0	4	2	1	15	1	"Wings of Darkness"		150	0		1		1			200	0	0	0	215		0	0	0	1	0	0	0	0
+7	0	0	1	1	0	0	0	"Orb of Twisting Slash"		47	0		1		1			0	0	0	0	0		0	1	0	1	0	0	0	0
+8	0	0	1	1	0	0	0	"Healing Orb"			8	0		1		1			0	0	0	0	0		0	0	1	0	0	0	0	0
+9	0	0	1	1	0	0	0	"Orb of Greater Fortitude"	13	0		1		1			0	0	0	0	0		0	0	1	0	0	0	0	0
+10	0	0	1	1	0	0	0	"Orb of Greater Damage"		18	0		1		1			0	0	0	0	0		0	0	1	0	0	0	0	0
+11	0	0	1	1	0	0	0	"Orb of Summoning"		3	0		1		1			0	0	0	0	0		0	0	1	0	0	0	0	0
+12	0	0	1	1	0	0	0	"Orb of Rageful Blow"		78	0		1		1			0	0	0	0	0		0	2	0	0	0	0	0	0
+13	0	0	1	1	0	0	0	"Orb of Impale"			20	0		1		1			0	0	0	0	0		0	1	0	1	0	0	0	0
+14	0	0	1	1	0	0	0	"Orb of Greater Fortitude"	60	0		1		1			0	0	0	0	0		0	1	0	0	0	0	0	0
+15	0	0	1	1	0	0	0	"Jewel of Chaos"		12	0		1		1			0	0	0	0	0		1	1	1	1	1	0	0	0
+16	0	0	1	1	0	0	0	"Orb of Fire Slash"		60	0		1		1			0	0	0	0	0		0	0	0	1	0	0	0	0
+17	0	0	1	1	0	0	0	"Orb of Penetration"		64	0		1		1			0	0	0	0	0		0	0	1	0	0	0	0	0
+18	0	0	1	1	0	0	0	"Orb of Ice Arrow"		81	0		1		1			0	0	0	0	0		0	0	2	0	0	0	0	0
+19	0	0	1	1	0	0	0	"Orb of Death Stab"		72	0		1		1			0	0	0	0	0		0	2	0	0	0	0	0	0
+21	0	0	1	2	0	0	0	"Scroll of FireBurst"		74	0		1		1			0	0	0	0	0		0	0	0	0	1	0	0	0
+22	0	0	1	2	0	0	0	"Scroll of Summon"		98	0		1		1			0	0	0	0	0		0	0	0	0	1	0	0	0
+23	0	0	1	2	0	0	0	"Scroll of Critical Damage"	82	0		1		1			0	0	0	0	0		0	0	0	0	1	0	0	0
+24	0	0	1	2	0	0	0	"Scroll of Electric Spark"	92	0		1		1			0	0	0	0	0		0	0	0	0	1	0	0	0
+//Season 2+
+26	0	0	1	1	0	0	0	"Gem of Secret"			1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+30	0	0	1	1	0	0	0	"Bundle of Jewel of Bless"	25	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+31	0	0	1	1	0	0	0	"Budle of Jewel of Soul"	30	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+32	0	0	1	1	0	0	0	"Box of red ribbon"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+33	0	0	1	1	0	0	0	"Box of green ribbon"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+34	0	0	1	1	0	0	0	"Box of blue ribbon"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+35	0	0	1	2	0	0	0	"Scroll of Fire Scream"		102	0		1		1			0	0	0	0	0		0	0	0	0	1	0	1
+//Season 4+
+36	1	0	4	3	1	15	1	"Wing of Storm"			150	0		1		1			220	0	0	0	400		0	3	0	0	0	0	0	0
+37	1	0	4	3	1	15	1	"Wing of Eternal"		150	0		1		1			220	0	0	0	400		3	0	0	0	0	0	0	0
+38	1	0	4	3	1	15	1	"Wing of Illusion"		150	0		1		1			220	0	0	0	400		0	0	3	0	0	0	0	0
+39	1	0	4	3	1	15	1	"Wing of Ruin"			150	0		1		1			220	0	0	0	400		0	0	0	3	0	0	0	0
+40	1	0	2	3	1	15	1	"Cape of Emperor"		150	0		1		1			220	0	0	0	400		0	0	0	0	3	0	0	0
+41	1	0	4	2	1	15	1	"Wing of Curse"			100	0		1		1			200	0	0	0	180		0	0	0	0	0	1	0	0
+42	1	0	4	3	1	15	1	"Wind of Despair"		150	0		1		1			200	0	0	0	215		0	0	0	0	0	2	0	0
+43	1	0	4	3	1	15	1	"Wing of Dimension"		150	0		1		1			220	0	0	0	400		0	0	0	0	0	3	0	0
+44	0	0	1	1	0	0	0	"Crystal of Destruction"	100	0		1		1			0	0	0	0	0		0	2	0	0	0	0	0	0
+45	0	0	1	1	0	0	0	"Crystal of Multi-Shot"		100	0		1		1			0	0	0	0	0		0	0	2	0	0	0	0	0
+46	0	0	1	1	0	0	0	"Crystal of Recovery"		100	0		1		1			0	0	0	0	0		0	0	2	0	0	0	0	0
+47	0	0	1	1	0	0	0	"Crystal of Flame Strike"	100	0		1		1			0	0	0	0	0		0	0	0	1	0	0	0	0
+48	0	0	1	2	0	0	0	"Scroll of Chaotic Diseier"	100	0		1		1			0	0	0	0	0		0	0	0	0	1	0	0	0
+60	0	0	1	1	0	0	1	"Seed (Fire)"			250	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+61	0	0	1	1	0	0	1	"Seed (Water)"			250	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+62	0	0	1	1	0	0	1	"Seed (Ice)"			250	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+63	0	0	1	1	0	0	1	"Seed (Wind)"			250	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+64	0	0	1	1	0	0	1	"Seed (Lightning)"		250	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+65	0	0	1	1	0	0	1	"Seed (Earth)"			250	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+70	0	0	1	1	0	0	0	"Empty Sphere lvl 1"		102	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+71	0	0	1	1	0	0	0	"Empty Sphere lvl 2"		122	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+72	0	0	1	1	0	0	0	"Empty Sphere lvl 3"		132	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+73	0	0	1	1	0	0	0	"Empty Sphere lvl 4"		142	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+74	0	0	1	1	0	0	0	"Empty Sphere lvl 5"		152	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+100	0	0	1	1	0	0	0	"Seed Sphere (Fire)"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+101	0	0	1	1	0	0	0	"Seed Sphere (Water)"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+102	0	0	1	1	0	0	0	"Seed Sphere (Ice)"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+103	0	0	1	1	0	0	0	"Seed Sphere (Wind)"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+104	0	0	1	1	0	0	0	"Seed Sphere (Lightning)"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+105	0	0	1	1	0	0	0	"Seed Sphere (Earth)"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+106	0	0	1	1	0	0	0	"Seed Sphere (Fire)"		2	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+107	0	0	1	1	0	0	0	"Seed Sphere (Water)"		2	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+108	0	0	1	1	0	0	0	"Seed Sphere (Ice)"		2	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+109	0	0	1	1	0	0	0	"Seed Sphere (Wind)"		2	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+110	0	0	1	1	0	0	0	"Seed Sphere (Lightning)"	2	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+111	0	0	1	1	0	0	0	"Seed Sphere (Earth)"		2	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+112	0	0	1	1	0	0	0	"Seed Sphere (Fire)"		3	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+113	0	0	1	1	0	0	0	"Seed Sphere (Water)"		3	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+114	0	0	1	1	0	0	0	"Seed Sphere (Ice)"		3	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+115	0	0	1	1	0	0	0	"Seed Sphere (Wind)"		3	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+116	0	0	1	1	0	0	0	"Seed Sphere (Lightning)"	3	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+117	0	0	1	1	0	0	0	"Seed Sphere (Earth)"		3	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+118	0	0	1	1	0	0	0	"Seed Sphere (Fire)"		4	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+119	0	0	1	1	0	0	0	"Seed Sphere (Water)"		4	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+120	0	0	1	1	0	0	0	"Seed Sphere (Ice)"		4	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+121	0	0	1	1	0	0	0	"Seed Sphere (Wind)"		4	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+122	0	0	1	1	0	0	0	"Seed Sphere (Lightning)"	4	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+123	0	0	1	1	0	0	0	"Seed Sphere (Earth)"		4	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+124	0	0	1	1	0	0	0	"Seed Sphere (Fire)"		5	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+125	0	0	1	1	0	0	0	"Seed Sphere (Water)"		5	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+126	0	0	1	1	0	0	0	"Seed Sphere (Ice)"		5	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+127	0	0	1	1	0	0	0	"Seed Sphere (Wind)"		5	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+128	0	0	1	1	0	0	0	"Seed Sphere (Lightning)"	5	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+129	0	0	1	1	0	0	0	"Seed Sphere (Earth)"		5	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+130	0	0	2	2	0	0	0	"Small Cape of Lords"		1	0		1		1			200	0	0	0	0		0	0	0	0	1	0	0	0
+131	0	0	3	2	0	0	0	"Small Wings of Curse"		1	0		1		1			200	0	0	0	0		0	0	0	0	0	1	0	0
+132	0	0	3	2	0	0	0	"Small Wings of Elf"		1	0		1		1			200	0	0	0	0		0	0	1	0	0	0	0	0
+133	0	0	3	2	0	0	0	"Small Wings of Heaven"		1	0		1		1			200	0	0	0	0		1	0	0	1	0	0	0	0
+134	0	0	3	2	0	0	0	"Small Wings of Satan"		1	0		1		1			200	0	0	0	0		0	1	0	1	0	0	0	0
+//Season 6+
+49	1	0	2	3	1	15	1	"Cape of Fighter"		120	0		1		1			200	0	0	0	180		0	0	0	0	0	0	1	0
+50	1	0	2	3	1	15	1	"Cape of Overrule"		150	0		1		1			220	0	0	0	400		0	0	0	0	0	0	3	0
+135	0	0	2	2	0	0	0	"Little Warriors Cloak"		1	0		1		1			200	0	0	0	0		0	0	0	0	0	0	1	0
+136	0	0	1	1	0	0	0	"Bundled Jewel of Life"  	72	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+137	0	0	1	1	0	0	0	"Bundled Jewel of Creation"  	78	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+138	0	0	1	1	0	0	0	"Bundled Jewel of Guardian"  	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+139	0	0	1	1	0	0	0	"Bundled Gemstone"  		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+140	0	0	1	1	0	0	0	"Bundled Jewel of Harmony"  	25	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+141	0	0	1	1	0	0	0	"Bundled Jewel of Chaos"  	12	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+142	0	0	1	1	0	0	0	"Bundled Lower Refining Stone"  25	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+143	0	0	1	1	0	0	0	"Bundled Higer Refining Stone"  25	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+//Season 8+
+144	0	0	1	1	0	0	0	"Mithril Fragment"		1	0		1		1			1	0	0	0	0		1	1	1	1	1	1	1	1
+145	0	0	1	1	0	0	0	"Mithril"			1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+146	0	0	1	1	0	0	0	"Elixir Fragment"		1	0		1		1			1	0	0	0	0		1	1	1	1	1	1	1	1
+147	0	0	1	1	0	0	0	"Elixir"			1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+148	0	0	1	1	0	0	0	"Mithril Fragment Bunch"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+149	0	0	1	1	0	0	0	"Elixir Fragment Bunch"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+150	0	0	2	1	0	0	0	"Jewel Combination Frame"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+151	0	0	1	2	0	0	0	"Spirit Powder"			1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+200	0	0	3	3	0	0	1	"Muren's Book of Magic"		300	0		1		1			5	0	0	0	0		1	1	1	1	1	1	1	1
+201	0	0	3	3	0	0	1	"Scroll of Etramu"		300	0		1		1			5	0	0	0	0		1	1	1	1	1	1	1	1
+202	0	0	3	3	0	0	1	"Lorencia Knights' Iron Shield"	300	0		1		1			5	0	0	0	0		1  	1	1	1	1	1	1	1
+203	0	0	3	3	0	0	1	"Iron Shield of the Magic"	300	0		1		1			5	0	0	0	0		1  	1	1  	1  	1  	1  	1	1
+204	0	0	3	3	0	0	1	"Hero Elixir"			300	0		1		1			5	0	0	0	0		1  	1	1	1	1	1	1	1
+205	0	0	3	3	0	0	1	"Brave Hero Elixir"		300	0		1		1			5	0	0	0	0		1  	1	1	1	1	1	1	1
+206	0	0	3	3	0	0	1	"Gladiator's Dagger"		300	0		1		1			5	0	0	0	0		1  	1	1	1	1	1	1	1
+207	0	0	3	3	0	0	1	"Merciless Gladiator's Dagger"	300	0		1		1			5	0	0	0	0		1  	1	1	1	1	1	1	1
+208	0	0	3	3	0	0	1	"Kundun's Madness Blade"	300	0		1		1			1	0	0	0	0		1  	1	1	1	1	1	1	1
+209	0	0	3	3	0	0	1	"Kundun's Magic Spell Scroll"	300	0		1		1			1	0	0	0	0		1  	1	1	1	1	1	1	1
+210	0	0	3	3	0	0	1	"Empire Guardians' Stronghold"	300	0		1		1			1	0	0	0	0		1  	1	1	1	1	1	1	1
+211	0	0	3	3	0	0	1	"Ancient Icarus Scroll"		300	0		1		1			1	0	0	0	0		1  	1	1	1	1	1	1	1
+212	0	0	3	3	0	0	1	"Arca's Prophecy"		300	0		1		1			1	0	0	0	0		1  	1	1	1	1	1	1	1
+213	0	0	3	3	0	0	1	"Antonia's Sword"		300	0		1		1			1	0	0	0	0		1  	1	1	1	1	1	1	1
+214	0	0	3	3	0	0	1	"Kundun's Seal Scroll"		300	0		1		1			1	0	0	0	0		1  	1	1	1	1	1	1	1
+221	0	0	2	2	0	0	1	"Errtel of Anger"		110	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+231	0	0	2	2	0	0	1	"Errtel of Blessing"		115	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+241	0	0	2	2	0	0	1	"Errtel of Integrity"		120	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+251	0	0	2	2	0	0	1	"Errtel of Divinity"		125	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+261	0	0	2	2	0	0	1	"Errtel of Gale"		130	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+262	0	0	2	3	0	15	1	"Cloak of Death"		250	0		1		1			210	0	0	0	290		0	0	0	0	1	0	1	0
+263	0	0	4	3	0	15	1	"Wings of Chaos"		250	0		1		1			210	0	0	0	290		0	2	0	1	0	0	0	0
+264	0	0	4	3	0	15	1	"Wings of Magic"		250	0		1		1			210	0	0	0	290		2	0	0	1	0	2	0	0
+265	0	0	4	3	0	15	1	"Wings of Fire"			250	0		1		1			210	0	0	0	290		0	0	2	0	0	0	0	0
+266	0	0	4	3	0	15	1	"Wings of Conqueror"		250	0		1		1			255	0	0	0	280		2	2	2	1	1	2	1	0
+267	0	0	4	3	0	15	1	"Wings of Angel and Devil"	250	0		1		1			255	0	0	0	350		2	2	2	1	1	2	1	0
+//Season 10+
+268	0	0	4	3	0	15	1	"Wings of Conqueror"		250	0		1		1			220	0	0	0	400		3	3	3	3	3	3	3	1
+269	0	0	2	3	0	15	1	"Cloak of Limit"		250	0		1		1			200	0	0	0	180		0	0	0	0	0	0	0	1
+270	0	0	2	3	0	15	1	"Cloak of Transcendence"	250	0		1		1			220	0	0	0	400		0	0	0	0	0	0	0	3
+271	0	0	1	2	0	0	1	"Spin Step Scroll"		267	0		1		1			0	0	0	0	0		0	0	0	0	0	0	0	1
+272	0	0	1	2	0	0	1	"Obsidian Scroll"		265	0		1		1			0	0	0	0	0		0	0	0	0	0	0	0	1
+273	0	0	1	2	0	0	1	"Magic Pin Scroll"		269	0		1		1			0	0	0	0	0		0	0	0	0	0	0	0	1
+274	0	0	1	2	0	0	1	"Harsh Strike Scroll"		261	0		1		1			0	0	0	0	0		0	0	0	0	0	0	0	1
+275	0	0	1	2	0	0	1	"Shining Peak Scroll"		265	0		1		1			0	0	0	0	0		0	0	0	0	0	0	0	1
+276	0	0	1	2	0	0	1	"Wrath Scroll"			264	0		1		1			0	0	0	0	0		0	0	0	0	0	0	0	1
+277	0	0	1	2	0	0	1	"Breche Scroll"			268	0		1		1			0	0	0	0	0		0	0	0	0	0	0	0	1
+278	0	0	2	2	0	0	1	"Small Cloak of Limit"		260	0		1		1			200	0	0	0	0		0	0	0	0	0	0	0	1
+288	0	0	1	2	0	0	1	"Elemental Rune"		340	0		1		1			1	0	0	0	0		1	1	1	1	1	1	1	1
+EndOfCat
+
+
+
+//ID	Luck	Skill	X	Y	AdOpt.	Level	ON/OFF	Item Name			Cost	BuyWithZen	BuyWithCredits	BuyWithGoldCredits 	Dur	Refi	SkCount	Harmony	EquipLvl	DW/SM   DK/BK   FE/ME  MG/DM   DL/LE   S/BS	RF	GL
+13
+//Season 1+
+0	0	0	1	1	0	0	1	"Guardian Angel"		23	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+1	0	0	1	1	0	0	1	"Imp"				28	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+2	0	0	1	1	0	0	1	"Horn of Uniria"		25	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+3	0	49	1	1	0	0	1	"Horn of Dinorant"		110	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+4	0	62	1	1	0	0	1	"Dark Horse"			218	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+5	0	0	1	1	0	0	1	"Dark Raven"			220	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+7	0	0	1	1	0	0	0	"Contract (Summon)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+8	0	0	1	1	0	15	1	"Ring of Ice"			120	0		1		1			50	0	0	0	0		1	1	1	1	1	1	1	1
+9	0	0	1	1	0	15	1	"Ring of Poison"		117	0		1		1			50	0	0	0	0		1	1	1	1	1	1	1	1
+10	0	0	1	1	0	0	0	"Transformation Ring"		1	0		1		1			200	0	0	0	0		1	1	1	1	1	1	1	1
+11	0	0	1	1	0	0	0	"Order (Guardian/Life Stone)"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+12	0	0	1	1	0	15	1	"Pendant of Lighting"		121	0		1		1			50	0	0	0	0		1	1	1	1	1	1	1	1
+13	0	0	1	1	0	15	1	"Pendant of Fire"		113	0		1		1			50	0	0	0	0		1	1	1	1	1	1	1	1
+14	0	0	1	2	0	0	0	"Lochs Feather"			1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+15	0	0	1	1	0	0	0	"Fruits"			1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+16	0	0	1	2	0	0	0	"Scroll of Archangel"		1	0		1		1			128	0	0	0	0		1	1	1	1	1	1	1	1
+17	0	0	1	2	0	0	0	"Blood Bone"			1	0		1		1			128	0	0	0	0		1	1	1	1	1	1	1	1
+18	0	0	2	2	0	0	0	"Invisibility Cloak"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+19	0	0	1	2	0	0	0	"Absolute Weapon of Archangel"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+20	0	0	1	1	0	0	0	"Wizards Ring"			1	0		1		1			30	0	0	0	0		1	1	1	1	1	1	1	1
+21	0	0	1	1	0	15	1	"Ring of Fire"			130	0		1		1			50	0	0	0	0		1	1	1	1	1	1	1	1
+22	0	0	1	1	0	15	1	"Ring of Earth"			138	0		1		1			50	0	0	0	0		1	1	1	1	1	1	1	1
+23	0	0	1	1	0	15	1	"Ring of Wind"			144	0		1		1			50	0	0	0	0		1	1	1	1	1	1	1	1
+24	0	0	1	1	0	15	1	"Ring of Magic"			147	0		1		1			50	0	0	0	0		1	1	1	1	1	1	1	1
+25	0	0	1	1	0	15	1	"Pendant of Ice"		134	0		1		1			50	0	0	0	0		1	1	1	1	1	1	1	1
+26	0	0	1	1	0	15	1	"Pendant of Wind"		142	0		1		1			50	0	0	0	0		1	1	1	1	1	1	1	1
+27	0	0	1	1	0	15	1	"Pendant of Water"		146	0		1		1			50	0	0	0	0		1	1	1	1	1	1	1	1
+28	0	0	1	1	0	15	1	"Pendant of Ability"		150	0		1		1			50	0	0	0	0		1	1	1	1	1	1	1	1
+29	0	0	2	2	0	0	0	"Armor of Guardsman"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+30	0	0	2	3	0	15	1	"Cape of Lord"			120	0		1		1			200	0	0	0	0		1	1	1	1	1	1	1	1
+31	0	0	1	1	0	0	0	"Spirit"			1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+//Season 2+
+32	0	0	1	1	0	0	0	"Splinter of Armor"		1	0		1		1			1	0	0	0	0		1	1	1	1	1	1	1	1
+33	0	0	1	1	0	0	0	"Bless of Guardian"		1	0		1		1			1	0	0	0	0		1	1	1	1	1	1	1	1
+34	0	0	1	1	0	0	0	"Claw of Beast"			1	0		1		1			1	0	0	0	0		1	1	1	1	1	1	1	1
+35	0	0	1	1	0	0	0	"Fragment of Horn"		1	0		1		1			1	0	0	0	0		1	1	1	1	1	1	1	1
+36	0	0	2	2	0	0	0	"Broken Horn"			1	0		1		1			1	0	0	0	0		1	1	1	1	1	1	1	1
+37	0	0	2	2	0	0	1	"Horn of Fenrir"		1000	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+38	0	0	1	1	0	0	1	"Moonstone Pendant"		21	0		1		1			120	0	0	0	0		1	1	1	1	1	1	1	1
+39	0	0	1	1	0	0	0	"Eilte Transfer Skeleton Ring"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+40	0	0	1	1	0	0	0	"Jack Olantern Ring"		1	0		1		1			100	0	0	0	0		1	1	1	1	1	1	1	1
+41	0	0	1	1	0	0	0	"Transfer Christmas Ring"	1	0		1		1			100	0	0	0	0		1	1	1	1	1	1	1	1
+42	0	0	1	1	0	0	0	"Ring of GM"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+43	0	0	1	1	0	0	0	"Seal of Ascension"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+44	0	0	1	1	0	0	0	"Seal of Wealth"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+45	0	0	1	1	0	0	0	"Seal of Sustenance"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+46	0	0	1	1	0	0	0	"Devil Square Ticket"		1	0		1		1			10	0	0	0	0		1	1	1	1	1	1	1	1
+47	0	0	1	1	0	0	0	"Blood Castle Ticket"		1	0		1		1			10	0	0	0	0		1	1	1	1	1	1	1	1
+48	0	0	1	1	0	0	0	"Kalima Ticket"			1	0		1		1			10	0	0	0	0		1	1	1	1	1	1	1	1
+//Season 4+
+49	0	0	1	1	0	0	0	"Old Scroll"			1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+50	0	0	1	2	0	0	0	"Illusion Sorcerer Covenant"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+51	0	0	2	2	0	0	0	"Scroll of Blood"		1	0		1		1			1	0	0	0	0		1	1	1	1	1	1	1	1
+52	0	0	1	2	0	0	0	"Condor Flame"			1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+53	0	0	1	2	0	0	0	"Condor Feather"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+54	0	0	1	1	0	0	0	"Reset Fruit Strength"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+55	0	0	1	1	0	0	0	"Reset Fruit Quickness"		1	0		1		1			100	0	0	0	0		1	1	1	1	1	1	1	1
+56	0	0	1	1	0	0	0	"Reset Fruit Health"		1	0		1		1			100	0	0	0	0		1	1	1	1	1	1	1	1
+57	0	0	1	1	0	0	0	"Reset Fruit Energy"		1	0		1		1			100	0	0	0	0		1	1	1	1	1	1	1	1
+58	0	0	1	1	0	0	0	"Reset Fruit Control"		1	0		1		1			100	0	0	0	0		1	1	1	1	1	1	1	1
+59	0	0	1	1	0	0	0	"Seal of Mobility"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+60	0	0	1	2	0	0	0	"Indulgence"			1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+61	0	0	1	1	0	0	0	"Illusion Temple Ticket"	1	0		1		1			10	0	0	0	0		1	1	1	1	1	1	1	1
+62	0	0	1	1	0	0	0	"Seal of Healing"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+63	0	0	1	1	0	0	0	"Seal of Divinity"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+64	0	0	1	1	0	0	1	"Demon"				128	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+65	0	0	1	1	0	0	1	"Spirit of Guardian"		128	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+66	0	0	1	1	0	0	0	"Invitation to Santa Village"	1	0		1		1			10	0	0	0	0		1	1	1	1	1	1	1	1
+67	0	0	1	1	0	0	1	"Pet Rudolf"			128	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+68	0	0	1	1	0	0	0	"Snowman Transformation Ring"	1	0		1		1			100	0	0	0	0		1	1	1	1	1	1	1	1
+69	0	0	1	1	0	0	0	"Talisman of Resurrection"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+70	0	0	1	1	0	0	0	"Talisman of Mobility"		1	0		1		1			2	0	0	0	0		1	1	1	1	1	1	1	1
+71	0	0	2	3	0	0	0	"Sword/Mace/Spear"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+72	0	0	2	3	0	0	0	"Staff"				1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+73	0	0	2	3	0	0	0	"Bow/Crossbow"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+74	0	0	2	3	0	0	0	"Scepter"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+75	0	0	2	3	0	0	0	"Stick"				1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+76	0	0	1	1	0	0	1	"Panda Ring"			128	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+80	0	0	1	1	0	0	1	"Pet Panda"			128	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+81	0	0	1	1	0	0	0	"Talisman of Guardian"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+82	0	0	1	1	0	0	0	"Talisman of Item Protection"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+83	0	0	1	1	0	0	0	"Talisman of Wings of Satan"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+84	0	0	1	1	0	0	0	"Talisman of Wings of Heaven"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+85	0	0	1	1	0	0	0	"Talisman of Wings of Elf"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+86	0	0	1	1	0	0	0	"Talisman of Wing of Curse"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+87	0	0	1	1	0	0	0	"Talisman of Cape of Emperor"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+88	0	0	1	1	0	0	0	"Talisman of Wings of Dragon"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+89	0	0	1	1	0	0	0	"Talisman of Wings of Soul"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+90	0	0	1	1	0	0	0	"Talisman of Wings of Spirits"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+91	0	0	1	1	0	0	0	"Talisman of Wing of Despair"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+92	0	0	1	1	0	0	0	"Talisman of Wings of Darkness"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+93	0	0	1	1	0	0	0	"Master Seal of Ascension"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+94	0	0	1	1	0	0	0	"Master Seal of Wealth"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+95	0	0	1	1	0	0	0	"Gladiators Honor"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+96	0	0	1	1	0	0	0	"Seal of Strength"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+97	0	0	1	1	0	0	0	"Item 13-97"			1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+98	0	0	1	1	0	0	0	"Item 13-98"			1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+99	0	0	1	1	0	0	0	"Item 13-99"			1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+103	0	0	1	1	0	0	0	"Party EXP Scroll"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+104	0	0	1	1	0	0	0	"Max AG Boost Aura"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+105	0	0	1	1	0	0	0	"Max SD Boost Aura"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+106	0	0	1	1	0	0	1	"Pet Unicorn"			128	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+107	0	0	1	1	0	0	0	"Lethal Wizards Ring"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+109	0	0	1	1	0	0	0	"Sapphire Ring"			1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+110	0	0	1	1	0	0	0	"Ruby Ring"			1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+111	0	0	1	1	0	0	0	"Topaz Ring"			1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+112	0	0	1	1	0	0	0	"Amethyst Ring"			1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+113	0	0	1	1	0	0	0	"Ruby Necklace"			1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+114	0	0	1	1	0	0	0	"Emerald Necklace"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+115	0	0	1	1	0	0	0	"Sapphire Necklace"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+116	0	0	1	1	0	0	0	"Seal of Wealth"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+117	0	0	1	1	0	0	0	"Minimum Vitality Potion"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+118	0	0	1	1	0	0	0	"Low Vitality Potion"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+119	0	0	1	1	0	0	0	"Medium Vitality Potion"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+120	0	0	1	1	0	0	0	"High Vitality Potion"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+121	0	0	1	1	0	0	0	"Open Ticket to Chaos"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+122	0	0	1	1	0	0	0	"Skeleton Transformation Ring"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+123	0	0	1	1	0	0	1	"Pet Skeleton"			128	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+//Season 6+
+124	0	0	1	1	0	0	0	"Paid Channel Access Ticket"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+125	0	0	1	1	0	0	0	"Open Ticket to Doppelga"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+126	0	0	1	1	0	0	0	"Open Access Ticket to Varka"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+127	0	0	1	1	0	0	0	"Open Ticket to Varka Map"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+128	0	0	1	1	0	0	0	"Hawk Figurine"			1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+129	0	0	1	1	0	0	0	"Goat Figurine"			1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+130	0	0	1	1	0	0	0	"Oak Charm"			1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+131	0	0	1	1	0	0	0	"Maple Charm"			1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+132	0	0	1	1	0	0	0	"Golden Oak Charm"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+133	0	0	1	1	0	0	0	"Golden Maple Charm"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+134	0	0	1	1	0	0	0	"Worn Horseshoe"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+135	0	0	1	1	0	0	0	"1st Lucky Armor Ticket"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+136	0	0	1	1	0	0	0	"1st Lucky Pants Ticket"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+137	0	0	1	1	0	0	0	"1st Lucky Helm Ticket"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+138	0	0	1	1	0	0	0	"1st Lucky Gloves Ticket"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+139	0	0	1	1	0	0	0	"1st Lucky Boots Ticket"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+140	0	0	1	1	0	0	0	"2nd Lucky Armor Ticket"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+141	0	0	1	1	0	0	0	"2nd Lucky Pants Ticket"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+142	0	0	1	1	0	0	0	"2nd Lucky Helm Ticket"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+143	0	0	1	1	0	0	0	"2nd Lucky Gloves Ticket"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+144	0	0	1	1	0	0	0	"2nd Lucky Boots Ticket"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+//Season 8+
+145	0	0	1	1	0	0	0	"Spirit Map Fragment"		1	0		1		1			1	0	0	0	0		1	1	1	1	1	1	1	1
+146	0	0	1	1	0	0	0	"Spirit Map"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+147	0	0	1	1	0	0	0	"Trophies of Battle"		1	0		1		1			1	0	0	0	0		1	1	1	1	1	1	1	1
+148	0	0	1	2	0	0	0	"Green Ink"			1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+149	0	0	1	2	0	0	0	"Blue Ink"			1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+150	0	0	1	2	0	0	0	"Red Ink"			1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+151	0	0	1	2	0	0	0	"Parchment of Soul"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+152	0	0	2	2	0	0	0	"Scroll of Green Oblivion"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+153	0	0	2	2	0	0	0	"Scroll of Blue Oblivion"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+154	0	0	2	2	0	0	0	"Scroll of Red Oblivion"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+155	0	0	2	2	0	0	0	"Scroll of Gray Oblivion"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+156	0	0	2	2	0	0	0	"Sealed Green Oblivion Scroll"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+157	0	0	2	2	0	0	0	"Sealed Blue Oblivion Scroll"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+158	0	0	2	2	0	0	0	"Sealed Red Oblivion  Scroll"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+159	0	0	2	2	0	0	0	"Sealed Gray Oblivion Scroll"	1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+160	0	0	1	1	0	0	0	"Protection Talisman"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+161	0	0	1	1	0	0	0	"Cooperation Talisman"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+163	0	0	1	1	0	0	1	"Robot Knight Ring"		180	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+164	0	0	1	1	0	0	1	"Mini Robot Ring"		180	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+165	0	0	1	1	0	0	1	"Great Heavenly Mage Ring"	180	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+166	0	0	1	1	0	0	0	"Brown Panda Ring"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+169	0	0	1	1	0	0	0	"Decoration Ring"		1	0		1		1			30	0	0	0	0		1	1	1	1	1	1	1	1
+170	0	0	1	1	0	0	0	"Blessed Decoration Ring"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+//Season 9+
+171	0	0	1	1	0	0	0	"Necklace of Agony"		1	0		1		1			60	0	0	0	0		1	1	1	1	1	1	1	1
+172	0	0	1	1	0	0	0	"Solid Symbol"			1	0		1		1			60	0	0	0	0		1	1	1	1	1	1	1	1
+173	0	0	1	1	0	0	0	"Ring of Ultimatum"		1	0		1		1			60	0	0	0	0		1	1	1	1	1	1	1	1
+175	0	0	1	1	0	0	0	"Protector Protection Ring"	1	0		1		1			60	0	0	0	0		1	1	1	1	1	1	1	1
+176	0	0	1	1	0	0	0	"Protection Ring"		1	0		1		1			60	0	0	0	0		1	1	1	1	1	1	1	1
+177	0	0	1	1	0	0	0	"Talisman of Ascension I"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+178	0	0	1	1	0	0	0	"Talisman of Ascension II"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+179	0	0	1	1	0	0	0	"Talisman of Ascension III"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+180	0	0	1	1	0	0	0	"Seal of Ascension II"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+181	0	0	1	1	0	0	0	"Master Seal of Ascension II"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+210	0	0	1	1	0	0	0	"WereRabbit Egg"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+211	0	0	1	1	0	0	0	"Evolution Stone"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+212	0	0	1	1	0	0	0	"Luki"				1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+213	0	0	1	1	0	0	0	"Luki (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+214	0	0	1	1	0	0	0	"Tony"				1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+215	0	0	1	1	0	0	0	"Tony (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+216	0	0	1	1	0	0	0	"Nymph"				1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+217	0	0	1	1	0	0	0	"Nymph (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+218	0	0	1	1	0	0	0	"Safi"				1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+219	0	0	1	1	0	0	0	"Safi (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+220	0	0	1	1	0	0	0	"Lucky Bag Egg"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+221	0	0	1	1	0	0	0	"Fire Flame Ghost Egg"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+222	0	0	1	1	0	0	0	"Golden Goblin Egg"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+223	0	0	1	1	0	0	0	"William"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+224	0	0	1	1	0	0	0	"William (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+225	0	0	1	1	0	0	0	"Paul"				1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+226	0	0	1	1	0	0	0	"Paul (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+227	0	0	1	1	0	0	0	"Chiron"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+228	0	0	1	1	0	0	0	"Chiron (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+229	0	0	1	1	0	0	0	"Wooparoo"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+230	0	0	1	1	0	0	0	"Wooparoo (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+231	0	0	1	1	0	0	0	"Tibetton"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+232	0	0	1	1	0	0	0	"Tibetton (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+233	0	0	1	1	0	0	0	"Witch"				1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+234	0	0	1	1	0	0	0	"Witch (evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+235	0	0	1	1	0	0	0	"Skull"				1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+236	0	0	1	1	0	0	0	"Skull (evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+237	0	0	1	1	0	0	0	"Pumpy"				1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+238	0	0	1	1	0	0	0	"Pumpy (evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+239	0	0	1	1	0	0	0	"Muun Energy Converter"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+240	0	0	1	1	0	0	0	"Wizardry Stone"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+241	0	0	1	1	0	0	0	"Savath"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+242	0	0	1	1	0	0	0	"Savath (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+243	0	0	1	1	0	0	0	"Lycan"				1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+244	0	0	1	1	0	0	0	"Lycan (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+245	0	0	1	1	0	0	0	"Torby"				1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+246	0	0	1	1	0	0	0	"Torby (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+252	0	0	1	1	0	0	0	"Seiren"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+253	0	0	1	1	0	0	0	"Seiren (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+254	0	0	1	1	0	0	0	"Behemoth"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+255	0	0	1	1	0	0	0	"Behemoth (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+256	0	0	1	1	0	0	0	"Loggle"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+257	0	0	1	1	0	0	0	"Loggle (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+258	0	0	1	1	0	0	0	"Mino"				1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+259	0	0	1	1	0	0	0	"Mino (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+260	0	0	1	1	0	0	0	"Hound"				1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+261	0	0	1	1	0	0	0	"Hound (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+262	0	0	1	1	0	0	0	"Trive"				1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+263	0	0	1	1	0	0	0	"Trive (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+264	0	0	1	1	0	0	0	"Vogan"				1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+265	0	0	1	1	0	0	0	"Vogan (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+266	0	0	1	1	0	0	0	"Cyclop"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+267	0	0	1	1	0	0	0	"Cyclop (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+268	0	0	1	1	0	0	0	"Dark Transformation Ring"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+270	0	0	1	1	0	0	0	"Bonf"				1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+271	0	0	1	1	0	0	0	"Bonf (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+272	0	0	1	1	0	0	0	"Hawk"				1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+273	0	0	1	1	0	0	0	"Hawk (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+274	0	0	1	1	0	0	0	"Muty"				1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+275	0	0	1	1	0	0	0	"Muty (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+276	0	0	3	3	0	0	0	"Conqueror's Badge"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+277	0	0	3	3	0	0	0	"Badge of Hardships"		1	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+278	0	0	1	1	0	0	0	"Mantis"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+279	0	0	1	1	0	0	0	"Mantis (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+280	0	0	1	1	0	0	0	"Scolpy"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+281	0	0	1	1	0	0	0	"Scolpy (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+282	0	0	1	1	0	0	0	"Chafer"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+283	0	0	1	1	0	0	0	"Chafer (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+290	0	0	1	1	0	0	0	"Cosplay Girl"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+291	0	0	1	1	0	0	0	"Cosplay Girl (Evolved)"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+292	0	0	1	1	0	0	0	"Cheer Girl"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+293	0	0	1	1	0	0	0	"Cheer Girl (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+294	0	0	1	1	0	0	0	"Sporty Girl"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+295	0	0	1	1	0	0	0	"Sporty Girl (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+296	0	0	1	1	0	0	0	"Baal"				1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+297	0	0	1	1	0	0	0	"Baal (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+298	0	0	1	1	0	0	0	"Gaap"				1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+299	0	0	1	1	0	0	0	"Gaap (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+300	0	0	1	1	0	0	0	"Taaf"				1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+301	0	0	1	1	0	0	0	"Taaf (Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+302	0	0	1	1	0	0	0	"Frozen"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+303	0	0	1	1	0	0	0	"Frozen(Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+304	0	0	1	1	0	0	0	"Loor"				1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+305	0	0	1	1	0	0	0	"Loor(Evolved)"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+306	0	0	1	1	0	0	0	"Purssil"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+307	0	0	1	1	0	0	0	"Purssil(Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+350	0	0	1	1	0	0	0	"Roomy Egg"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+//Season 10+
+351	0	0	2	2	0	0	0	"Armor of Sealed Fury"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+352	0	0	2	2	0	0	0	"Helm of Sealed Fury"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+353	0	0	2	2	0	0	0	"Pants of Sealed Fury"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+354	0	0	2	2	0	0	0	"Boots of Sealed Fury"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+359	0	0	2	2	0	0	0	"Armor of Sealed Transc."	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+360	0	0	2	2	0	0	0	"Helm of Sealed Transc."	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+361	0	0	2	2	0	0	0	"Pants of Sealed Transc."	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+362	0	0	2	2	0	0	0	"Gloves of Sealed Transc."	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+363	0	0	2	2	0	0	0	"Armor of Sealed Flurry"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+364	0	0	2	2	0	0	0	"Helm of Sealed Flurry"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+365	0	0	2	2	0	0	0	"Pants of Sealed Flurry"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+366	0	0	2	2	0	0	0	"Gloves of Sealed Flurry"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+371	0	0	2	2	0	0	0	"Armor of Sealed Extremity"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+372	0	0	2	2	0	0	0	"Boots of Sealed Extremity"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+373	0	0	2	2	0	0	0	"Pants of Sealed Extremity"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+374	0	0	2	2	0	0	0	"Gloves of Sealed Extremity"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+379	0	0	2	2	0	0	0	"Armor of Sealed Conquest"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+380	0	0	2	2	0	0	0	"Helm of Sealed Conquest"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+381	0	0	2	2	0	0	0	"Pants of Sealed Conquest"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+382	0	0	2	2	0	0	0	"Gloves of Sealed Conquest"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+387	0	0	2	2	0	0	0	"Armor of Sealed Honor"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+388	0	0	2	2	0	0	0	"Helm of Sealed Honor"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+389	0	0	2	2	0	0	0	"Pants of Sealed Honor"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+390	0	0	2	2	0	0	0	"Gloves of Sealed Honor"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+391	0	0	2	2	0	0	0	"Armor of Sealed Destruction"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+392	0	0	2	2	0	0	0	"Helm of Sealed Destruction"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+393	0	0	2	2	0	0	0	"Pants of Sealed Destruction"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+394	0	0	2	2	0	0	0	"Boots of Sealed Destruction"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+399	0	0	2	2	0	0	0	"Armor of Sealed Tenacity"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+400	0	0	2	2	0	0	0	"Helm of Sealed Tenacity"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+401	0	0	2	2	0	0	0	"Pants of Sealed Tenacity"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+402	0	0	2	2	0	0	0	"Gloves of Sealed Tenacity"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+407	0	0	2	2	0	0	0	"Ancient Hero's Soul"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+409	0	0	1	1	0	0	0	"Heywood"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+410	0	0	1	1	0	0	0	"Heywood(Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+411	0	0	1	1	0	0	0	"Branch"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+412	0	0	1	1	0	0	0	"Branch(Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+413	0	0	1	1	0	0	0	"Hook"				1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+414	0	0	1	1	0	0	0	"Hook(Evolved)"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+415	0	0	1	1	0	0	0	"Carnifle"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+416	0	0	1	1	0	0	0	"Carnifle(Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+417	0	0	1	1	0	0	0	"Mandora"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+418	0	0	1	1	0	0	0	"Mandora(Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+419	0	0	1	1	0	0	0	"Treat"				1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+420	0	0	1	1	0	0	0	"Treat(Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+421	0	0	1	1	0	0	0	"Rose Spirit"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+422	0	0	1	1	0	0	0	"Rose Spirit(Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+423	0	0	1	1	0	0	0	"Canola Spirit"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+424	0	0	1	1	0	0	0	"Canola Spirit(Evolved)"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+425	0	0	1	1	0	0	0	"Cherry Blos. Spirit"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+426	0	0	1	1	0	0	0	"Cherry Blos. Spirit Evolve"	1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+427	0	0	1	1	0	0	0	"Gigantes"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+428	0	0	1	1	0	0	0	"Gigantes(Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+429	0	0	1	1	0	0	0	"Mammoth"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+430	0	0	1	1	0	0	0	"Mammoth(Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+431	0	0	1	1	0	0	0	"Walker"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+432	0	0	1	1	0	0	0	"Walker(Evolved)"		1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+433	0	0	1	1	0	0	0	"hyesung"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+434	0	0	1	1	0	0	0	"hyesung"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+435	0	0	1	1	0	0	0	"hyesung"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+436	0	0	1	1	0	0	0	"hyesung"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+437	0	0	1	1	0	0	0	"hyesung"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+438	0	0	1	1	0	0	0	"hyesung"			1	0		1		1			255	0	0	0	0		1	1	1	1	1	1	1	1
+EndOfCat
+
+
+
+//ID	Luck	Skill	X	Y	AdOpt.	Level	ON/OFF	Item Name			Cost	BuyWithZen	BuyWithCredits	BuyWithGoldCredits 	Dur	Refi	SkCount	Harmony	EquipLvl	DW/SM   DK/BK   FE/ME  MG/DM   DL/LE   S/BS	RF	GL
+14
+//Season 1+
+0	-1	0	1	1	0	0	0	"Apple"				5	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+1	-1	0	1	1	0	0	0	"Small Healing Potion"		10	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+2	-1	0	1	1	0	0	0	"Healing Potion"		20	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+3	-1	0	1	1	0	0	1	"Large Healing Potion"		30	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+4	-1	0	1	1	0	0	0	"Small Mana Potion"		10	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+5	-1	0	1	1	0	0	0	"Mana Potion"			20	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+6	-1	0	1	1	0	0	1	"Large Mana Potion"		30	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+7	-1	0	1	1	0	0	1	"Siege Potion"			30	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+8	-1	0	1	1	0	0	1	"Antidote"			10	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+9	-1	0	1	2	0	0	0	"Ale"				30	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+10	-1	0	1	2	0	0	0	"Town Portal Scroll"		30	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+11	-1	0	1	1	0	0	0	"Box of Luck"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+12	-1	0	1	1	0	0	0	"Heart"				0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+13	-1	0	1	1	0	0	1	"Jewel of Bless"		150	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+14	-1	0	1	1	0	0	1	"Jewel of Soul"			150	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+15	-1	0	1	1	0	0	0	"Zen"				0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+16	-1	0	1	1	0	0	1	"Jewel of Life"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+17	-1	0	1	1	0	0	0	"Devils Eye"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+18	-1	0	1	1	0	0	0	"Devils Key"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+19	-1	0	1	1	0	0	0	"Devils Invitation"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+20	-1	0	1	1	0	0	0	"Remedy of Love"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+21	-1	0	1	1	0	0	0	"Rena"				0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+22	-1	0	1	1	0	0	1	"Jewel of Creation"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+23	-1	0	1	1	0	0	0	"Scroll of the Emperor"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+24	-1	0	1	2	0	0	0	"Broken Sword"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+25	-1	0	1	1	0	0	0	"Tear of Elf"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+26	-1	0	1	1	0	0	0	"Soul Shard of Wizard"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+28	-1	0	1	1	0	0	0	"Lost Map"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+29	-1	0	1	1	0	0	0	"Symbol of Kundun"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+31	-1	0	1	1	0	0	1	"Jewel of Guardian"		75	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+//Season 2+
+32	-1	0	1	1	0	0	0	"Pink Chocolate Box"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+33	-1	0	1	1	0	0	0	"Red Chocolate Box"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+34	-1	0	1	1	0	0	0	"Blue Chocolate Box"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+35	-1	0	1	1	0	0	0	"Small SD Potion"		50	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+36	-1	0	1	1	0	0	0	"SD Potion"			80	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+37	-1	0	1	1	0	0	1	"Large SD Potion"		100	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+38	-1	0	1	1	0	0	0	"Small Complex Potion"		20	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+39	-1	0	1	1	0	0	0	"Complex Potion"		40	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+40	-1	0	1	1	0	0	1	"Large Complex Potion"		160	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+41	-1	0	1	1	0	0	1	"Gemstone"			150	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+42	-1	0	1	1	0	0	1	"Jewel of Harmony"		150	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+43	-1	0	1	1	0	0	0	"Lower refining stone"		150	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+44	-1	0	1	1	0	0	1	"Higher refining stone"		150	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+45	-1	0	1	1	0	0	0	"Pumpkin of Luck"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+46	-1	0	1	2	0	0	0	"Jack Olantern Bleesings"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+47	-1	0	1	2	0	0	0	"Jack Olantern Wrath"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+48	-1	0	1	2	0	0	0	"Jack Olantern Cry"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+49	-1	0	1	1	0	0	0	"Jack Olantern Food"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+50	-1	0	1	1	0	0	0	"Jack Olantern Drink"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+51	-1	0	1	1	0	0	0	"Chistmas Star"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+52	-1	0	1	1	0	0	0	"GM Gift"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+53	-1	0	1	1	0	0	0	"Talisman of Luck"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+54	-1	0	1	1	0	0	1	"Chaos Card"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+55	-1	0	1	1	0	0	1	"Green Chaos Box"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+56	-1	0	1	1	0	0	1	"Red Chaos Box"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+57	-1	0	1	1	0	0	0	"Purple Chaos Box"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+58	-1	0	1	1	0	0	0	"Rare Item Ticket1"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+59	-1	0	1	1	0	0	0	"Rare Item Ticket2"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+60	-1	0	1	1	0	0	0	"Rare Item Ticket3"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+61	-1	0	1	1	0	0	0	"Rare Item Ticket4"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+62	-1	0	1	1	0	0	0	"Rare Item Ticket5"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+//Season 4+
+63	-1	0	1	1	0	0	0	"Firecracker"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+64	-1	0	1	1	0	0	0	"Cursed Castle Water"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+65	-1	0	1	1	0	0	0	"Death-beam Knight Flame"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+66	-1	0	1	2	0	0	0	"Hell-Miner Horn"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+67	-1	0	1	2	0	0	0	"Dark Phoenix Feather"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+68	-1	0	1	2	0	0	0	"Abyssal Eye"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+70	-1	0	1	1	0	0	0	"Elite Healing Potion"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+71	-1	0	1	1	0	0	0	"Elite Mana Potion"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+72	-1	0	2	2	0	0	0	"Scroll of Quickness"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+73	-1	0	2	2	0	0	0	"Scroll of Defense"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+74	-1	0	2	2	0	0	0	"Scroll of Wrath"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+75	-1	0	2	2	0	0	0	"Scroll of Wizardry"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+76	-1	0	2	2	0	0	0	"Scroll of Health"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+77	-1	0	2	2	0	0	0	"Scroll of Mana"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+78	-1	0	1	1	0	0	0	"Elixir of Strength"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+79	-1	0	1	1	0	0	0	"Elixir of Agility"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+80	-1	0	1	1	0	0	0	"Elixir of Health"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+81	-1	0	1	1	0	0	0	"Elixir of Energy"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+82	-1	0	1	1	0	0	0	"Elixir of Control"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+83	-1	0	1	1	0	0	0	"Rare Item Ticket"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+84	-1	0	1	1	0	0	0	"Cherry Blossom Play-Box"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+85	-1	0	1	2	0	0	0	"Cherry Blossom Wine"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+86	-1	0	1	1	0	0	0	"Cherry Blossom Rice Cake"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+87	-1	0	1	1	0	0	0	"Cherry Blossom Flower Petal"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+88	-1	0	1	2	0	0	0	"White Cherry Blossom Branch"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+89	-1	0	1	2	0	0	0	"Red Cherry Blossom Branch"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+90	-1	0	1	2	0	0	0	"Golden Cherry Blossom Branch"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+91	-1	0	1	1	0	0	0	"Summoner Character Card"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+92	-1	0	1	1	0	0	1	"Chaos Card Gold"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+93	-1	0	1	1	0	0	1	"Chaos Card Rare"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+94	-1	0	1	1	0	0	0	"Medium Elite Healing Potion"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+95	-1	0	1	1	0	0	0	"Chaos Card  Mini"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+96	-1	0	1	1	0	0	0	"Talisman of Chaos Assembly"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+97	-1	0	2	2	0	0	0	"Scroll of Battle"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+98	-1	0	2	2	0	0	0	"Scroll of Strengthener"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+99	-1	0	1	1	0	0	0	"Christmas Firecracker"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+100	-1	0	1	1	0	0	0	"Lucky Coin"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+101	-1	0	1	1	0	0	0	"Suspicious Scrap of Paper"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+102	-1	0	1	1	0	0	0	"Gaions Order"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+103	-1	0	1	1	0	0	0	"First Secromicon Fragment"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+104	-1	0	1	1	0	0	0	"Second Secromicon Fragment"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+105	-1	0	1	1	0	0	0	"Third Secromicon Fragment"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+106	-1	0	1	1	0	0	0	"Fourth Secromicon Fragment"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+107	-1	0	1	1	0	0	0	"Fifth Secromicon Fragment"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+108	-1	0	1	1	0	0	0	"Sixth Secromicon Fragment"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+109	-1	0	1	1	0	0	0	"Complete Secromicon"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+110	-1	0	1	1	0	0	0	"Sign of Dimensions"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+111	-1	0	1	1	0	0	0	"Mirror of Dimensions"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+112	-1	0	1	1	0	0	0	"Silver Key"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+113	-1	0	1	1	0	0	0	"Gold Key"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+114	-1	0	1	1	0	0	0	"Master Skill Reset"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+115	-1	0	1	1	0	0	0	"Stat Adjustment"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+116	-1	0	1	1	0	0	0	"Character Relocation Service"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+117	-1	0	1	1	0	0	0	"Character Rename Service"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+118	-1	0	1	1	0	0	0	"Server Relocation Service"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+119	-1	0	1	1	0	0	0	"Premium Package"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+120	-1	0	1	1	0	0	0	"Goblin Gold Coin"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+121	-1	0	1	1	0	0	0	"Sealed Golden Box"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+122	-1	0	1	1	0	0	0	"Sealed Silver Box"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+123	-1	0	1	1	0	0	0	"Golden Box"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+124	-1	0	1	1	0	0	0	"Silver Box"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+125	-1	0	1	1	0	0	0	"Package Box"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+126	-1	0	1	1	0	0	0	"30-Day Pass"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+127	-1	0	1	1	0	0	0	"90-Day Pass"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+128	-1	0	1	1	0	0	0	"30-Day Pass - Points"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+129	-1	0	1	1	0	0	0	"90-Day Pass - Points"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+130	-1	0	1	1	0	0	0	"3-Hour Pass"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+131	-1	0	1	1	0	0	0	"5-Hour Pass"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+132	-1	0	1	1	0	0	0	"10-Hour Pass"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+133	-1	0	1	1	0	0	0	"Elite SD Potion"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+134	-1	0	1	1	0	0	0	"Package Box A"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+135	-1	0	1	1	0	0	0	"Package Box B"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+136	-1	0	1	1	0	0	0	"Package Box C"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+137	-1	0	1	1	0	0	0	"Package Box D"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+138	-1	0	1	1	0	0	0	"Package Box E"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+139	-1	0	1	1	0	0	0	"Package Box F"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+140	-1	0	1	1	0	0	0	"Scroll of Healing"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+141	-1	0	1	1	0	0	0	"Shining Jewelry Case"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+142	-1	0	1	1	0	0	0	"Elegant Jewelry Case"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+143	-1	0	1	1	0	0	0	"Steel Jewelry Case"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+144	-1	0	1	1	0	0	0	"Old Jewelry Case"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+//Season 6+
+145	-1	0	1	1	0	0	0	"Rare Item Ticket 7"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+146	-1	0	1	1	0	0	0	"Rare Item Ticket 8"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+147	-1	0	1	1	0	0	0	"Rare Item Ticket 9"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+148	-1	0	1	1	0	0	0	"Rare Item Ticket 10"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+149	-1	0	1	1	0	0	0	"Rare Item Ticket 11"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+150	-1	0	1	1	0	0	0	"Rare Item Ticket 12"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+151	-1	0	1	1	0	0	0	"Lv. 1 Letter of Request"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+152	-1	0	1	1	0	0	0	"Lv. 1 Completion Certificate"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+153	-1	0	1	1	0	0	0	"Stardust"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+154	-1	0	1	1	0	0	0	"Kalt Stone"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+155	-1	0	1	1	0	0	0	"Tantaloss Armor"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+156	-1	0	1	1	0	0	0	"Burnt Murderers Club"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+157	-1	0	1	1	0	0	0	"Green Box"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+158	-1	0	1	1	0	0	0	"Red Box"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+159	-1	0	1	1	0	0	0	"Purple Box"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+160	-1	0	1	1	0	0	0	"Jewel of Extension"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+161	-1	0	1	1	0	0	0	"Jewel of Elevation"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+162	-1	0	1	2	0	0	0	"Magic Backpack"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+163	-1	0	1	2	0	0	0	"Vault Expansion Certificate"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+//Season 8+
+169	-1	0	1	1	0	0	0	"RageFighter Character Card"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1	
+170	-1	0	1	2	0	0	0	"Lv. 2 letter of Request"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+171	-1	0	1	2	0	0	0	"Lv. 2 Completion Certificate"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+176	-1	0	1	1	0	0	0	"Death King's Bone"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+177	-1	0	1	1	0	0	0	"Hell Maine's Leather"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+178	-1	0	1	1	0	0	0	"Dark Phoenix Flame"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+179	-1	0	1	1	0	0	0	"Death Beam Knight Soul"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+180	-1	0	1	1	0	0	0	"Ice Walker's Mane"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+181	-1	0	1	1	0	0	0	"Mammoth's Bundle of Fur"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+182	-1	0	1	2	0	0	0	"Giant's Icicle"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+183	-1	0	1	1	0	0	0	"Coolutin's Poison"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+184	-1	0	1	1	0	0	0	"Iron Knight's Heart"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+185	-1	0	1	1	0	0	0	"Dark Mammoth's Horn"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+186	-1	0	1	2	0	0	0	"Dark Giant's Axe"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+187	-1	0	1	1	0	0	0	"Dark Coolutin's Blood"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+188	-1	0	1	4	0	0	0	"Dark Iron Knight's Sword"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+189	-1	0	1	1	0	0	0	"Elemental Talisman of Luck"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+190	-1	0	1	1	0	0	0	"Elemental Talisman of Chaos"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+191	-1	0	1	1	0	0	0	"Sonic Combination Note"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+192	-1	0	1	1	0	0	0	"Cyclone Combination Note"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+193	-1	0	1	1	0	0	0	"Blast Combination Note"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+194	-1	0	1	1	0	0	0	"Magma Combination Note"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+195	-1	0	1	1	0	0	0	"Horn Combination Note"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+196	-1	0	1	1	0	0	0	"Angelic Combination Note"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+197	-1	0	1	1	0	0	0	"Devil Cross Combination Note"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+198	-1	0	1	1	0	0	0	"Miracle Combination Note"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+199	-1	0	1	1	0	0	0	"Spite Combination Note"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+200	-1	0	1	1	0	0	0	"Asura Combination Note"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+201	-1	0	1	1	0	0	0	"Thunder Combination Note"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+202	-1	0	1	1	0	0	0	"Soul Combination Note"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+209	-1	0	1	1	0	0	0	"Tradeable Seal"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+210	-1	0	1	1	0	0	0	"Summon Scroll (Lv1)"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+211	-1	0	1	1	0	0	0	"Summon Scroll (Lv2)"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+212	-1	0	1	1	0	0	0	"Summon Scroll (Lv3)"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+213	-1	0	1	1	0	0	0	"Summon Scroll (Lv4)"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+//Season 9+
+215	-1	0	1	1	0	0	0	"Card Piece"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+216	-1	0	1	1	0	0	0	"Card Deck"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+217	-1	0	1	1	0	0	0	"Titan's Anger"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+218	-1	0	1	1	0	0	0	"Tantalose's Punishment"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+219	-1	0	1	1	0	0	0	"Erohim's Nightmare"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+220	-1	0	1	1	0	0	0	"Hell Maine's Insanity"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+221	-1	0	1	1	0	0	0	"Kundun's Greed"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+222	-1	0	1	1	0	0	0	"Unique Accessory Box"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+223	-1	0	1	1	0	0	0	"Cursed Castle Water"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+224	-1	0	1	1	0	0	0	"Bless of Light (Greater)"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+225	-1	0	1	1	0	0	0	"Scroll Master of Defense"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+226	-1	0	1	1	0	0	0	"Scroll Master of Wizardry"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+227	-1	0	1	1	0	0	0	"Scroll Master of Health"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+228	-1	0	1	1	0	0	0	"Scroll Master of Mana"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+229	-1	0	1	1	0	0	0	"Scroll Master of Wrath"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+230	-1	0	1	1	0	0	0	"Scroll Master of Recovery"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+231	-1	0	1	1	0	0	0	"Scroll Master of Battle"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+232	-1	0	1	1	0	0	0	"Scroll Master of Strenghener"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+233	-1	0	1	1	0	0	0	"Unique Weapon Box"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+234	-1	0	1	1	0	0	0	"Monster Summoning Scroll"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+235	-1	0	1	1	0	0	0	"Scroll of Swiftness Master"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+236	-1	0	1	1	0	0	0	"Reward Jar"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+237	-1	0	1	1	0	0	0	"Reward Jar"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+238	-1	0	1	1	0	0	0	"Reward Jar"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+239	-1	0	1	1	0	0	0	"Reward Jar"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+240	-1	0	1	1	0	0	0	"Reward Jar"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+241	-1	0	1	1	0	0	0	"Valuable Reward Jar"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+242	-1	0	1	1	0	0	0	"Golden Apple"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+243	-1	0	1	1	0	0	0	"Golden Apple(2)"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+244	-1	0	1	1	0	0	0	"Evomon Summoning Scroll"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+245	-1	0	1	1	0	0	0	"Tetra Crystal (Greater)"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+246	-1	0	1	1	0	0	0	"Tetra Crystal (Standard)"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+247	-1	0	1	1	0	0	0	"Tetra Crystal (Minor)"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+248	-1	0	1	1	0	0	0	"Minor Evomon Box"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+249	-1	0	1	1	0	0	0	"Standard Evomon Box"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+250	-1	0	1	1	0	0	0	"Greater Evomon Box"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+251	-1	0	1	1	0	0	0	"Luxurious Evomon Box"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+252	-1	0	1	1	0	0	0	"Magnificent Evomon Box"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+253	-1	0	1	1	0	0	0	"Legendary Evomon Box"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+254	-1	0	1	1	0	0	0	"Gift of Henchmen"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+256	-1	0	1	1	0	0	0	"Gift of Knights"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+257	-1	0	1	1	0	0	0	"Gift of High Knights"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+258	-1	0	1	1	0	0	0	"Minor Devil's Box"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+259	-1	0	1	1	0	0	0	"Devil's Box"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+260	-1	0	1	1	0	0	0	"High Devil's Box"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+261	-1	0	1	1	0	0	0	"Guardsman's Box"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+262	-1	0	1	1	0	0	0	"Guardman Captain's Box"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+263	-1	0	1	1	0	0	0	"Bless of Light (Low Grade)"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+264	-1	0	1	1	0	0	0	"Bless of Light (Middle Grade)"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+277	-1	0	1	1	0	0	0	"Special Card"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+278	-1	0	1	1	0	0	0	"Summoning Scroll Fragment"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+//Season 10+
+279	-1	0	1	1	0	0	0	"Master EXP Potion (5)"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+280	-1	0	1	1	0	0	0	"Master EXP Potion (6)"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+281	-1	0	1	1	0	0	0	"Grow Lancer Character Card"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+282	-1	0	1	1	0	0	0	"Mastery Box(Minor)"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+283	-1	0	1	1	0	0	0	"Mastery Box(Standard)"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+284	-1	0	1	1	0	0	0	"Mastery Box(Greater)"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+285	-1	0	1	1	0	0	0	"Ruud"				0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+286	-1	0	1	1	0	0	0	"Pentagram Box"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+287	-1	0	1	1	0	0	0	"Mastery Reward Chest(2000)"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+288	-1	0	1	1	0	0	0	"Mastery Reward Chest(1000)"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+289	-1	0	1	1	0	0	0	"Mastery Reward Chest(500)"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+290	-1	0	1	1	0	0	0	"Elemental Powder"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+293	-1	0	1	1	0	0	0	"Elemental Capsule(Normal)"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+296	-1	0	1	1	0	0	0	"Capsule(Fire)"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+309	-1	0	1	1	0	0	0	"Fragment of Radianc slot (1)"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+310	-1	0	1	1	0	0	0	"Fragment of Radianc slot (2)"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+311	-1	0	1	1	0	0	0	"Fragment of Radianc slot (3)"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+312	-1	0	1	1	0	0	0	"Fragment of Radianc slot (4)"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+316	-1	0	1	1	0	0	0	"Scroll of Radiance slot"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+320	-1	0	1	1	0	0	0	"Blessing of Spirit"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+336	-1	0	1	1	0	0	0	"Mastery Reward Chest(100)"	0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+337	-1	0	1	1	0	0	0	"Capsule(Earth)"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+338	-1	0	1	1	0	0	0	"Capsule(Water)"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+339	-1	0	1	1	0	0	0	"Capsule(Wind)"			0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+340	-1	0	1	1	0	0	0	"Capsule(Darkness)"		0	0		1		1			0	0	0	0	0		1	1	1	1	1	1	1	1
+EndOfCat
+
+
+
+//ID	Luck	Skill	X	Y	AdOpt.	Level	ON/OFF	Item Name			Cost	BuyWithZen	BuyWithCredits	BuyWithGoldCredits 	Dur	Refi	SkCount	Harmony	EquipLvl	DW/SM   DK/BK   FE/ME  MG/DM   DL/LE   S/BS	RF	GL
+15
+//Season 1+
+0	-1	0	1	2	0	0	1	"Scroll of Poison"		30	0		1		1			0	0	0	0	0		1	0	0	1	0	0	0	0
+1	-1	0	1	2	0	0	1	"Scroll of Lighting"		13	0		1		1			0	0	0	0	0		1	0	0	1	0	0	0	0
+3	-1	0	1	2	0	0	1	"Scroll of Fire Ball"		5	0		1		1			0	0	0	0	0		1	0	0	1	0	1	0	0
+4	-1	0	1	2	0	0	1	"Scroll of Flame"		35	0		1		1			0	0	0	0	0		1	0	0	1	0	0	0	0
+5	-1	0	1	2	0	0	1	"Scroll of Teleport"		17	0		1		1			0	0	0	0	0		1	0	0	0	0	0	0	0
+6	-1	0	1	2	0	0	1	"Scroll of Ice"			25	0		1		1			0	0	0	0	0		1	0	0	1	0	1	0	0
+7	-1	0	1	2	0	0	1	"Scroll of Twister"		40	0		1		1			0	0	0	0	0		1	0	0	1	0	0	0	0
+8	-1	0	1	2	0	0	1	"Scroll of Evil Spirit"		50	0		1		1			0	0	0	0	0		1	0	0	1	0	0	0	0
+9	-1	0	1	2	0	0	1	"Scroll of Hellfire"		60	0		1		1			0	0	0	0	0		1	0	0	1	0	0	0	0
+10	-1	0	1	2	0	0	1	"Scroll of Power Wave"		9	0		1		1			0	0	0	0	0		1	0	0	1	0	1	0	0
+11	-1	0	1	2	0	0	1	"Scroll of Aqua Beam"		74	0		1		1			0	0	0	0	0		1	0	0	1	0	0	0	0
+12	-1	0	1	2	0	0	1	"Scroll of Cometfall"		80	0		1		1			0	0	0	0	0		1	0	0	1	0	0	0	0
+13	-1	0	1	2	0	0	1	"Scroll of Inferno"		88	0		1		1			0	0	0	0	0		1	0	0	1	0	0	0	0
+14	-1	0	1	2	0	0	1	"Scroll of Teleport Ally"	83	0		1		1			0	0	0	0	0		2	0	0	0	0	0	0	0
+15	-1	0	1	2	0	0	1	"Scroll of Soul Barrier"	77	0		1		1			0	0	0	0	0		1	0	0	0	0	0	0	0
+16	-1	0	1	2	0	0	1	"Scroll of Decay"		96	0		1		1			0	0	0	0	0		2	0	0	0	0	0	0	0
+17	-1	0	1	2	0	0	1	"Scroll of Ice Storm"		93	0		1		1			0	0	0	0	0		2	0	0	0	0	0	0	0
+18	-1	0	1	2	0	0	1	"Scroll of Nova"		100	0		1		1			0	0	0	0	0		2	0	0	0	0	0	0	0
+//Season 4+
+19	-1	0	1	2	0	0	1	"Chain Lightning Parchment"	75	0		1		1			0	0	0	0	0		0	0	0	0	0	1	0	0
+20	-1	0	1	2	0	0	1	"Drain Life Parchment"		35	0		1		1			0	0	0	0	0		0	0	0	0	0	1	0	0
+21	-1	0	1	2	0	0	1	"Lightning Shock Parchment"	93	0		1		1			0	0	0	0	0		0	0	0	0	0	1	0	0
+22	-1	0	1	2	0	0	1	"Damage Reflection Parchment"	80	0		1		1			0	0	0	0	0		0	0	0	0	0	1	0	0
+23	-1	0	1	2	0	0	1	"Berserker Parchment"		83	0		1		1			0	0	0	0	0		0	0	0	0	0	1	0	0
+24	-1	0	1	2	0	0	1	"Sleep Parchment"		40	0		1		1			0	0	0	0	0		0	0	0	0	0	1	0	0
+26	-1	0	1	2	0	0	1	"Weakness Parchment"		93	0		1		1			0	0	0	0	0		0	0	0	0	0	2	0	0
+27	-1	0	1	2	0	0	1	"Innovation Parchment"		111	0		1		1			0	0	0	0	0		0	0	0	0	0	2	0	0
+28	-1	0	1	2	0	0	1	"Scroll of Wizardry Enhance"	100	0		1		1			0	0	0	0	220		2	0	0	0	0	0	0	0
+29	-1	0	1	2	0	0	1	"Scroll of Gigantic Storm"	100	0		1		1			0	0	0	0	220		0	0	0	1	0	0	0	0
+//Season 6+
+30	-1	0	1	2	0	0	1	"Chain Drive Parchment"		80	0		1		1			0	0	0	0	150		0	0	0	0	0	0	1	0
+31	-1	0	1	2	0	0	1	"Dark Side Parchment"		100	0		1		1			0	0	0	0	180		0	0	0	0	0	0	1	0
+32	-1	0	1	2	0	0	1	"Dragon Roar Parchment"		90	0		1		1			0	0	0	0	150		0	0	0	0	0	0	1	0
+33	-1	0	1	2	0	0	1	"Dragon Slasher Parchment"	100	0		1		1			0	0	0	0	200		0	0	0	0	0	0	1	0
+34	-1	0	1	2	0	0	1	"Ignore Defense Parchment"	100	0		1		1			0	0	0	0	120		0	0	0	0	0	0	1	0
+35	-1	0	1	2	0	0	1	"Increase Health Parchment"	90	0		1		1			0	0	0	0	80		0	0	0	0	0	0	1	0
+36	-1	0	1	2	0	0	1	"Increase Block Parchment"	70	0		1		1			0	0	0	0	50		0	0	0	0	0	0	1	0
+EndOfCat

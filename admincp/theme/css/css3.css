@@ -1,0 +1,21 @@
+.jqstooltip {
+	 position: absolute;
+	left: 0px;
+	top: 0px;
+	visibility: hidden;
+	background: rgb(0, 0, 0) transparent;
+	background-color: rgba(0,0,0,0.75);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000, endColorstr=#99000000)";
+	color: white;
+	font: 11px arial, san serif;
+	text-align: left;
+	white-space: nowrap;
+	padding: 5px;
+}
+
+.jqsfield {
+	 color: white;
+	font: 10px arial, san serif;
+	text-align: left;
+}

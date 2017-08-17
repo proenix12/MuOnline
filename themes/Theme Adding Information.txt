@@ -1,0 +1,235 @@
+1) Make sure theme content size is not less then 600px! Important! ( If it is then website visualy wont look good. )
+2) Make sure theme has "<!DOCTYPE html>" on top of index.php
+3) Delete all old php codes from theme if it has been taken from other web engine !
+4) Fix image links, css links, js links in theme with "/themes/<?php echo $mvcore['theme_dir'];?>/" or "/themes/THEME_FOLDER_NAME/"
+
+5) Head Section ( Copy All! & Replace With Existing )
+----------------------------------
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="Keywords" content="Massively multiplayer online games, mmo, rpg online games, games, game, free online games, Webzen, new slogan, next generation, MVCore, Mu Online, Mu, Game, Online, Server, Play, For, Free, Season, s2, s3, s4, s5, s6, s7, s8, s9, blade master, grand master, hight elf, dimension master, duel master, lord emperor, fist master, massive portal promotion, Jump Start with fully-Geared High leveled characters, Skip the low, Jump to hight,Top-notch, high level avatars">
+<meta name="description" content="MuOnline Private Server Website" />
+<title><?php echo $mvcore['title'];?></title> <!-- Can edit from AdminCP -->
+<link rel="shortcut icon" href="system/engine_images/favi.png" /> <!-- MVCore ICO -->
+<script src="//code.jquery.com/jquery-1.10.2.js"></script> <!-- JS-->
+<?php include('system/engine_css/mvcore_style.php'); ?> <!-- Engine CSS -->
+<!-- Theme Original CSS, JS Below -->
+=================================================================================================
+
+6) Put This Include In Body Section After "<body>" ( Is Loading Item Option Visual )
+----------------------------------
+<?php include('system/theme_inc/inc.item_viewer.php'); ?> <!-- Item View JS -->
+=================================================================================================
+
+7) Outputs slider images, just put the code in css frame. ( Image add and size can manage from AdminCP )
+----------------------------------
+<?php include('system/theme_inc/inc.slider.php'); ?> <!-- Slider Image Output -->
+=================================================================================================
+
+8) Server Status ( Online = Green / Offline = Red )
+----------------------------------
+<?php echo $fn_serverStatus_GS; ?> <!-- Game Server Status Output -->
+<?php echo $fn_serverStatus_GS2; ?> <!-- Game Server2 Status Output -->
+<?php echo $fn_serverStatus_JS; ?> <!-- Join Server Status Output -->
+<?php echo $fn_serverStatus_CS; ?> <!-- Connect Server Status Output -->
+
+Will Output 1 Or 0
+----------------------------------
+$fn_serverStatus_GS_true_false
+$fn_serverStatus_GS2_true_false
+$fn_serverStatus_JS_true_false
+$fn_serverStatus_CS_true_false
+=================================================================================================
+
+9) Include Server Time ( Ex: 4:29:34 PM (Fri) )
+----------------------------------
+<?php include('system/theme_inc/inc.date.php'); ?> <!-- Server Time Output -->
+=================================================================================================
+
+10) Include Top Characters,Guilds,Statistics
+----------------------------------
+<?php include('system/theme_inc/inc.top_guilds.php'); ?> <!-- Top 10 Guilds -->
+<?php include('system/theme_inc/inc.top_characters.php'); ?> <!-- Top 10 Characters -->
+<?php include('system/theme_inc/inc.statistic.php'); ?> <!-- Statistics -->
+<?php include('system/theme_inc/inc.last_market_items.php'); ?> <!-- Market Latest Items -->
+<?php include('system/theme_inc/inc.event_timer.php'); ?> <!-- Event Timer -->
+<?php include('system/theme_inc/inc.forum_latest_posts.php'); ?> <!-- Latest Forum Posts -->
+<?php include('system/theme_inc/inc.forum_latest_topics.php'); ?> <!-- Latest Forum Topics -->
+=================================================================================================
+
+11) Simple Info Scripts
+----------------------------------
+<?php echo $_SESSION['username']; ?> <!-- Logged In Username -->
+<?php echo $mvcore['money_name1']; ?> <!-- Money Name 1 ( Credits ) -->
+<?php echo $mvcore['money_name2']; ?> <!-- Money Name 2 ( Gold Credits ) -->
+=================================================================================================
+
+12) Output Data Scripts
+----------------------------------
+<?php echo $mvc_Money_credits; ?> <!-- Money Val ( Credits ) -->
+<?php echo $mvc_Money_goldcredits; ?> <!-- Money 2 Val ( Gold Credits ) -->
+<?php echo $mvc_Money_wcoins; ?> <!-- Money 3 Val ( wCoins ) -->
+<?php echo $mvc_Money_VaultZen; ?> <!-- Money 4 Val ( Vault Zen ) -->
+<?php echo $mvc_Users_online; ?> <!-- Users Online -->
+<?php echo $mvc_total_Accounts; ?> <!-- Total Accounts -->
+<?php echo $mvc_total_Characters; ?> <!-- Total Characters -->
+<?php echo $mvc_total_Guilds; ?> <!-- Total Guilds -->
+=================================================================================================
+
+13) Login Scripts ( Simple Login On Theme )
+----------------------------------
+	<?php if($_SESSION['user_login'] != 'ok') { ?>
+		<!-- Contains Login Inputs... -->
+		<form method="post" action="">
+			<input type="text" name="usern" value="">
+			<input type="password" name="passn" value="">
+			<button name="loginacc" type="submit">LOG IN</button>
+		</form>
+	<?php } else { ?>
+		<!-- Contains User Data,Links & Extra Page Links -->
+	<?php } ?>
+=================================================================================================
+
+14) Language ( Can Be Made Any Language As Long As File Exists With That name ex: lv,ru,eng,spn... )
+----------------------------------
+<form action="" method="POST">
+	<select name="mvclangc" class="mvcore-select-main" onchange="this.form.submit()" style="width:100px !important;">
+		<option value="eng" <?php if($_SESSION['mvcoreLang']=='eng'){echo'selected';}else{};?>>English</option>
+	</select>
+</form>
+=================================================================================================
+
+15) Social Link href ( Put The PHP In href="" )
+----------------------------------
+<?php echo $mvcore['yt_s_url']; ?> <!-- YouTube URL -->
+<?php echo $mvcore['fb_s_url']; ?> <!-- FaceBook URL -->
+<?php echo $mvcore['tw_s_url']; ?> <!-- Twitter URL -->
+<?php echo $mvcore['gp_s_url']; ?> <!-- Google+ URL -->
+<?php echo $mvcore['rss_s_url']; ?> <!-- RSS URL -->
+=================================================================================================
+
+16) Advertise Spot Scripts ( Add In Website )
+----------------------------------
+<?php echo $mvcore['ads_spt_728x90']; ?> <!-- Leaderboard ( 728 x 90 ) -->
+<?php echo $mvcore['ads_spt_468x60']; ?> <!-- Banner ( 468 x 60 ) -->
+<?php echo $mvcore['ads_spt_300x600']; ?> <!-- Large Skycraper ( 300 x 600 ) -->
+<?php echo $mvcore['ads_spt_300x250']; ?> <!-- Medium Rectangle ( 300 x 250 ) -->
+=================================================================================================
+
+17) LINKS ( Ready href links ) ( Link Names Are With Translate php )
+----------------------------------
+<!-- =-=-= For Public Menu ( Contains PHP To Hide Link If Page Disabled In AdminCP ) =-=-= -->
+<?php if($mvcore['News']=='on') { ?><a href="-id-News.html"><?php echo''.theme_link_news.''; ?></a><?php } ?>
+<?php if($mvcore['Register']=='on' && $_SESSION['user_login'] != 'ok') { ?><a href="-id-Register.html"><?php echo''.theme_link_register.''; ?></a><?php } ?>
+<?php if($mvcore['Downloads']=='on') { ?><a href="-id-Downloads.html"><?php echo''.theme_link_downloads.''; ?></a><?php } ?>
+<?php if($mvcore['Rankings']=='on') { ?><a href="-id-Rankings.html"><?php echo''.theme_link_rankings.''; ?></a><?php } ?>
+<?php if($mvcore['Statistics']=='on') { ?><a href="-id-Statistics.html"><?php echo''.theme_link_statistics.''; ?></a><?php } ?>
+<?php if($mvcore['Login'] == 'on' && $_SESSION['user_login'] != 'ok') { ?><a href="-id-Login.html"><?php echo''.theme_link_login.''; ?></a><?php } ?>
+<?php if($mvcore['Banned_Players']=='on') { ?><a href="-id-Banned_Players.html"><?php echo''.theme_link_bannedp.''; ?></a><?php } ?>
+<?php if($mvcore['Gallery']=='on') { ?><a href="-id-Gallery.html"><?php echo''.theme_link_gallery.''; ?></a><?php } ?>
+<?php if($mvcore['Market']=='on') { ?><a href="-id-Market.html"><?php echo''.theme_link_market.''; ?></a><?php } ?>
+<?php if($mvcore['Webshop']=='on') { ?><a href="-id-Webshop.html"><?php echo''.theme_link_webshop.''; ?></a><?php } ?>
+<?php if($mvcore['Forum']=='on') { ?><a target="blank" href="<?php echo $mvcore['forurl']; ?>"><?php echo''.theme_link_forum.''; ?></a><?php } ?>
+
+
+<!-- =-=-= Lost Password Page ( Contains PHP To Show If Not Logged IN. ) =-=-= -->
+<?php if($mvcore['Lost_Password']=='on'  && $_SESSION['user_login'] != 'ok') { ?><a href="-id-Lost_Password.html"><?php echo''.theme_link_lpassword.''; ?></a><?php } ?>
+
+<!-- =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= -->
+<!-- =-=-= Used For User Menu ( Shortest Way ) =-=-= -->
+
+<!-- =-=-= Main Pages For Users ( Contains PHP To Hide Link If Page Disabled In AdminCP ) =-=-= -->
+<?php if($mvcore['Account_Settings']=='on') { ?><a href="-id-Account_Settings.html"><?php echo''.theme_link_accountsett.''; ?></a><?php } ?>
+<?php if($mvcore['Payment_System']=='on') { ?><a href="-id-Payment_System.html" style="color:red;"><?php echo''.theme_link_paymentsys.''; ?></a><?php } ?>
+<a href="-id-Game_Panel.html">Game Panel</a>
+<?php if($mvcore['Vote']=='on') { ?><a href="-id-Vote.html"><?php echo''.theme_link_freevote.''; ?></a><?php } ?>
+
+
+<!-- =-=-= Extra Pages For Users ( Contains PHP To Hide Link If Page Disabled In AdminCP ) =-=-= -->
+<?php if($mvcore['Hide_Information']=='on') { ?><a href="-id-Hide_Information.html"><?php echo''.theme_link_hideiteminfo.''; ?></a><?php } ?>
+<?php if($mvcore['Friend_System']=='on') { ?><a href="-id-Friend_System.html"><?php echo''.theme_link_friendsys.''; ?></a><?php } ?>
+<?php if($mvcore['Exchange_System']=='on') { ?><a href="-id-Exchange_System.html"><?php echo''.theme_link_exchangesys.''; ?></a><?php } ?>
+<?php if($mvcore['GM_Buy']=='on') { ?><a href="-id-GM_Buy.html"><?php echo''.theme_link_gmbuy.''; ?></a><?php } ?>
+<?php if($mvcore['Vip_Buy']=='on') { ?><a href="-id-Vip_Buy.html"><?php echo''.theme_link_vipbuy.''; ?></a><?php } ?>
+<?php if($mvcore['Lottery_System']=='on') { ?><a href="-id-Lottery_System.html"><?php echo''.theme_link_lotterysys.''; ?></a><?php } ?>
+<?php if($mvcore['Warehouse']=='on') { ?><a href="-id-Warehouse.html"><?php echo''.theme_link_warehouse.''; ?></a><?php } ?>
+<?php if($mvcore['Castle_Siege_Register']=='on') { ?><a href="-id-Castle_Siege_Register.html"><?php echo''.theme_link_caslesiegereg.''; ?></a><?php } ?>
+<?php if($mvcore['Item_Upgrade_System']=='on') { ?><a href="-id-Item_Upgrade_System.html"><?php echo''.theme_link_itemupgradesys.''; ?></a><?php } ?>
+<?php if($mvcore['anc_mob_onoff']=='on') { ?><a href="-id-Ancient_Exchange.html"><?php echo''.theme_link_ancexc.''; ?></a><?php } ?>
+<?php if($mvcore['My_Sponsor']=='on') { ?><a href="-id-My_Sponsor.html"><?php echo''.theme_link_mysponsors.''; ?></a><?php } ?>
+<?php if($mvcore['Scramble']=='on') { ?><a href="-id-Scramble_Event.html"><?php echo''.theme_link_scrambleevent.''; ?></a><?php } ?>
+
+
+<!-- =-=-= Admin/GM Panel Buttons ( Secured With PHP ) =-=-= -->
+<?php if($_SESSION['admin_panel']=='ok') { ?><a target="_blank" href="-id-admincp-id-Dashboard.html">Admin Panel</a><?php } ?>
+<?php if($_SESSION['gm_panel']=='ok') { ?><a href="-id-gm_cp-id-GM_Panel.html"><?php echo''.theme_link_gmpanel.''; ?></a><?php } ?>
+
+
+<!-- =-=-= LogOut Link ( Logout User And Sends To News Page. ) =-=-= -->
+<a href="-id-exitacc.html"><?php echo''.theme_link_logout.''; ?></a> <!-- Logout -->
+
+<!-- =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-= -->
+
+<!-- =-=-= Game Panel Pages ( Character Manage, Contains PHP To Hide Link If Page Disabled In AdminCP ) =-=-= -->
+<?php if($mvcore['Reset_Character']=='on') { ?><a href="-id-user_cp-id-Reset_Character.html"><?php echo''.theme_link_resetchar.''; ?></a><?php } ?>
+<?php if($mvcore['Add_Stats']=='on') { ?><a href="-id-user_cp-id-Add_Stats.html"><?php echo''.theme_link_addstats.''; ?></a><?php } ?>
+<?php if($mvcore['Grand_Reset']=='on') { ?><a href="-id-user_cp-id-Grand_Reset.html"><?php echo''.theme_link_grandreset.''; ?></a><?php } ?>
+<?php if($mvcore['Clear_PK_Status']=='on') { ?><a href="-id-user_cp-id-Clear_PK_Status.html"><?php echo''.theme_link_clearpk.''; ?></a><?php } ?>
+<?php if($mvcore['Master_Grand_Reset']=='on') { ?><a href="-id-user_cp-id-Master_Grand_Reset.html"><?php echo''.theme_link_mastegr.''; ?></a><?php } ?>
+<?php if($mvcore['Buy_Level']=='on') { ?><a href="-id-user_cp-id-Buy_Level.html"><?php echo''.theme_link_levelbuy.''; ?></a><?php } ?>
+<?php if($mvcore['Warp_Character']=='on') { ?><a href="-id-user_cp-id-Warp_Character.html"><?php echo''.theme_link_warpcharr.''; ?></a><?php } ?>
+<?php if($mvcore['Reset_SkillTree']=='on') { ?><a href="-id-user_cp-id-Reset_SkillTree.html"><?php echo''.theme_link_resetskilltree.''; ?></a><?php } ?>
+<?php if($mvcore['Rename_Character']=='on') { ?><a href="-id-user_cp-id-Rename_Character.html"><?php echo''.theme_link_renamechar.''; ?></a><?php } ?>
+<?php if($mvcore['Sell_Free_Stats']=='on') { ?><a href="-id-user_cp-id-Sell_Free_Stats.html"><?php echo''.theme_link_sellfreesetat.''; ?></a><?php } ?>
+<?php if($mvcore['Change_Class']=='on') { ?><a href="-id-user_cp-id-Change_Class.html"><?php echo''.theme_link_changeclass.''; ?></a><?php } ?>
+<?php if($mvcore['Reset_Stats']=='on') { ?><a href="-id-user_cp-id-Reset_Stats.html"><?php echo''.theme_link_resetstats.''; ?></a><?php } ?>
+<?php if($mvcore['Inventory_Clear']=='on') { ?><a href="-id-user_cp-id-Inventory_Clear.html"><?php echo''.theme_link_invclear.''; ?></a><?php } ?>
+<?php if($mvcore['Buy_Level_Up_Points']=='on') { ?><a href="-id-user_cp-id-Buy_Level_Up_Points.html"><?php echo''.theme_link_buylup.''; ?></a><?php } ?>
+=================================================================================================
+
+18) Page NAME Output ( Ex:News )
+----------------------------------
+<?php include('system/engine_ptext.php'); ?> <!-- Used To Output Page Names -->
+=================================================================================================
+
+19) Page Content Output
+----------------------------------
+<?php include('system/engine_pages.php'); ?> <!-- Used To Output Page Content -->
+=================================================================================================
+
+20) Page Copyrights ( Important! )
+----------------------------------
+Copyright &copy; 2015-<?php echo date("Y"); ?> <a href="http://mvcore.lv">MVCore Website <?php echo $MVCoreVersion;?></a><br>
+=================================================================================================
+
+
+DONE.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,186 @@
+----------------------------------------------------
+Update 1.17.0 ( Critical Bugs Fixes )
+==============
+1) Fixed acps & added check admin case
+2) Fixed VIP Inject bug
+3) Fixed Postback Cheating Bugs
+4) Fixed PayGol Return URL
+5) Fixed Warp Character Cost Bug
+
+----------------------------------------------------
+Update 1.16.9 ( Critical AdminCP Access Fix )
+==============
+1) Updated Engine.php With Fixed Login Code
+
+----------------------------------------------------
+Update 1.16.8 ( Anti SQL Inject )
+==============
+1) Updated Engine.php ( Checking Post,Get,Request Data For Injection Symbols )
+
+Note: Some pages might not work properly ( Visible Code Or Error MSG ) if so report to me.
+
+----------------------------------------------------
+Update 1.16.7 ( Final Release Version OF MVCore GEN1 )
+==============
+1) Fixed Lost Password Answer Checking Case Of NULL
+2) Fixed Webshop Class Case With New Item.txt Recode.
+3) Webshop Skill Error Check Fixed
+4) Fixed Webshop Socket Buy Count Problem ( Error Checking With Count Case )
+5) Removed Licensing System.
+6) Added Fixed Htaccess file
+7) Lost Password MD5 Case added.
+
+Development on MVCore GEN2 v2.0.0 has been started 
+New Version PHP
+PDO With 4 Types Of Connections
+Updated Codes
+Much Better Secutiry
+Open Source 90% ( 10% Obfuscated )
+----------------------------------------------------
+
+Update 1.16.6 ( Super )
+==============
+1) Latest Market Item Buy Bug Fixed.
+2) Install Page Recoded To Support Multiple Instalations Depending On Case.
+3) Added Multi DB Support In Install System
+4) Me Database Configuration File Moved To System Folder ( Less Editing )
+5) Fixed Install Page Visual & Systematic Bugs.
+6) MultiDB System Database Table/Column Install From AdminCP Added.
+7) Master Grand Reset Page, Removed Visual Mistake
+8) Fixed Season 1 Registration Issue.
+9) Added Md5 Function Support "dbo_fn_md5()"
+10) Announce System Config Folder Included In MultiDB System
+11) Fixed User Income Money Save Value In AdminCP & Market.
+12) Recoded Webshop AD option config ( Can ON/OFF From Item File )
+13) Update AdminCP Responsible CSS & Included MultiDB Switch
+14) Added Protection On acps.php ( AdminCP POSTS )
+15) Fixed item Related Page Loading ( include issue )
+16) Removed Class Buttons In Rankings ( Speeds Up Page Load By 50% )
+17) Fixed & 100% Tested Season 1 Support ( Might Support Other Version Below S1 Also )
+18) Fixed Case With MultiDB On Pagseguro ( Will Support Only Default DB )
+19) Added Season 10 Items In Item File.
+
+Note: This update now is with more secutiry, several fixes and page updates in visual/speed that increases mvcore value even more.
+In order to get the update you will need to contact me on skype!
+
+----------------------------------------------------
+Update 1.16.5 MDB
+==============
+1) Fixed Login System ( Password Checking & Empty Login )
+2) Payment System "Interkassa" Fixed
+3) CHMOD Added For WebHost Support.
+4) Register Account Limiter Updated.
+5) Vip Ranking Added ( List Of Vip Accounts )
+6) Game Panel Module Information Visuals Added
+7) New Settings In VIP Manage ( Check & Apply New Settings )
+8) Recoded AdminCP Page To Be Responsible.
+9) Added Socket Check If Doesnt Exist In DB
+10) Coded VIP System Settings With ON OFF Option If Enter Value 0
+11) MD5 Updated With More PW Hash Cases & Salt Option.
+12) Recoded Item.txt content ( Now Contains More Options )
+13) Multi Database Support ( From 1 To 8 Dbs )
+14) Increased Page Loading Speed ( Loading Much Faster Then Before )
+15) Fixed Loading If Banned Player List Is Over 100+
+16) Fixed Downloads Page Table Visual Bug.
+17) Season 10 Support ( On Test, Report To Me Any Problems Found! )
+
+NOTE: Eng.php has been modified, check by 12.07.2016 date.
+WARNING: Item.txt has been changed, it is req. to check and edit depending on your old item file!!
+
+----------------------------------------------------
+Update 1.16.4 HF
+==============
+1) Engine Validation Fix On www.mvcore.lv Status Case.
+2) InterKassa Currency Code Option Added.
+
+----------------------------------------------------
+Update 1.16.4
+==============
+1) Webshop Socket Option Disabled If Buy Updated With If sk Enabled Check.
+2) Webshop Added Option Check In PHP For Level, Ad, Luck, SKill Buy
+3) Increased Page Loading Speed
+4) Started Season 1 Support Coding ( WARNING: S1 Support Under Test )
+5) Fixed Bonus Column When Bonus Disabled In Character Reset.
+6) Fixed Visual Text Mistake In AdminCP PaymentSystem Page.
+7) Updated Query Execute, Added Log Save & Extra Secutiry.
+8) User, GM, Admin Log Save When Login Updated With IP.
+9) Fixed Scramble Timer Issue With Date
+10) Fixed Account Register Limiter The Count Code.
+11) Added Pagseguro Payment System For Brazil Admins
+12) Added Interkasso Payment System For Russians & Others
+13) Fixed AD Option On Rings & Pendants
+14) Procedure Installation Collate Fix
+
+NOTE: Open "customer.txt" file and put there your username of www.mvcore.lv ( without this the website wont work )
+
+WARNING: If Any Bugs Found Since This Update Immediately Report To Me!!
+"In this update i have coded several things without full testing and so might contain human mistakes,
+if you find any mistake, wrong code or non working something then inform me about it, thanks"
+
+----------------------------------------------------
+Update 1.16.3 HF
+==============
+1) Fixed Webshop Socket Option Check If Buy Non-Socket Items
+2) Fixed Rankings Online User Data If Account Dosnt Have Characters.
+
+----------------------------------------------------
+Update 1.16.3
+==============
+1) Gens Table User Column Data Removed ( Not In Use )
+2) Same Socket Type Check in PHP Added.
+3) Skilltree Table Settings Removed Username Choise ( Not In Use )
+4) Updated PayGol IP List For PostBack
+5) Webshop Config "Webshop Excellent On ..." Available New Option "Disables Buy IF Selected"
+6) Webshop Error & Character Market Error Texts Added in system/system_lang/eng.php
+7) Added PHP Check For Disabled Items.
+8) Added PHP Check For Disabled Socket Options.
+9) Added Track Logs In Exchange Page ( system/system_logs/exchangesystem.log ) If Problems Report To Me.
+10) Fixed IMPORTANT BUG In Character Market.
+11) Recoded Reset System LevelUpPoints Bonus ( Now With More Options )
+
+Note: Check For Unselected Configs In Character Reset Page!
+
+----------------------------------------------------
+Update 1.16.2
+==============
+1) Market Recent Category Fixed.
+2) Exchange System Fixed Error To Check For Users Online.
+3) Reset Page New Config "Clean LevelUpPoints With Reset Stats?"
+4) Previus Update Webshop Config Not Saving Fixed.
+5) Fixed PayPal Automatic Credits Rewarding Issue ( Has To Enable CURL In php.ini "extension=php_curl.dll" )
+6) Market & Webshop Category Rename "Accessories" To "Wings, Crystals" ( Eng.php )
+7) Scramble Event Timer Off Interval issue Fixed
+8) Fixed Statistics Gens Contribution Calculation If Varchar.
+9) Added MagicList Clean If Skill Table "MasterSkillTree" Of MuEmu/ExTeam DB In SkillTree Reset Module
+10) Added Fortumo Payment System.
+
+----------------------------------------------------
+Update 1.16.1
+==============
+1) Added More Configs For Item Excellent In Webshop.
+2) Fixed Post Status Return Value.
+3) Fixed Issue With Reset Reward Text In "Vip Buy"
+4) Scramble Start Interval Config Values Fixed.
+5) Webshop Discount Active Interval Included.
+6) Fixed Webshop Item Cost On Load.
+7) Zen Exchange Issue Fixed ( Updated AdminCP )
+8) PayGol Issue With PostBack Fixed.
+9) Removed Luck Option In Rings / Pendants
+
+----------------------------------------------------
+Update 1.16.0
+==============
+1) News Page Main Button Added
+2) Warehouse "Item Upgrade" ON/Off Codes Fixed
+3) Statistics Page Case Season 2 Added
+4) Sorted Register Country Name List ( Credits: MrSenia )
+5) Webshop & Market Hide And Default Category Config Fixed/Made.
+6) Vip Save To File "" Fixed.
+7) Fixed SQL Password Symbol Usage Problem.
+8) Server VIP Expire Date Added.
+9) Ancient Option Buy Cost From Refinary Disable Fixed.
+10) Webshop max socket buy fix.
+11) Added 3 and 5 minutes in scramble interval.
+
+----------------------------------------------------
+Data of older updates has been removed.
